@@ -1,0 +1,236 @@
+Blockchain Letter
+01/21/2026
+Cosmo Jiang, Paul Veradittakit, Jonathan Gieg
+Navigating Crypto in 2026
+MARKET OUTLOOK FOR 2026
+[1]
+,
+[2]
+By Cosmo Jiang, General Partner
+2025 was not a fundamentals-driven year for returns in the crypto markets.  It was a year where macro, positioning, flows and market structure effects were the dominant drivers – particularly for assets outside of Bitcoin.
+Looking at a timeline of the year’s major macro and policy inflection points helps capture why the tape felt so discontinuous.
+The year opened with the U.S. inauguration, which ultimately proved to be a classic “sell-the-news” moment and an early warning shot for volatility.  Subsequent months saw repeated whipsaws in risk appetite – from optimism around a U.S. Strategic Bitcoin Reserve announcement, to renewed pressure from “Liberation Day” tariffs.  Mid-year brought constructive developments, including passage of the GENIUS Act, digital asset treasuries (“DATs”) like Bitmine Immersion taking off, and the onset of Federal Reserve rate cuts, which stabilized sentiment for a few months.
+The fourth quarter marked a decisive break as multiple challenges arose.  The October 10 selloff triggered the largest liquidation cascade in crypto history – larger than during both the Terra/Luna collapse and the FTX unwind – with more than $20 billion in notional positions wiped out.  Markets needed time to digest that shock.  At the same time, a key marginal buyer throughout the year (DATs) began to exhaust incremental purchasing power.  That downward momentum was exacerbated by seasonal pressures, including tax-loss selling (in particular in ETFs and DATs), portfolio rebalancing, and systematic CTA flows into year-end.
+Bitcoin finished 2025 modestly lower, down approximately 6%.  Ethereum declined roughly 11%.  From there, performance deteriorated sharply.  Solana fell 34%, and the broader token universe
+[1]
+(BGCI excluding BTC, ETH, and SOL) declined close to 60%.
+It was an exceptionally narrow market. This dispersion becomes even more stark when looking at return distributions across the token universe.
+Only a small fraction of tokens generated positive returns.  The overwhelming majority experienced deep drawdowns – the median token declined 79%.
+Over A Year-Long Altcoin Bear Market
+Perhaps the most underappreciated reality of 2025 is that the non-bitcoin token market has actually been in a bear market since December 2024.
+Total crypto market capitalization excluding bitcoin, ethereum, and stablecoins peaked in late 2024 and has been in a grinding decline ever since – down approximately 44% through the end of 2025. From this perspective, what appeared to be at least at times a constructive year for bitcoin was, for the rest of the market, a continuation of an unresolved bear market.
+Portfolios with meaningful exposure to mid- and small-cap tokens structurally struggled.
+The divergence between Bitcoin and the broader token market reflects fundamental differences.  Bitcoin benefits from a singular, widely understood thesis – digital gold – and increasingly from mechanical demand driven by sovereigns, governments, ETFs, and corporate treasuries.  Other tokens, by contrast, represent a heterogeneous set of disruptive technologies with less standardized access, less institutional sponsorship, and
+more complex value capture dynamics
+.
+That divergence showed up clearly in price.
+Structural Headwinds Facing Tokens
+Several forces compounded pressure on the broader token complex in 2025.
+1. Value Accrual and Investor Rights
+One of the most persistent challenges was the unresolved question around value accrual.  In traditional equity markets, shareholders benefit from clear legal claims on cash flows, governance, and residual value. Tokens, by contrast, often rely on protocol-level mechanisms enforced by code rather than by governmental body enforced law.
+This year, multiple high-profile cases brought that tension into focus, particularly where token-based ecosystems were acquired or restructured without direct compensation to token holders, including Aave, Tensor and Axelar. These events reverberated across the market, undermining confidence even in projects with comparatively strong token economics.
+Against this backdrop, digital asset equities outperformed tokens, benefiting from clearer paths to value capture at a time when investors were already seeking defensiveness.
+2. Slowing On-Chain Activity
+On-chain fundamentals also softened in the back half of the year.
+Across key indicators – including layer-one revenue, decentralized application fees, and active addresses – activity decelerated.  Stablecoin supply, notably, continued to grow, signaling ongoing adoption of blockchain for payments and settlement.  However, much of the economic value associated with stablecoins accrued to off-chain equity-based businesses rather than to token-based protocols.
+In effect, the base layer of usage persisted, but marginal, pro-cyclical activity declined.  That shift fed directly into token price action.
+3. Rotation of Speculative Capital
+Finally, flows reversed. The marginal capital supporting the broader token universe has historically been speculative retail.  While institutional adoption continues to grow, it remains concentrated primarily in assets available in ETF-format including bitcoin, ethereum, and, toward the end of the year, Solana.
+In 2025, speculative attention rotated to other sectors.
+ETF inflows surged into gold, silver, and emerging thematic trades such as quantum computing, while digital asset ETF flows slowed and turned negative later in the year. This rotation occurred precisely as token breadth was deteriorating, reinforcing downside momentum.
+Sentiment, Positioning, and Historical Context
+By year-end, sentiment had compressed to levels historically associated with capitulation.
+The Fear & Greed Index reached readings last seen during periods of acute stress, including the aftermath of the FTX collapse.  At the same time, perpetual futures funding rates declined, signaling reduced leverage and diminished speculative excess.
+Seasonality also played a role.  December has historically been a weak month for Bitcoin and broader crypto markets, with tax-loss selling, portfolio rebalancing, and liquidity constraints creating mechanical pressure independent of fundamentals.
+Importantly, when viewed through a longer-term lens, the duration of the current non-bitcoin drawdown aligns closely with prior cycles.
+The 2018 and 2022 bear markets lasted approximately 12 to 14 months.  Measured from the late-2024 peak, the current drawdown is now in that same range.  This does not guarantee a bottom, but it does suggest that a significant amount of time and price-based compression has already occurred.
+Why the Setup Improves from Here
+Despite the challenges of 2025, there are several reasons to remain constructively optimistic looking forward.
+First, institutional adoption continues to broaden.  Enterprises are increasingly integrating blockchain into core products – from Robinhood launching tokenized equities to Stripe developing stablecoin infrastructure to JPMorgan tokenizing deposits.  On the capital side, sovereign reserves have been established, and wirehouses, retirement platforms, and large asset managers have meaningfully lowered barriers to participation.
+Second, product-market fit is becoming clearer.  Stablecoins and prediction markets gained breakout attention and adoption as standout use cases in 2025, while broader tokenization and perpetual futures are showing early signs of product-market fit.
+Third, the macro backdrop is supportive.  The U.S. economy remains resilient, with wage growth outpacing inflation and corporate earnings expanding.  Liquidity conditions are improving now that the Fed has stopped quantitative tightening. Declining long-term yields combined with easing monetary policy have historically been constructive for risk assets, including digital assets.
+Finally, penetration remains remarkably low.  As Tom Lee of Bitmine has stated: there are just 4.4 million Bitcoin addresses holding more than $10,000 in value, compared to 900 million of traditional investment accounts globally.  Per a Bank of America institutional investor survey, among professional investment managers 67% still have zero exposure to digital assets.  Even modest shifts in allocation over time represent a meaningful source of potential demand.
+Closing Thoughts
+2025 was a difficult year for much of the token market, characterized by extreme dispersion, stronger performance from the majors, and prolonged weakness outside of bitcoin.  But it was also a year that advanced institutional adoption, clarified product-market fit, and compressed valuations across large segments of the ecosystem.
+A strong fundamental backdrop following a year-long bear market for the broader token universe could present opportunity. With sentiment washed out, leverage reduced, and a significant repricing already behind us, forward-looking setups appear increasingly asymmetric – provided fundamentals stabilize and breadth returns. Periods of dislocation have historically laid the groundwork for the next phase of growth.
+NINE PREDICTIONS FOR 2026
+By Paul Veradittakit, Managing Partner
+#1 Real-World Assets (RWA) Takes-Off
+As of mid-December 2025, RWA total value locked (TVL) reached
+$16.6 billion
+or ~14% of total DeFi TVL.
+Prediction
+:
+– Treasuries and private credit could at least double.
+– Tokenized stocks and equities could grow even faster when the anticipated “Innovation Exemption” under the SEC’s “Project Crypto” debuts.
+– One surprise sector (carbon credits, mineral rights, or energy projects) will catch fire. This sector will likely be characterized by fragmented liquidity, global distribution, and a lack of standards, which blockchain-based markets will help resolve.
+#2 AI Revolutionizes On-chain Security
+AI security and blockchain development tools are getting scary good. Real-time fraud detection,
+95% accurate
+transaction Bitcoin labeling, and instant smart-contract debugging are here, detecting millions in blockchain vulnerabilities.
+Prediction:
+In 2026, picture bigger shifts toward on-chain intelligence with deterministic, verifiable rules taking over smart contract-based governance. The application will scan code in near real-time, spot logic bugs and exploits instantly, and give immediate debugging feedback. The next big unicorn will be an innovative onchain security firm that will 100x the safety game.
+#3 Prediction Markets Are Acquisition Targets
+With
+$28 billion
+traded in 2025’s first ten months, prediction markets are consolidating around institutional infrastructure. We hit an ATH the week of October 20 at
+$2.3 billion
+.
+Prediction:
+A buyout in the industry of more than $1 billion, one that will not involve Polymarket or Kalshi. Winning platforms will build under-the-hood liquidity rails with baked-in market-discovery intelligence that points out where money is hiding and why. Forget shiny new buttons. It’s all about effortlessly giving users superpowers: instant access to hidden pools, smarter routing, and predictive order flow.
+Sports-focused platforms like DraftKings and FanDuel have gone mainstream, partnering with media for real-time odds distribution. Newer entries like NoVig, focused on sports, will expand their presence vertically, and new startups will emerge in APAC, as that is a region to watch.
+#4 AI Becomes Your Personal Crypto Co-Pilot
+Consumer AI platform usage will surge as systems mature, delivering hyper-personalized experiences that meet tailored expectations. Seamless integration makes advanced AI feel effortless, shifting usage from clunky to instant.
+Prediction:
+Platforms like Surf.ai will engage people from crypto-curious individuals to active traders in 2026 via intuitive advanced AI models, proprietary crypto datasets, and multi-step workflow agents. I believe that sophisticated technology and accessible design positions Surf as the go-to crypto research tool, delivering instant, on-chain-backed market insights 4× faster than generic options with other platforms of this type also emerging.
+#5 Bank Titans Gear Up: G7-Pegged Stablecoin Looms
+Ten major banks
+are in the early stages of exploring a consortium stablecoin issuance pegged to G7 currencies. The financial institutions are determining whether an industry-wide stablecoin would likely provide people and institutions with the benefits of digital currencies in compliant, risk-managed ways. Meanwhile, a group of
+ten European banks
+are investigating the issuance of a euro-pegged stablecoin.
+Prediction:
+A consortium of major banks will release their own stablecoin (whether these pilot projects come to fruition in 2026 or a different consortium does).
+#6 Privacy, Payments, Perpetuals: The Institutional Trio
+Privacy tech is booming in institutional usage with the transparency-secrecy combination of Zama, Canton, and other protocols although retail usage isn’t finding traction or scalability. Stablecoins sit at
+$310 billion
+today,
+more than doubling
+market cap since 2023, expanding for
+25 months
+in a row. Perpetual swap contracts already make up ~
+78%
+of crypto derivative volume, and the gap keeps growing between perps and spot options.
+Prediction:
+For privacy, the gap between institutional and retail will widen in 2026. Stablecoins will have a path to $2 trillion+ long-term, hitting at least $500 billion next year, and the momentum for perpetuals will continue in 2026.
+#7 The Institutional Macro View
+As of December 15,
+17.9%
+of BTC holdings now rest in the hands of publicly traded and private companies, ETFs, and countries.
+Prediction:
+2026 won’t be about hype or memes. It will be about consolidation, real compliance, and institutional money being driven by public market liquidity. Crypto will integrate in mainstream platforms, upgrade financial rails, and challenge current incumbents.
+#8 The Biggest Crypto IPO Year Ever
+2025 had
+335
+U.S. IPOs, overall, an increase of 55% from 2024; many of those were crypto-friendly, including nine blockchain IPOs. This includes crypto-native ones like Circle Internet Group with a launch date of
+May 27, 2025
+and crypto-inclusive ones like SPACS; Bitcoin Infrastructure Acquisition Corp, for example, launched on
+December 2, 2025
+.
+Prediction:
+2026 will be an even bigger year for digital asset public listings.  Coinbase says that
+76%
+of companies plan to add tokenized assets in 2026 with some eyeing 5%+ of their entire portfolio. Morpho serves as an example protocol with its
+$8.6 billion TVL
+in November 2025.
+#9 Digital Asset Treasury Consolidation Accelerates
+Back in 2021, fewer than ten public companies owned Bitcoin. By mid-December 2025,
+151
+public companies own
+$95 billion
+with the number rising to
+164
+and
+$148 billion
+when including governments.
+Predictions:
+2026 will see brutal pruning. In each major asset class, only one or two players will dominate. Everyone else gets acquired or left behind except for a longer-tail token winner going along for the ride. It’s going global, too. Japan’s Metaplanet is already aggressive, so the U.S. no longer owns the trend as the global treasury landscape diversifies.
+PANTERA WRAPPED – A LOOK BACK AT 2025
+By Jonathan Gieg, Portfolio Growth Manager
+As we kick off 2026, we expect the year ahead to be even more exciting for crypto than the last.  But before turning the page, we want to take a moment to reflect on what 2025 delivered.
+2025 was a marquee year for Pantera.  We deployed more capital than ever before, led the majority of our new investments, and expanded our global footprint across sectors and geographies that we believe will define the next decade of crypto.  At the same time, our portfolio saw strong public-market validation, with four portfolio company IPOs and major strategic acquisitions.
+Read about the progress we made in 2025
+here
+.
+All the best for 2026,
+@cosmo_jiang
+@Veradittakit
+“Put the alternative back in Alts”
+PANTERA CONFERENCE CALLS
+[4]
+Our investment team hosts monthly conference calls to help educate the community on blockchain.  The team discusses important developments that are happening within the industry and will often invite founders and CEOs of leading blockchain companies to participate in panel discussions.  Below is a list of upcoming calls for which you can register via this
+link
+.
+The Year Ahead
+A discussion of Pantera’s outlook for crypto in the year 2026, including commentary on the markets and themes to look out for.
+Tuesday, January 27, 2026 12:00pm Eastern Standard Time / 18:00 Central European Time / 1:00am Singapore Standard Time
+Please register in advance via this link:
+https://panteracapital.com/future-conference-calls/
+Early-Stage Token Fund Investor Call
+Tuesday, February 10, 2026 12:00pm Eastern Standard Time / 18:00 Central European Time / 1:00am Singapore Standard Time
+Open only to Limited Partners of the fund.
+Pantera Fund V Call
+A deep dive on the compelling investment themes in blockchain and how Fund V is structured to capture value in the evolving digital asset landscape.
+Tuesday, February 24, 2026 12:00pm Eastern Standard Time / 18:00 Central European Time / 1:00am Singapore Standard Time
+https://panteracapital.com/future-conference-calls/
+Join us in learning more about the industry, the opportunities we see on the horizon, and our funds.
+PANTERA FUND V
+We’ve found that most investors view blockchain as an asset class and would prefer to have a manager allocate
+amongst the various asset types.  This compelled us to create Pantera Blockchain Fund (IV) in 2021, a wrapper for the entire spectrum of blockchain assets.  Its successor — Pantera Fund V — is now open for subscriptions.
+Similar to its predecessor, we believe this new fund is the most efficient way to get exposure to blockchain as an asset class.  It is a continuation of the strategies we have employed at Pantera for twelve years across twelve venture and hedge funds.
+Limited Partners have the flexibility to invest in just venture (Class V for “Venture”), or in venture, private tokens, and locked-up treasury tokens (Class P for “Privates”), or the all-in-one Class A.
+[5]
+,
+[6]
+As in all previous Pantera venture funds, we strongly support helping our LPs get access to private deals in this fund.  Fund LPs with capital commitments of $25mm or more will have the option to collectively co-invest in at least 10% of each venture equity, private token, and special opportunity deal that the Fund invests over $10mm in.  There is no management fee or carried interest on co-investments for those with co-investment rights.
+We will endeavor to offer co-investment opportunities, on a capacity available-basis, to other LPs as well.  These co-investment opportunities are subject to 1/10% fees.
+We are now accepting subscriptions for Fund V.  If you’re ready to invest, please click the button below to begin the process.
+If you are new to Fund V and would like to receive additional information, click
+here
+.  We also invite you to join our next call on Pantera Fund V on Tuesday, February 24, at 12:00pm Eastern Time.  You may register
+here
+.
+Pantera donates 1% of revenue from all new funds to
+1% For The Planet
+.
+PANTERA SPECIAL OPPORTUNITIES
+Pantera Special Opportunities Funds allow investors to gain access to event-driven, special situation dealflow.
+With more than twelve years of experience investing across the blockchain ecosystem, we leverage our expertise, deep network, flexible capital structure, and industry leadership to identify and execute on distinctive opportunities.
+Below are examples of special opportunities we’ve engaged in.
+For those who are interested in being notified of future Special Opportunities, please register your interest
+here
+.
+PANTERA OPEN POSITIONS
+Pantera is actively hiring for the following roles:
+Investment Analyst, Liquid Strategies
+– (New York City)
+Director, Capital Formation – US East
+– (New York City)
+Senior Director, Capital Formation – Asia Pacific
+– (Asia Pacific)
+Head of Capital Formation
+– (New York City)
+Capital Formation Associate
+– (New York City)
+Executive Assistant to the Founder, Managing Partner
+– (San Juan)
+Executive Assistant to the Founder, Managing Partner
+– (New York City)
+Content Strategist
+– (New York City)
+If you have a passion for blockchain and want to work in New York City, San Francisco, San Juan, Abu Dhabi, or APAC region, please follow this
+link
+to apply.  Some positions can be done remotely.
+[1]
+Important Disclosures – Certain Sections of This Letter Discuss Pantera’s Advisory Services and Others Discuss Market Commentary.
+Certain sections of this letter discuss the investment advisory business of Pantera Capital Partners LP and its affiliates (“Pantera”), while other sections of the letter consist solely of general market commentary and do not relate to Pantera’s investment advisory business. Pantera has inserted footnotes throughout the letter to identify these differences.
+This section provides educational content and general market commentary
+. Except for specifically-marked sections of this letter, no statements included herein relate to Pantera’s investment advisory services, nor does any content herein reflect or contain any offer of new or additional investment advisory services. This letter is for information purposes only and does not constitute, and should not be construed as, an offer to sell or buy or the solicitation of an offer to sell or buy or subscribe for any securities. Opinions and other statements contained herein do not constitute any form of investment, legal, tax, financial, or other advice or recommendation.
+[2]
+Investment decisions cannot be based solely on the graphs and/or charts presented herein.
+[3]
+The performance of the Bloomberg Galaxy Crypto Index Price (BGCI) does not include the deduction of fees which would reduce performance. Any indices are provided for reference purposes, and only as examples of general market performance. No index is directly comparable to the performance of the Pantera Funds, in part because an index is not actively managed. The investment results of the Pantera Funds are not intended to predict or suggest the future returns of the Pantera Funds.
+[4]
+Important Disclosures – This Section Discusses Pantera’s Advisory Services.
+Information contained in this section relates to Pantera’s investment advisory business. Nothing contained herein should be construed as a recommendation to invest in any security or to undertake an investment advisory relationship, or as any form of investment, legal, tax, or financial advice or recommendation. Prospective investors should consult their own advisors prior to making an investment decision. Pantera has no duty to update these materials or notify recipients of any changes.
+[5]
+The above is presented for illustrative purposes only as a sample of potential opportunities Pantera could evaluate for Fund V and is not intended to limit Pantera’s investment activities in any way. There is no guarantee that similar opportunities will be available, or that Fund V will have similar investments to its predecessor fund.
+[6]
+The terms summarized here are provided for informational purposes only and do not constitute a complete overview of the terms of Fund V. Terms are subject to further review and are qualified in their entirety by Fund V’s offering and governing documents.
+This letter is an informational document that primarily provides educational content and general market commentary.  Except for certain sections specifically marked in this letter, no statements included herein relate specifically to investment advisory services provided by Pantera Capital Partners LP or its affiliates (“Pantera”), nor does any content herein reflect or contain any offer of new or additional investment advisory services.  Nothing contained herein constitutes an investment recommendation, investment advice, an offer to sell, or a solicitation to purchase, any securities in Funds managed by Pantera (the “Funds”) or any entity organized, controlled, or managed by Pantera and therefore may not be relied upon in connection with any offer or sale of securities.  Any offer or solicitation may only be made pursuant to a confidential private offering memorandum (or similar document) which will only be provided to qualified offerees and should be carefully reviewed by any such offerees prior to investing.
+This letter aims to summarize certain developments, articles, and/or media mentions with respect to Bitcoin and other cryptocurrencies that Pantera believes may be of interest.  The views expressed in this letter are the subjective views of Pantera personnel, based on information that is believed to be reliable and has been obtained from sources believed to be reliable, but no representation or warranty is made, expressed, or implied, with respect to the fairness, correctness, accuracy, reasonableness, or completeness of the information and opinions.
+Analyses and opinions contained herein (including market commentary, statements or forecasts) reflect the authors’ judgment as of the date this letter was published, and may contain elements of subjectivity (including certain assumptions) or be based on incomplete information.
+The information contained in this letter is current as of the date indicated at the front of the letter.  Pantera does not undertake to update the information contained herein.
+This letter is not intended to provide, and should not be relied on for accounting, legal, or tax advice, or investment recommendations.  Pantera and its principals have made investments in some of the instruments  discussed in this communication and may in the future make additional investments in connection with such instruments without further notice.
+Certain information contained in this letter constitutes “forward-looking statements” (including predictions), which can be identified by the use of forward-looking terminology such as “may”, “will”, “should”, “expect”, “anticipate”, “target”, “project”, “estimate”, “intend”, “continue”, “believe”, or the negatives thereof or other variations thereon or comparable terminology. Due to various risks and uncertainties, actual events or results or the actual policies, procedures, and processes of Pantera and the performance of the Funds may differ materially from those reflected or contemplated in such forward-looking statements, and no undue reliance should be placed on these forward-looking statements, nor should the inclusion of these statements be regarded as Pantera’s representation that the Funds will achieve any strategy, objectives, or other plans. Past performance is not necessarily indicative of or a guarantee of future results.
+There is no guarantee that investments in any instrument or type of instrument described herein will be profitable – all investments carry the inherent risk of total loss.
+It is strongly suggested that any prospective investor obtain independent advice in relation to any investment, financial, legal, tax, accounting, or regulatory issues discussed herein.  Analyses and opinions contained herein may be based on assumptions that if altered can change the analyses or opinions expressed.  Nothing contained herein shall constitute any representation or warranty as to future performance of any financial instrument, credit, currency rate, or other market or economic measure.

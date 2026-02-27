@@ -1,0 +1,171 @@
+tectonicinvestors.com
+Foundational Memo V:  Robotics
+Robotics represents the next, and one of the most exciting, tectonic shifts in the
+evolution of technology: the migration of intelligence from the digital world into the
+physical one. It is not a cyclical story, nor a narrow automation story, but a
+transformative general-purpose technology that sits at the intersection of energy,
+mobility, artificial intelligence, infrastructure and manufacturing.
+As with prior tectonic shifts - electrification, computing, the internet - adoption
+around robotics will be uneven and nonlinear. But the direction is clear, and the
+impact will be transformative.
+Intelligence is becoming embodied, mobile, and scalable. One of the strongest
+indicators of the transformative platform shift ahead is the behavior of global
+corporate leaders such as Google, Meta, Apple – all of which are aggressively hiring
+robotics talent to position for shift into physical AI.
+What’s Changing?
+Robotics has been discussed for decades. What makes this moment different is
+the acceleration of forces that are structural, economic, and already in motion.
+2
+Today, the economics of the underlying technologies driving the explosion in
+robotics have crossed a critical threshold. When the fully loaded costs of human
+labor - recruitment, training, turnover, downtime, safety, insurance, and variability -
+are compared to robotic total cost of ownership, parity has been reached or
+surpassed in many tasks, turning automation into a rational capital allocation
+decision rather than an experiment.
+The favorable economics indicated by sustained cost declines, combined with the
+technological reliability and convergence of semiconductors, sensors, motors,
+power electronics, and batteries - is making physical AI viable as the technologies
+expand across multiple industries and geographies.
+3
+The Scale of the Opportunity
+What has long been promised is now becoming investable. Even partial penetration
+of “traditional” industries will create multi-trillion dollar outcomes as the economy
+undergoes a structural re-architecture of global labor and production. Industry
+estimates see as much as $500B in hardware sales by 2030; $9T by 2040, and as
+much as $25T by 2050.
+Over the next two years, the financial
+impact at key robotics companies will
+be quite dramatic. A list of 100
+publicly traded humanoid/robotics
+companies from 13 different
+countries will see aggregate
+revenues jump 30% over the next
+two years from 2024 levels, while
+aggregated cash flow will jump by
+82%
+1 for the same 100 stocks,
+evidence of the accelerating build-
+out of the robotics sub-sectors.
+1 Notably, cash flow growth for this group grows even faster, at 95%, if Mag-7 names are excluded.
+4
+Evidence of strong and sustained
+investment in robotics also comes
+from venture capital funding, which
+Pitchbook indicates robotics jumped
+to $8.8B in the 2Q’25, a 170% quarter
+over quarter increase 263% year
+over year increase, with reshoring
+and labor shortages driving record
+robot density, which is currently at
+162 robots per 10,000 workers
+globally, with China at 470 and the US
+at 295.
+Even conservative scenarios suggest
+meaningful scale of humanoid robots,
+ranging from early deployments in
+factories and warehouses for dexterous, human-adjacent tasks (already in place)
+to medium-term adoption across logistics, maintenance, healthcare support, and
+services (pilots in place).
+Among the most interesting areas for advanced humanoid robots to operate in
+are special operations such as “dangerous, dirty and dull” (3D) tasks, considering
+the associated fatality rate and people’s low willingness in doing such jobs thus
+customers’ likely willingness to pay a higher price than typical manufacturing work.
+5
+Humanoid robots, whether they arrive sooner or later, will accelerate investment
+across investment opportunities in enabling layers: computing power, sensors,
+actuation, energy, safety, and fleet software.
+The staggering needs to support this growth are highlighted by a few statistics
+from Morgan Stanley’s Global Robotics Outlook Model (GROM). Should global robot
+sales growing from 24 million today to 1.4 billion by 2050.
+In order to sell 1.4 billion robot sales per year, Morgan Stanley estimates industry
+needs to massively scale the following:
+• Cameras: A 95-fold increase to in cameras to US$277B in content;
+• Motors and Bearings: A 260-fold increase in motors (27 billion units worth
+$2.5T) and a 200-fold increase in bearings (41 billion units);
+• Compute (i.e. the “brain”): A 40,000 increase in edge computing capacity
+(12.5 million ExaFLOPS worth $1.5T).
+Robotics represents the embodiment of intelligence: machines that can perceive,
+decide, and act in real environments. Monetarily, the robot itself is only the surface
+layer. Considerable monetization will accrue in software, fleet orchestration, data,
+and recurring services - mirroring the evolution of mobility into software-defined
+vehicles.
+6
+Key Investment Areas
+We see accelerating returns from the robotics opportunity as they increasingly
+touch nearly every physical industry, are soon be built into our everyday
+infrastructure, and as long-lived, learning, assets, reshape our world in exciting new
+ways.
+Downstream Services and Autonomy-Enabled Ecosystems
+Autonomous vehicles represent robotics operating in the most demanding
+conditions: public, regulated, safety-critical environments. This makes them a
+bellwether for the broader robotics transition.
+Uber is a prime example of a company exceptionally well positioned
+to benefit from the fleet-based, service oriented platforms being
+built in the modern robotics landscape. Uber already owns the
+hardest, most defensible layer of the stack: global demand aggregation,
+marketplace liquidity, and operational infrastructure.
+Unlike OEMs or AV developers that must create demand and city-level operations
+from scratch, Uber can plug autonomous fleets directly into an existing, high-
+frequency marketplace with hundreds of millions of users, lowering unit economics
+from day one. As public comfort with driverless rides increases and competitors
+retreat or stall, Uber’s platform becomes the natural commercialization layer for
+autonomy—positioning it to capture a disproportionate share of value as mobility
+shifts from human-driven to software-defined.
+Robotics Semiconductors
+Physical AI demands low-latency, energy-efficient compute. Semiconductor
+content in advanced robots and humanoids is projected to grow rapidly, becoming
+a major share of system value.
+Companies like Horizon Robotics are exceptionally well positioned at the heart of
+the edge compute and robotics semiconductor opportunity,
+designing energy-efficient, low-latency AI SoCs that
+power perception, planning, and control directly at the
+edge in autonomous driving and intelligent vehicles.
+Rather than competing in sensors or full-stack perception
+software, Horizon provides the computing substrate that increasingly captures a
+growing share of system value as autonomy and robotics scale. Its chips are deeply
+optimized for perception and sensor-fusion workloads, but this serves as an
+7
+application focus that reinforces its core advantage: executing complex, real-time
+AI on-device under strict automotive power, cost, and safety constraints—precisely
+where demand and value creation are accelerating.
+Critical Minerals
+Critical minerals - lithium, cobalt, nickel, copper, and
+especially rare earth elements (REEs) - are foundational
+to the robotics industry. Additionally, rare earth magnets
+provide superior magnetic energy density, high torque, and resistance to
+demagnetization, making them indispensable for compact and powerful robotic
+designs. Over 95% of motors in humanoid robots use rare earth magnets with each
+unit using as much as 2-4 kilograms of these materials – more than an electric
+vehicle. Additionally and importantly, critical minerals also support the batteries and
+power systems used in numerous robotic designs. A company like MP Materials,
+with its strengthening strategic supply chain independence, stands at the forefront
+of supplying critical materials for the surge in global robotics.
+Additional Areas of Focus
+Perception and Sensor Fusion
+Object detection is foundational to robotic autonomy, and companies are relying
+on sophisticated sensor combinations, with vision, depth, LiDAR/radar, and tactile
+sensing foundational for operating in unstructured environments. As robots move
+closer to people, sensing reliability becomes mission-critical.
+Actuation and Power Systems
+Motor control remains a core component of robotics systems. Precision motors,
+drives, reducers, and batteries differentiate robots that can safely and effectively
+interact with the physical world. Key challenges in motor control include the demand
+for real-time control, power efficiency, and precision.
+Risks
+The robotics transition is powerful but not frictionless. Key risks include simulation-
+to-reality gaps, where models fail outside controlled conditions; safety and trust
+concerns, especially in human-adjacent environments; regulatory fragmentation
+that can slow deployment across regions; cybersecurity threats, given the physical
+consequences of system compromise; and operational complexity, particularly at
+fleet scale.
+8
+For investors, one critical distinction to analyze will be not whether these risks exist,
+but which companies treat them as core challenges (optimal) or simply edge cases
+(sub-optimal, risky).
+Conclusion
+For the world, robotics represents a complete re-architecture of physical work—one
+that compounds like software, scales like infrastructure, and reshapes cost
+structures across the global economy.
+For investors, robotics represents a convergence of technologies, recognized but
+not fully appreciated by the markets, which is setting up outstanding investment
+opportunities for investors who understand their generational impact.

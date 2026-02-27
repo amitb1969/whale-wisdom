@@ -1,0 +1,743 @@
+| 1
+TO:   Investment Partners
+FROM:  Emeth Value Capital | emethvaluecapital.com
+DATE:  2/4/ 2026
+RE:  2025 H2 Letter
+Foreword
+I intend to share the updated results at the outset of each letter. It is worth reiterating that I ascribe little
+significance to short term results. I look out many years when making investments for the partnership and
+believe our results are best weighed using a similar time horizon.
+Emeth Value MSCI ACWI
+Capital Index Delta
+6 Months -8.34 + 10.99 -19.33
+1 Year -3.79 + 22.41 -26.20
+3 Years +20.86 + 20.70 +0.16
+5 Years +15.66 + 11.24 +4.42
+Since Inception +18.15 + 11.87 +6.28
+Emeth Value MSCI ACWI
+Capital Index Delta
+2016 +9.33 + 8.40 +0.93
+2017 +39.57 + 24.35 +15.22
+2018 -17.14 - 9.18 -7.96
+2019 +87.40 + 26.58 +60.82
+2020 +8.08 + 16.33 -8.25
+2021 +36.31 + 18.67 +17.64
+2022 -13.99 - 18.37 +4.38
+2023 +42.77 + 22.30 +20.47
+2024 +28.54 + 17.46 +11.08
+2025 -3.79 + 22.41 -26.20
+Cumulative Since Inception +430.07 + 207.04 +223.03
+Annualized Net Returns to December 31, 2025
+(unanualized if < 1 year, inception 12/31/2015)
+Calendar Year Net Returns to December 31, 2025
+| 2
+Reflections
+You are either richer or wiser, never both. (Bill Duhamel)
+Investing, if practiced long enough, has humbling ways of resurfacing rudimentary lessons. While we would
+all do well to heed the great Charlie Munger’s advice and learn vicariously through the mistakes of others, in
+my experience, nothing quite internalizes a lesson like touching the stove yourself. Now a decade on, and
+with plenty of mistakes made along the way, I wanted to share some reflections on commonalities I have
+observed across our worst performing investments. Of course, it should be noted that there is a danger in
+over extrapolating. Every investment is unique, and for every early bird that gets the worm, there is a second
+mouse that gets the cheese. Nonetheless, I believe our performance will be well served if we can keep these
+learnings front of mind.
+I. Market Share Fluidity
+A characteristic that sets apart many of our worst investments from our best is actually a trait
+of the industry itself. And that is, within an industry, how quickly can market share change
+hands? For many of our best investments – in alternative asset management or oil and gas
+mineral rights, for example – market share is inherently difficult to change. In the former,
+capital contributions are legally committed for a decade or more, and so market share changes
+occur only on incremental capital. In the latter, for scaled mineral rights platforms which are
+diversified across basins, assets are irreplaceable (i.e., the geologic process of hydrocarbon
+formation takes millions of years), and you are on the receiving end of what amounts to an
+indefinite lease. Ironically, many of our worst performing investments had track records of
+strong revenue growth and increasing market shares. And in some sense, that was precisely the
+problem. It is easy to overlook the potential underlying fragility when the target company in
+question has only ever been on the benefiting end of changing market share. However, what we
+should have been more attuned to was the fact that changing share in and of itself was a risk. In
+some but not all cases, this was also a reflection of the capital intensity, or lack thereof, of the
+business. While growth with minimal capital needs is the holy grail when things go right, there
+is a dark side to asset-light when things turn against you. A final takeaway is that industry
+growth is not a good risk mitigator for potential market share loss. In high growth end markets,
+it can be tempting to think that a rising tide is a buoy for left-tail outcomes. After all, if a sector
+is growing twenty percent per annum, a company could theoretically lose sixteen percentage
+points of market share per year and still have a growing business. However, in practice, what
+results is usually not a sustainable lower-growth business but instead, obsolescence.
+II. Leverageable Assets
+Our worst performing investments were not highly leveraged businesses, but rather, were
+unleveraged businesses that became highly levered. One takeaway from this has been that
+| 3
+gross debt matters (i.e., not just net debt), particularly in businesses that are in a growth phase
+and have expected uses for the cash on the balance sheet. What begins as a clear path to
+inflecting profitability can, with an operational stumble, quickly devolve into an uncomfortable
+leverage position. A second lesson, and somewhat building on the first point on market share
+fluidity, is that we should seek to own highly leverageable assets. That’s not to say that we
+want our portfolio companies to actually have high leverage levels, but instead that they should
+be the types of assets we would sleep well at night owning if they did have four to five turns of
+leverage. Our best investments, including some which remain our largest holdings, have been
+these lower-growth but highly predictable cash flow machines. Indeed, on the extreme end of
+the spectrum, we have a portfolio company that regularly entertains proposals from capital
+markets providers on how they could support up to eight turns of leverage on their business. To
+be clear, the company is nowhere near that level of leverage, nor is it considering it; however,
+the ample willingness to provide capital against their assets highlights a fundamental quality
+that the credit markets obviously appreciate, which for the moment has been lost on equity
+owners. Finally, as somewhat of a tangent, there is such a thing as an appropriate capital
+structure. On one hand, the nature of risk is that in every situation, more things can happen than
+will happen. And so, operating at the very limits of a capital structure a business can sustain in
+a normal course operating environment is certainly not prudent. However, on the other hand, if
+a solidly profitable business is operating with perennial net cash balances, it likely is an
+indictment of management – either they don’t understand capital allocation or their interests
+are not aligned with yours.
+III. The Wrong Side of Scale Advantage
+A common thread that exists across nearly all of our worst performing investments is that they
+were on the wrong side of scale advantages. Scott Miller at Greenhaven Road Capital aptly
+describes these challenges in his Q1 2021 investor letter. In essence, disadvantages to scale are
+not simply disadvantages – they’re compounding disadvantages. If Company A spends $15
+million per annum on R&D, and Company B spends $180 million per annum on R&D, that’s a
+half a billion dollar difference over a three-year period and growing. Customers don’t care how
+much you spend, they just want the best product experience. And odds are, if Company B is
+not totally incompetent, they will win out on that measure. Additionally, even in the absence of
+explicit head-on product competition, I have found that scale helps to answer a foundational
+question for any investment, “why does this business need to exist?”. Rarely can a market
+leader within an industry with billions of dollars in revenues, likely a position established over
+many years or decades, disappear overnight without significant ramifications on customers.
+The same generally cannot be said for a subscale business serving only a small fraction of an
+industry. While we are taught to be mindful that the future belongs to the innovators, it can be
+easy to overlook the very powerful force that is incumbency. With this in mind, we are
+fortunate to operate in attractive times as public markets investors. With multitrillion dollar
+| 4
+market capitalization companies becoming the norm, the businesses that are becoming too
+small to pay attention to are growing very large. It is no longer unusual to find multibillion
+dollar revenue businesses, which are leaders in their industry, trading like ignored microcaps.
+IV. Directionally Wrong
+Investment outcomes – success or the lack thereof – occur along a broad spectrum of
+possibilities. They’re not binary... until they are. In our very worst investments, we weren’t just
+wrong; we were directionally wrong. There is almost no price cheap enough for a business that
+is getting worse over time, and unfortunately most people believe that too and vote
+accordingly. Insofar as valuation correlates to the healthy fundamental growth of a business,
+with worsening results you are walking backwards down a hill until at some point you reach a
+cliff, and it can be dangerous to think that the path is more evenly distributed than it is. And so,
+at the outset of any new investment it is a helpful framework to think through the odds – not
+just that you’ll be wrong, but that you’ll be directionally wrong. While hindsight is 20/20,
+many of our best performing investments were exactly those where the probability that we
+were wrong on the trajectory of the business was very low.
+V. Preexisting Outcomes
+Finally, in our worst performing investments we often got caught up in the trap of what
+“could” or “should” happen in a business for it to be a success, rather than in our best
+performing investments where those outcomes were largely already preexisting. Jan Mohr,
+now CEO of Chapters Group, used this fitting analogy in his last letter to the investors of the
+JMX Capital - Truffle Fund.
+The best ideas are those where the facts have long since occurred, but their existence
+has been obscured by other factors. The important thing is that the truffle is already a
+truffle: wonderful and delicate, just covered in leaves and dirt. It does not suffice that
+there might be truffle-potential somewhere.
+Below I highlight one of our portfolio companies, Superior Plus Corp, which I believe adheres to each of
+these learnings. The company (i) operates in an industry with very sticky customer relationships, (ii)
+provides non-discretionary services which generate predictable cash flows (evidenced across the industry in
+the form of numerous competitors with levered capital structures), and (iii) is a scale player. Moreover, for
+the reasons detailed below, (iv) I believe the odds of us being directionally wrong on the business are low,
+and (v) much of what makes the investment attractive today is already in existence.
+| 5
+Overview
+Superior Plus is a leading North American distributor of propane, serving 750,000 residential and
+commercial customers across the U.S. and Canada. The company was founded in Ontario, Canada in 1951,
+and today delivers approximately one billion gallons of propane annually, making the group the largest and
+most profitable propane distributor in North America on a per gallon basis (second largest as measured by
+retail gallons). In addition, Superior is the largest provider of over-the-road compressed natural gas (CNG)
+delivery in North America, holding a forty percent market share. Together, these assets serve a wide variety
+of end markets – from large-scale commercial power to residential home heat – all of which share the
+common characteristic that they are beyond the reach of existing natural gas distribution infrastructure.
+While Superior Plus has grown rapidly in recent years through more than $3 billion in acquisitions, a new
+leadership team has now refocused on operations to cement the advantages of this large-scale platform.
+Propane Industry
+In the United States, according to data from the Energy Information Administration (EIA), approximately
+nine percent of U.S. households, or 11.9 million homes, use propane for at least one residential application
+(excluding outdoor grilling). Among these, space heating is the principal use case, with five percent, or
+approximately 6.1 million U.S. households, relying on propane as their primary heating source. In addition,
+a further two percent of U.S. households use propane as a secondary heating source, and when residential
+customers utilize propane for heat, they very often also use propane to power other appliances such as water
+heaters and cooking appliances. In aggregate, residential customers in the U.S. consume about 5.5 billion
+gallons of propane annually, a figure which has remained virtually unchanged for the last three decades. This
+stable consumption profile has resulted from an increase in the number of U.S. households using propane
+over time, offset in part by increasing home efficiency. Moreover, looking forward, there are several reasons
+why this long-term demand profile of marginal growth, or at a minimum, stability, is likely to persist.
+Residential propane is a rural business, often serving remote customers in low population density areas.
+While electricity access in the U.S. is near universal, owing to federal legislation like the Rural
+Electrification Act of 1936, which prioritized widespread grid access for rural America, no such programs
+exist for natural gas. Indeed, 39 percent of U.S. households today, or more than 51 million homes, do not
+have access to natural gas supply. It is incredibly expensive to expand gas distribution systems, and doing so
+into low density areas traditionally served by transportable fuels like propane, is economically unfeasible.
+For many of these households without natural gas supply who live in moderate climates in the southern U.S.,
+electric furnaces are sufficient for the limited home heating needs they have. However, for consumers in the
+Northeast, Midwest, and Northwest, annual heating costs can be two to three times higher with an electric
+furnace versus a propane furnace, and more energy efficient air-source heat pumps, aside from the initial
+installation costs which can exceed twenty thousand dollars, do not work in very cold climates. In tandem,
+there are still four percent of U.S. households, or 4.9 million homes, that use fuel oil as their primary heat
+source. These customers are predominantly located in the Northeast U.S., and as these furnaces reach their
+natural end of life, many opt to convert to cleaner burning propane furnaces. Beyond residential use, a wide
+range of commercial and industrial use cases account for the remaining 4 billion gallons of the 9.5 billion
+gallon U.S. propane market. These include applications like commercial space heating, fuel for industrial
+| 6
+manufacturing processes, agricultural irrigation and crop drying, and autogas for vehicle fleets. As with the
+residential market, commercial and industrial propane consumption has remained very stable in the U.S.
+over the last two decades. In Canada, the propane distribution market is an annual 1.4 billion gallons, and
+unlike the U.S., is significantly more weighted toward commercial and industrial customers. According to
+Natural Resources Canada (NRCan), approximately two percent of Canadian households, or 285 thousand
+homes, rely on propane as their primary heating source. While this penetration is markedly lower than that in
+the U.S., the residential propane market in Canada is growing rapidly. Indeed, households reporting propane
+as their primary heat source have tripled over the last two decades. This expansion is being driven by the
+decline in other traditional heating sources; twenty years ago, seven percent of Canadian households used
+fuel oil as their primary heat source, and another four percent used wood as their primary heat source.
+Today, fuel oil and wood collectively are the primary heat source for just six percent of Canadian
+households, which still provides a significant base of nearly one million homes that are addressable for
+propane conversion. In aggregate, residential customers in Canada consume about 250 million gallons of
+propane annually. The remaining 1.1 billion gallons of the Canadian propane market relates to commercial
+and industrial users, and according to data from the Canadian Propane Association, this market has grown by
+about one percent per annum over the last two decades.
+Competitive Landscape
+The propane distribution industry in the United States remains highly fragmented. The industry’s four
+majors – AmeriGas (~8%), Ferrellgas (~6%), Suburban Propane (~4%), and Superior Plus (~4%) – account
+for just twenty-two percent of industry volumes. Beyond the majors, the next fifty largest regional operators
+make up another fifteen percent of industry volumes, while more than three thousand local independent
+operators account for the remaining sixty percent. Although consolidation has long been a feature of propane
+| 7
+markets, the majors have been perennial share losers to independents – effectively negating gains from
+acquisition activity. Of note, this dynamic has been largely self-inflicted. For example, most of the majors
+are structured as publicly traded master limited partnerships (MLPs), which has led to an overreliance on
+price increases to meet quarterly distribution targets – often at the direct expense of customer retention. In
+addition, the majors have uniformly suffered from organizational myopia on deal-making, resulting in
+neglected basic operational execution and customer service, further contributing to customer churn. While
+seemingly benign in any given period, the cumulative effects of this customer loss can have disastrous
+effects on the economics of a route-density business model (i.e., losing a customer not only impacts your
+revenue, but it also impacts your cost to serve of every remaining customer on that route). That said, the
+severity of these issues varies across the group. AmeriGas and Ferrellgas have experienced the most
+pronounced operational lapses and customer attrition, whereas Suburban Propane and Superior Plus have
+shown comparatively better performance. A case in point on these challenges at the majors being self-
+inflicted is the continued success of large, family-owned platforms like Thompson Gas and Blossman Gas
+that acquire and compete against the same group of smaller independents. Geographically, there are also
+significant regional differences in propane markets within the U.S. For example, in the Midwest, there is a
+high prevalence of agriculture co-ops that distribute propane, such as Growmark, owing to the significance
+of farming in this region. These co-ops operate at lower margins, as profit is a secondary motive to serving
+their member base, and the general abundance of propane in agriculture use creates a heightened awareness
+of propane wholesale pricing, compressing local residential margins. In the U.S. South-Central, aside from
+these markets being well suited for electric heat, there is a strong cultural bias toward customer-owned tanks.
+These consumers regularly price shop every new delivery, which compresses margins per gallon. In contrast,
+the Western U.S. benefits from fewer customer-owned tanks and, paradoxically, lower per-customer
+volumes, which deter cutthroat distributor competition and have resulted in attractive margins per gallon.
+Finally, in the Northeast, although competition is more intense, the region enjoys several structural
+advantages, including a sizable local base of fuel oil customers, harsh winters that limit the suitability of heat
+pumps, and a market where customer-owned tanks are uncommon. Geographically, Superior Plus is
+competitively advantaged as its footprint is heavily weighted toward the Northeast and Western U.S.
+markets. Indeed, sixty-five percent of Superior’s U.S. volumes are located in the Northeast, and its aggregate
+U.S. footprint has a company-owned tank position of ninety percent, which is significantly higher than
+industry averages. In Canada, the competitive landscape is quite different. Superior Plus has been the
+dominant propane distributor in Canada since the 1980s, and today has approximately twenty-two percent
+market share and is three times larger than its next competitor. In other words, in Canada, Superior’s market
+share is roughly the same as all four majors in the U.S. combined. The next largest distributor, Avenir
+Energy, holds approximately seven percent market share after acquiring the propane distribution assets of
+Parkland Corporation in 2024. Beyond that, the scale of operator falls dramatically, and the remaining
+roughly seventy percent of the Canadian propane market is fragmented among more than three hundred local
+distributors. Many overarching characteristics are similar across North American propane markets.
+Customers in Canada overwhelmingly lease their tanks from propane companies rather than own
+themselves, creating sticky customer relationships, and propane markets serve largely rural off-grid
+customers. One notable difference is that in Canada, propane markets are heavily skewed towards large
+| 8
+industrial and commercial customers, and with its scale, Superior Plus excels at delivering on the needs of
+these demanding clients.
+Superior Plus: A North American Propane Leader
+Superior Propane was founded in 1951 and today is Canada’s only nationwide propane distributor. While the
+business grew to become the country’s second largest propane retailer by 1980 (holding a ten percent market
+share), its real market dominance was solidified through two pivotal mergers. First, in 1986, Norcen Energy
+Resources purchased Superior Propane for $105 million to merge with its own propane distribution
+businesses, Cigas Propane and Monarch Propane. This positioned Superior as the largest propane distributor
+in Canada (approximately fifteen percent market share), leapfrogging Inter-City Gas Corporation (ICG).
+Then, in 1998, Superior Plus announced the transformative acquisition of ICG Propane for $126 million,
+which brought together the two largest propane distributors in Canada. On a combined basis, the new
+Superior Plus had approximately thirty percent market share of propane distribution in Canada, delivering an
+annual 375 million gallons. Indeed, this dominant market position prompted litigation from Canada’s
+competition authority, which prevented the two businesses from actually merging until 2000. It is worth
+noting that by this time, Norcen had decided to separate Superior Propane into a stand alone entity by
+forming the Superior Plus Income Fund – a Canadian equivalent to an MLP – which was listed on the
+Toronto Stock Exchange. Unfortunately, much like this structure has proven ill-suited for U.S. propane
+counterparts, this organizational reorientation around a yield led to an expensive and misguided detour for
+Superior Plus. For the first half century of its existence, Superior operated as a pure play energy distribution
+business. However, in 2002, the company embarked on a journey to significantly diversify its operations
+with the aim of producing more stable cash flows. Over the next five years, Superior Plus spent $1.1 billion
+acquiring: (i) a specialty chemicals business that produced sodium chlorate, chlor-alkali, and sodium chlorite
+[chemicals used in the bleaching of wood pulp for paper products], (ii) a construction products distribution
+business, and (iii) an aluminum manufacturer. While initially celebrated by capital markets, these
+acquisitions on the whole proved to be value destructive, and incredibly distracting for the base propane
+business. Ultimately, Superior Plus exited the aluminum business in 2006 (after only a year of ownership),
+exited the construction products division in 2016, and exited the specialty chemicals business in 2021.
+Nonetheless, by 2016, Superior’s annual propane volumes in Canada had dropped to approximately 225
+| 9
+million gallons, and they had ceded more than ten percentage points of market share. Another notable more
+recent acquisition includes Superior Plus’s purchase of Canwest, the propane distribution business of Gibson
+Energy in 2017 for $296 million. This business served oil and gas end markets, a sector bet that ultimately
+proved to be a flop, but increased the combined group’s footprint to 300 million annual gallons
+(approximately twenty-five percent market share). Today, Superior Plus once again operates as a pure play
+energy distribution business, serving nearly two hundred thousand residential and commercial customers
+across Canada – delivering approximately 270 million gallons annually. In addition, the group’s existing
+customer base in Canada is high quality with ninety-five percent company owned tanks, a benchmark that is
+unmatched by any major propane distributor globally. In total, twenty percent of the company’s profits, or
+$90 million in annual EBITDA, is generated by the Canadian propane business.
+While Superior Plus has been a dominant propane distributor in Canada since the 1980s, its U.S. operations
+are relatively nascent. The company entered the U.S. market in 2009 with the purchase of energy
+distribution assets from Sonoco and Griffith Energy. These assets were geographically located in attractive
+Northeast markets, but were heavily weighted toward fuel oil volumes. For consumers, fuel oil is both a
+more expensive and emissions intensive form of heat. And for distributors, fuel oil carries lower margins and
+the average customer churns three times as much as in the propane industry – principally because there are
+no company-owned tanks in the fuel oil industry. In the near decade that followed, little changed; Superior’s
+U.S. operations remained subscale and nearly ninety percent fuel oil by volumes. However, in 2018,
+Superior Plus announced the acquisition of NGL Energy’s retail propane assets for $900 million,
+quadrupling the size of the U.S. propane business overnight. Additionally, in the subsequent five years,
+Superior Plus acquired more than forty U.S. propane companies, spending a further $1.1 billion. Overall,
+| 10
+these companies were widely regarded in the industry as high-quality assets and located in attractive
+markets. Reflecting that, Superior Plus generally paid a premium, with pre-synergy acquisition multiples
+averaging about 9x EV/EBITDA compared to an industry benchmark closer to 7x EV/EBITDA. As a result,
+today sixty-five percent of Superior’s volumes in the U.S. are located in the Northeast, where tailwinds from
+fuel oil switching are significant, and the group has almost no exposure to agricultural heavy midwestern
+states where margins are slim. Moreover, Superior has a company-owned tank position in the U.S. of eighty-
+nine percent, which is significantly higher than industry averages. In total, Superior’s U.S. operations deliver
+approximately 350 million gallons of propane annually to more than five hundred thousand residential and
+commercial customers. In addition, fifty percent of Superior Plus’s profits, or $240 million in annual
+EBITDA, is generated by the U.S. propane business.
+Superior Delivers: Building A Modern Propane Company
+As noted previously, the quality of service and operational execution at Superior Plus was not immune to its
+torrid pace of dealmaking over the prior decade. Fortunately, the planned retirement of the company’s
+longtime CEO in 2023 created an opportunity for a new leadership team, under CEO Allan MacDonald, to
+approach the business with a fresh perspective. This culminated in the announcement of the “Superior
+Delivers” transformation program in November 2024, an overhaul that would touch virtually all operating
+aspects of the business and targeted a $70 million increase in EBITDA by 2027. These initiatives were
+broadly organized into two inter-related categories: (i) cost to serve, and (ii) customer growth. While the
+action items of the transformation program are distinct, they are also mutually reinforcing in that they work
+together to move Superior Plus away from its legacy negative value cycle (i.e., price increases  customer
+churn  lower density  higher cost to serve  price increases) to a positive value cycle (i.e., lower cost to
+serve  better pricing  customer acquisition  higher density  lower cost to serve).
+For an operations focused leadership team generally coming from much larger companies in non-propane
+industries, the lack of sophistication and proverbial low-hanging fruit within Superior’s operations was
+striking. Processes were antiquated, inconsistent, highly manual, and the dozens of acquisitions made in
+years prior had never been integrated. At the core, what is enabling this cost to serve transformation is a
+| 11
+wholly new analytics platform that handles real-time pricing underpinned by customer specific marginal cost
+calculations, dynamic route optimization and delivery scheduling, and asset utilization management. To
+bring this to life with some examples, consider that when the new leadership team arrived, Superior Plus did
+not have the ability to calculate the cost to serve at the customer level. The company was using local
+averages. The problem with that is that in a route-based business model, even within a thirty mile radius, if
+there are four customers on Street A and only one customer on Street B, which is forty miles away, the cost
+of delivering to those customers is dramatically different. What they found was that they were losing money
+on every delivery to approximately five percent of the customer base, because these customers had been
+priced to local averages when their customer specific delivery cost in reality was much higher. Eliminating
+these customers, or retaining them at much higher pricing, was a clear win. Another pillar of lowering cost
+to serve is asset utilization, and after more than forty acquisitions in a five year stretch, not to mention the
+dozens of companies NGL Energy itself had acquired prior to Superior’s ownership, the group’s asset base
+had become plainly overbuilt. However, Superior Plus did not have the technical capability to determine
+what the optimal infrastructure footprint should look like. This required mapping the unit costs of every bulk
+plant location and bringing that data into a tool that could dynamically recalculate the cost to serve for every
+customer, based on their exact location, for every permutation of network configuration. In other words, not
+something you could do in an excel spreadsheet. The output: Superior Plus was able to optimize its network
+to eliminate more than a third of its bulk plants in many regions. While this increased the on-the-road costs
+by as much as twenty percent, as the total miles traveled would increase, the all in cost to serve is expected
+to decline by double digits. Next, perhaps the central component of Superior’s cost to serve transformation is
+overhauling its routing and scheduling technology. There are a few key variables this tool is seeking to
+optimize. For example, tank percentage filled per delivery – ideally you want to drop as many gallons on a
+single stop as possible. If you stop on a route and only fill ten percent of a customer’s tank, that is very
+inefficient. Another metric would be miles driven per gallon – ideally you drive as few miles as possible to
+deliver as many gallons as possible. This means accurately forecasting and batching orders in the same
+locality, and creating the most efficient routes possible for any given combination of stops. In addition, labor
+hour per gallon is another important metric. This means maximizing the in-field labor costs by delivering to
+the right stops in a given day, not simply the stops that happen to be along a route. With over 750,000
+customer locations and more than 2.1 million deliveries per year, optimizing this process becomes
+complicated very quickly. And yet, the group’s legacy process involved scheduling deliveries from the local
+office a day or two in advance on an ad-hoc basis. Consider the following. Superior Plus is among the most
+advanced deployers of tank monitoring sensors in the propane industry. The group has sensors deployed that
+cover approximately seventy-five percent of deliveries. This compares to the average industry operator at
+around fifteen percent penetration. However, the way that Superior had historically leveraged this
+technology is that its internal system would automatically schedule a customer for delivery within three days
+if their tank fell below thirty percent. The problem with that is that thirty percent could very well be three
+days of supply, but it also could be three weeks of supply, or in some cases three months of supply. By
+having a rigid auto-scheduling rule that did not factor in the rate of consumption, Superior would often find
+itself delivering to the same neighborhood twice in one week when those deliveries should have been more
+efficiently batched. The new delivery system at Superior Plus works off of a days-to-empty metric, which
+| 12
+factors in real-time consumption, and looks weeks in advance, not a day or two, to build the most efficient
+scheduling of deliveries. Finally, Superior’s new routing tool leverages artificial intelligence to design
+optimized driving routes that aren’t obvious without this technology. In one example, by moving a customer
+from one driver’s route to a neighboring route, Superior was able to lower the cost to serve of a specific
+customer by fifty percent, and lower the average cost across both routes by about ten percent. In aggregate,
+the cost to serve transformation is expected to deliver $40 million of incremental EBITDA annually.
+The second pillar of transformation is customer growth. The purpose of transforming Superior’s cost to
+serve is really two-fold; Of course, to maximize profits within the existing customer base, but also to then
+leverage that cost advantage into acquiring new customers. Importantly, this advantage will not be uniform
+across the company’s network. Recall that Superior Plus historically did not have the ability to calculate
+customer specific delivery costs. With this new tool, Superior can now lean in the hardest on customer
+acquisition in areas where it knows its cost to serve is the most advantaged. This allows the company to both
+offer the best price while also making healthy margins. For example, using the illustration above, suppose
+hypothetically that Customer A was a new customer. Superior’s pricing platform would show that the
+marginal cost to serve this new customer, given the company’s existing footprint, is only $0.10 per gallon.
+Superior charges $3.00 per gallon on average for propane in the U.S., which gives them ample flexibility to
+profitably acquire that customer even while offering a great price. Historically, Superior Plus had a total of
+seven employees in its marketing department, and the near sole source of customer additions was through
+answering inbound phone calls. Now, under the leadership of a new Chief Commercial Officer, Deena
+LaMarque Piquion, the former Chief Marketing Officer at Xerox, Superior for the first time will have the
+ability to target specific customer groups with a data-backed pricing approach, and nearly every channel of
+customer lead generation will be net new. The second vector for improving customer growth is reducing
+gross churn. During the course of the last five to seven years when acquisitions took precedence over
+operations, Superior Plus operated with mid-to-high single digit gross churn. This compares to an industry
+benchmark of low-to-mid single digit gross churn for high quality regional propane operators. On a net
+basis, natural inbound customer additions reduced Superior’s churn to low a single digit percentage, which
+| 13
+the company then bridged the gap with pricing increases – setting into motion the negative flywheel. At the
+outset, price increases categorically raise churn, and so Superior has stopped all price increases over the last
+eighteen months. Within propane markets, customer churn lags the root cause by about six to eighteen
+months – i.e., if a customer is upset by a price increase, they would only look to switch providers when their
+tank is nearing empty again – so the benefits of Superior’s price freezes are now beginning to bear fruit. To
+add to that, Superior Plus now has a centralized team that is in charge of customer retention and can
+proactively address churn. The company’s new analytics platform ingests customer specific data like
+account login activity, changes in usage patterns, or identified service issues and forecasts the customers that
+are most at risk to churn. Superior can then reach out to these customers, and with the new pricing models
+can now be more aggressive on the offer they can provide to retain those customers. In total, the customer
+growth transformation is expected to deliver an incremental $30 million in EBITDA annually by 2027, or
+approximately two percent per annum expected net customer growth.
+Wholesale Propane
+An asset unique to Superior Plus among the propane majors is a significant wholesale propane business.
+This segment operates under Superior Gas Liquids in Canada and Kiva United Energy in the U.S., and
+handles logistics and supply management for over one billion gallons of propane annually. Two-thirds of
+this volume relates to supplying the entirety of Superior’s own retail operations across North America. This
+reduces costs by removing intermediaries from the procurement process, ensures surety of supply in peak
+demand environments, and creates opportunities to lower costs by arbitraging supply markets. In addition,
+the division’s more than thirty million gallons of storage assets and commodity hedging expertise allow
+Superior Plus to offer its retail customers fixed-price contracts. The remaining third of wholesale volumes
+relates to third-party sales to more than three hundred customers. These clients include other retail propane
+distributors and large-scale industrial users. These third-party sales increase the utilization of Superior’s
+supply infrastructure and generate margin that even further lowers the overall company cost to serve.
+Notably, Kiva United Energy has historically focused only on serving third-party clients in the Western U.S.
+However, as the group assumed supply responsibilities for the entire Superior Plus U.S. retail operations in
+2025, this now presents new opportunities for the group to grow its third-party client list in new markets like
+the Northeast. In total, Superior’s wholesale propane operations generate $35 million in annual EBITDA.
+| 14
+Certarus: North America’s Leading CNG Platform
+In 2022, Superior Plus acquired Certarus for $785 million. Certarus is the market leader in over-the-road
+compressed natural gas (CNG) delivery, serving pipeline-stranded customers that previously relied on more
+expensive and carbon intensive fuels such as diesel or other distillates. Since its founding in 2012, Certarus
+has scaled rapidly and now delivers more than 30 Bcf of CNG annually across its fleet of 870 mobile storage
+units (MSUs). In the early 2010s, oil and gas operators began introducing dual-fuel drilling and hydraulic
+fracturing equipment capable of displacing approximately thirty percent of diesel consumption with natural
+gas. Advances in engine controls and emissions technology have since allowed modern Tier 4 dual-fuel
+engines to achieve significantly higher substitution rates, in some cases approaching eighty percent. This has
+generated substantial cost savings as natural gas, even after factoring in compression and logistics costs, is
+sixty to seventy percent cheaper than diesel. Certarus was founded to serve this burgeoning market by
+providing an end-to-end CNG supply solution for oil and gas wellsites, which are naturally beyond the grid
+customers. Today, this remains an important part of Certarus’ business, accounting for approximately half of
+revenues, and the group maintains a dominant fifty percent market share of CNG deliveries in key U.S.
+basins like the Permian. However, over the last five years, Certarus has also had success in diversifying its
+business beyond the wellsite. For example, in the Northeast, longstanding regulatory barriers to developing
+new midstream infrastructure, coupled with the increasing demand for electricity generation, have led to a
+regional pipeline network with a high risk of curtailments during peak winter months. To address this,
+Certarus provides utility clients with dedicated MSUs on lease, ready to inject natural gas directly into local
+infrastructure to avoid a loss of pressure (i.e., blackouts). This utility resiliency market today stands at
+approximately 33 Bcf annually, which is expected to double by 2030. In addition, Certarus’ fleet is capable
+of transporting other alternative fuels like Hydrogen and renewable natural gas (RNG). RNG projects
+| 15
+capture and process methane emitted from landfills, pig and dairy farms, and waste water treatment plants.
+The number of operational RNG facilities in the U.S. has increased tenfold over the last decade; however,
+many potential RNG projects remain in isolated areas with no access to a pipeline distribution network.
+Certarus is already the North American leader in transporting stranded RNG to market, with an estimated
+fifty percent market share, offering developers turnkey solutions that incorporate critical services such as
+chain-of-custody tracking. This segment is growing rapidly, and according to a 2025 study commissioned by
+the American Gas Foundation, domestic RNG production in the U.S. is expected to increase by a further
+sevenfold over the coming decade. Indeed, Certarus’ own RNG business is currently growing at forty
+percent per annum, and it expects the over-the-road RNG market can reach a market size of 25 Bcf annually
+by 2030. More recently, Certarus is benefiting from the immense hyperscale data center buildout occurring
+to support AI. Power demand from this AI infrastructure buildout is expected to drive a fivefold increase in
+total data center power requirements over the coming decade, amid an environment where grid connection
+times are already in excess of five years in many markets. Certarus can provide data center customers both
+short-term and long-term bridge solutions while they wait for permanent grid or pipeline connectivity. For
+example, in September Certarus was awarded a supply agreement to support a 50MW hyperscale data center
+between site commissioning and its planned transition to a permanent pipeline connection. In addition, in
+October Certarus was awarded a project to provide standby power for a second hyperscale data center.
+While it is difficult to assess the exact scale of opportunity AI infrastructure will provide for over-the-road
+CNG, the potential is significant as powering a single hyperscale facility can require dozens of MSUs.
+Finally, Certarus is also growing its offerings for non-wellsite commercial and industrial customers across a
+broad range of use cases including: fuel for industrial manufacturing processes, power and heat for remote
+communities, disaster relief, pipeline bypass for planned infrastructure maintenance, and industrial-scale
+backup power. The industrial segment of Certarus’ business is currently growing more than twenty percent
+per annum. In total, thirty percent of Superior Plus’ profits are generated by Certarus, or $140 million in
+annual EBITDA.
+Valuation
+In 2020, Brookfield Asset Management made a $260 million investment in Superior Plus in the form of
+perpetual preferred securities that carry a 7.25 percent coupon, and have the right to convert into thirty
+million common shares at a price of $8.67 per share (approx. C$11.89). Of note, this investment was made
+out of Brookfield’s private equity funds, which have target returns in excess of twenty percent per annum.
+Brookfield’s optimism was not without precedent. In Europe, companies like SHV Energy and DCC Plc
+have rolled-up hundreds of local and regional LPG distributors since the 1980s, consolidating the market and
+generating highly attractive returns. Indeed, since its listing in 1994 until Brookfield’s investment in
+Superior Plus in 2020, DCC Plc generated a seventeen percent annum return for shareholders – or a 46x.
+Meanwhile, in the US market, consolidation remained far behind that in Europe and an opportunistic
+window existed where all the propane majors were on the sidelines from acquisitions for their own reasons.
+Ferrellgas was still reeling from their $837 million purchase of Bridger Logistics, a crude oil trucking
+business that was written down by eighty percent fifteen months after acquisition, while AmeriGas and
+Suburban Propane were struggling with debt loads from the large scale acquisitions of Heritage Propane
+| 16
+($2.9 billion) and Inergy Propane ($1.8 billion), respectively. While the journey was not without challenges,
+namely the subsequent operational missteps discussed previously, Superior Plus was largely successful in its
+aim to acquire several high quality and attractively priced propane distribution assets. Today, with a renewed
+focus on operations, we own this much larger collective platform at C$7.04 per share, or more than a forty
+percent discount to Brookfield’s investment. Consider the base case scenario modeled below.
+The assumptions embedded above, though forecasting attractive shareholder outcomes, are significantly
+more conservative than management estimates. To start, this scenario assumes that by 2027 management
+Year +1 Year +2 Y ear +3 Year +4 Year +5($M) ($M) ( $M) ($M) ($M) Discount Rate 8%Terminal Multiple 12xU.S. Propane Terminal FCF/Share 1 .57Residential Volumes (million gallons) 187.4 187. 4 191.2 196.9 202.8 IV / Share 12.81Commercial Volumes (million gallons) 164.2 164. 2 167.5 172.5 177.7 Upside to IV 153%Total Volumes (million gallons) 351.6 351. 6 358.7 369.4 380.5
+Revenue ($ / gal) 2.95 2. 92 2.90 2.90 2.90Margin ($ / gal) 1.60 1. 58 1.56 1.54 1.52Opex ($ / gal) (0.96) ( 0.89) (0.87) (0.86) (0.85)
+Revenue 1,037.3 1 ,026.7 1,040.1 1,071.3 1,103.4Cost of Sales (473.3) ( 471.1) (481.0) (503.2) (526.1)------------- ------------- ------------- ------------- -------------Gross Profit 564.0 5 55.6 559.1 568.1 577.3Operating Costs (335.8) ( 312.4) (313.4) (317.5) (322.0)------------- ------------- ------------- ------------- -------------Adj. EBITDA 228.2 2 43.2 245.7 250.6 255.3
+Canadian PropaneResidential Volumes (million gallons) 41.8 41. 8 42.6 43.9 45.2Commercial Volumes (million gallons) 230.3 230. 3 234.9 241.9 249.2Total Volumes (million gallons) 272.0 272. 0 277.5 285.8 294.4
+Revenue ($ / gal) 2.00 1. 98 1.98 1.98 1.98Margin ($ / gal) 0.95 0. 95 0.95 0.95 0.95Opex ($ / gal) (0.62) ( 0.60) (0.60) (0.60) (0.60)
+Revenue 544.1 5 38.7 549.4 565.9 582.9Cost of Sales (285.7) ( 280.2) (285.8) (294.4) (303.2)------------- ------------- ------------- ------------- -------------Gross Profit 258.4 2 58.4 263.6 271.5 279.7Operating Costs (169.1) ( 163.9) (166.7) (171.2) (176.0)------------- ------------- ------------- ------------- -------------Adj. EBITDA 89.4 9 4.5 96.9 100.3 103.7
+Wholesale PropaneUnited States Volumes (million gallons) 316.0 328. 6 341.8 355.5 369.7Canada Volumes (million gallons) 64.5 64. 5 64.5 64.5 64.5Total Volumes (million gallons) 380.5 393. 1 406.3 419.9 434.2
+Revenue ($ / gal) 1.20 1. 20 1.20 1.20 1.19Margin ($ / gal) 0.21 0. 21 0.21 0.21 0.21Opex ($ / gal) (0.12) ( 0.12) (0.12) (0.12) (0.12)
+Revenue 457.0 4 71.4 486.4 501.9 518.2Cost of Sales (376.2) ( 388.4) (401.0) (414.1) (427.8)------------- ------------- ------------- ------------- -------------Gross Profit 80.7 8 3.0 85.4 87.8 90.4Operating Costs (45.1) ( 46.6) (48.1) (49.8) (51.5)------------- ------------- ------------- ------------- -------------Adj. EBITDA 35.6 3 6.4 37.2 38.1 38.9
+CNG DistributionUnited States Volumes (thousand MMBtu) 24,800.0 26, 040.0 27,342.0 28,709.1 30,144.6Canada Volumes (thousand MMBtu) 6,433.4 6, 755.0 7,092.8 7,447.4 7,819.8Total Volumes (thousand MMBtu) 31,233.4 32, 795.0 34,434.8 36,156.5 37,964.4Avg. MSU 869.0 869. 0 889.0 925.0 975.0
+Revenue ($ / MMBtu) 14.3 14. 3 14.3 14.3 14.3Opex ($ / MMBtu) (7.2) ( 7.0) (7.0) (7.0) (7.0)
+Revenue 445.1 4 67.3 490.7 515.2 541.0Cost of Sales (75.0) ( 78.7) (82.6) (86.8) (91.1)------------- ------------- ------------- ------------- -------------Gross Profit 370.1 3 88.6 408.1 428.5 449.9Operating Costs (225.5) ( 229.7) (241.2) (253.2) (265.9)------------- ------------- ------------- ------------- -------------Adj. EBITDA 144.6 1 58.9 166.9 175.2 184.0
+Cash FlowU.S. Propane 228.2 2 43.2 245.7 250.6 255.3Canadian Propane 89.4 9 4.5 96.9 100.3 103.7Wholesale Propane 35.6 3 6.4 37.2 38.1 38.9CNG Distribution 144.6 1 58.9 166.9 175.2 184.0Coprorate Costs (25.0) ( 26.0) (27.0) (28.1) (29.2)------------- ------------- ------------- ------------- -------------Adj. EBITDA 472.9 5 07.1 519.6 536.0 552.7Maintenance Capex (91.7) ( 93.8) (96.9) (100.8) (105.4)IFRS 16 Lease (46.0) ( 47.8) (49.8) (51.7) (53.8)Interest Cost (73.3) ( 76.3) (78.0) (73.8) (70.0)Preferred Distributions (18.9) ( 9.4)Tax Expense (48.6) ( 55.9) (59.0) (61.9) (64.7)------------- ------------- ------------- ------------- -------------Free Cash Flow 194.5 2 23.7 236.0 247.7 258.8
+FOR THE YEAR ENDED VALUATION
+BASE CASE SCENARIO
+| 17
+only delivers on the cost to serve portion of the Superior Delivers transformation – or $45 million of the total
+$75 million in expected incremental EBITDA. Moreover, in keeping with the company’s stated strategy of
+increasing customer density, customer churn in the U.S. is expected to occur at an average margin per gallon
+of $1.90, significantly above the segment average, while newly acquired customers are expected to have
+average unit margins of $1.50 per gallon. While hinted at previously, it is worth expanding upon the unique
+pricing dynamics within the propane distribution industry, and why these margin assumptions are indeed
+quite conservative. For both residential and commercial customers alike, Superior Plus owns the physical
+tanks located at the customer’s property in ninety percent of cases. Container laws - which exist in every
+state apart from West Virginia, Wyoming, Alaska, and Hawaii – make it illegal for another propane
+company to fill these Superior-owned tanks. In the most extreme of cases, these are 1,500 gallon tanks
+buried underground, where the cost of excavating and replacing can run into the tens of thousands of dollars.
+For above ground tanks, while customer churn does occur, there are several factors which in practice deter
+customers from switching. For example, while competitors will often install a leased tank at a new customer
+property for “free”, there are exit fees owed to the incumbent propane distributor in the form of tank removal
+fees, fuel pump-out fees, and contract termination fees. These in aggregate can regularly add up to $500 to
+$800 in exit costs. For a residential customer consuming an average of 700 gallons of propane per year, even
+if you feel you are being overcharged by 25c or 40c per gallon, it likely does not make sense to switch. Said
+another way, margins per gallon could be twenty to thirty percent higher than competitors before it pushes a
+customer to switch. In addition, in reality it is far from free for a competing propane distributor to set a new
+tank. A standard 500 gallon tank installation takes two technicians three to four hours to complete, with a
+needed LP crane truck. In labor costs alone this is several hundred dollars, and the replacement cost of a new
+500 gallon propane tank today is several thousand dollars. As a result, to recover costs, most propane
+distributors require a three-year service contract with a leased tank, and often disqualify low-usage
+customers who only use propane for cooking or hot water heating. Thus, customers switching, assuming
+they meet the minimum usage requirements, have the added decision of weighing if they want to lock
+themselves into a three year contract with a provider they have never used before. Also consider that at the
+time customers are most likely to contemplate a provider switch, during peak heating season when eighty
+percent of deliveries occur, most propane companies either cannot or will not set a new tank due to being
+overwhelmed with existing deliveries. Finally, the biggest deterrent to churn is simply customer inertia. For
+customers with leased tanks, Superior Plus has customers on auto-delivery, where the tanks are remotely
+monitored and the scheduling of refills and payments occurs automatically. Most customers simply do not
+want to have to think about their propane supply, which is why the most common cause of switching
+providers is a service issue, not cost. Now let’s turn to how customers are priced. For large commercial
+accounts, it is common for these high usage customers to have index-plus pricing where a fixed margin will
+be added to spot pricing quoted at Mont Belvieu or Conway. For residential customers, contracts operate on
+stated price basis. Translation – customers are charged a price at the complete discretion of the propane
+supplier, which in theory incorporates variables such as transportation costs, usage, and spot pricing, but in
+reality reflects the margins the distributor would like to earn. This pricing discretion combined with the
+aforementioned customer stickiness, is what has underpinned consistent margin per unit increases across the
+propane industry for many years. Consider the graphic below.
+| 18
+While Superior Plus’s unit margins are higher than independents, on an adjusted basis, they are already
+significantly below their national peers. For example, AmeriGas unit margins are similar on headline figures
+at $1.67 per gallon, but it has half the exposure to high margin residential gallons as Superior Plus, a thirty
+percent weighting to low margin autogas volumes, and a twenty percent weighting to the Midwest which has
+half the margins as other regions. Adjusting for these exposures, I believe AmeriGas has margins closer to
+$1.95 per gallon on a comparable basis. Similarly, while Suburban Propane has headline unit margins that
+are already higher than Superior Plus, they also have ten percentage points less exposure to residential
+gallons and an eighteen percent exposure to the Midwest. These adjustments would put their comparable
+unit margin at approximately $2.07 per gallon. Ferrellgas is more challenging to compare as it has a
+significant majority of its business in the Midwest, sells thirty percent of its volumes each year to customers
+who own their own tanks, and also has half the residential volumes as Superior Plus. Still, adjusted for these
+factors I estimate Ferrellgas’ comparable unit margins are $1.85 per gallon. All of this to say, I believe the
+unit margin targets implied in the base case scenario above are highly achievable. For the customer growth
+portion of the Superior Delivers transformation, this scenario assumes a low single digit net customer churn
+in 2026, stabilization in 2027, and returning to low single digit organic customer growth in 2028. This
+compares to management estimates of cumulative net customer growth of seven percent between 2025 and
+2027, and returning to organic customer growth already by late 2025. Altogether, this implies that EBITDA
+for Superior Plus comes in at approximately $510 million in 2027, or approximately eleven percent below
+the $570 million target. Finally, consider that while Allan MacDonald and the new leadership team have
+refocused on operations, they have also made wholesale changes to capital allocation. In November 2024,
+Superior Plus cut its dividend by seventy-five percent, and redirected the entirety of those proceeds to
+buying back its own stock. From November 2024 through December 2025, Superior Plus has repurchased
+29.8 million common shares at an average price of C$6.81, or approximately twelve percent of the
+| 19
+outstanding shares in a one year period. In addition, looking forward, Superior plans to buyback a further
+$100 million (C$135 million) per year in 2026 and 2027. The base case scenario modeled above assumes
+that the company completes these repurchases at an average price of C$9.0 in 2026 and C$11.0 in 2027;
+significantly higher than prevailing share prices, and implying a compounding rate of over twenty-percent
+per annum. Furthermore, recall the Brookfield perpetual preferreds. In July 2027, these preferreds become
+callable by Superior Plus at par, which would generate $9 million in cash savings per annum if refinanced
+with the company’s existing revolver capacity, while also avoiding dilution. This scenario assumes that
+those preferreds are called at par (note: while dilution is possible, that would also mean that shares are
+trading above C$11.89 by July 2027, and we made at least a 1.7x MoC in eighteen months or less). Taken
+together, the output of the model above implies a fair value of C$17.79 (US$12.81) per share, or 153 percent
+upside to intrinsic value. Framed another way, over the course of five years, Superior Plus is expected to
+generate more than its current market capitalization in free cash flow.
+M&A
+At present, Superior Plus is fully focused on setting the business back on proper operational footing.
+However, in the long term, this business should have clear platform value as a consolidator in this highly
+fragmented space. There are more than three thousand independent propane distributors in the U.S., and the
+industrial logic for consolidation is evident. Small and midsize distributors lack the scheduling and routing
+technology, pricing sophistication, and digital offerings that Superior Plus can bring to the table. Moreover,
+synergies can often reduce the purchase price by two turns or more, and are achieved through predictable
+cost outs. For example, eliminating redundant administrative and management positions, consolidating bulk
+plant locations, and procurement savings. In extreme scenarios, for small propane distributors with a high
+overlap to Superior’s existing customer network, a significant portion of the on-the-road costs could also be
+eliminated if newly acquired customers could be serviced with the existing fleet. There are approximately
+1,100 acquisition targets within Superior Plus’s delivery footprint, and I estimate that about half of those
+distributors deliver two million gallons or more annually. If Superior Plus is able to complete five to ten of
+these tuck-in acquisitions per year at a 7x multiple, they could add an additional $50 million of EBITDA
+over a five year period with $250 million of total capex. This would be significantly more accretive to
+shareholders versus paying down low cost debt, and would achieve nearly the same deleveraging outcomes.
+In addition, if done correctly, these acquisitions should serve to even further accelerate Superior’s flywheel
+of creating more density, lowering cost to serve, and offering the best price.
+Weather
+A final point to make about the propane industry broadly is that it is of course a weather dependent business.
+While year to year changes come out in the wash in the long run, how cold a winter season is in any given
+year can have a significant impact on demand. With that in mind, Superior Plus’s prior acquisition spending
+on the surface looks more value-destructive than reality because 2024 was one of the warmest years on
+record over the last thirty years (i.e., ~10% warmer than normal on a heating degree day basis). While it is
+impossible to know what any future year will bring, it is a helpful baseline to know that in this outlier warm
+year, and before the impact of the Superior Delivers operational improvements, Superior Plus generated
+$455 million of EBITDA in 2024.
+| 20
+Conclusion
+The truth is, most good investments begin in discomfort – or, perhaps better said, they involve doing
+things with which most people are uncomfortable. You have to believe that value isn’t apparent to
+everyone else, buy things that others think are risky and uncertain; and buy them in amounts large
+enough that if they don’t work out they can lead to embarrassment. (Howard Marks)
+Unfortunately, this year we succeeded on the latter half of that statement. Not every year can be up and to
+the right, but at the same time – to borrow from Nick Sleep -  as a learning organization, the onus is on us to
+convert these unpleasant seasons into NPV positive opportunities. Our modus operandi is to keep going with
+the same intensity and passion as always, and in the hope that what we learn along the way will be returned
+to our partners in the form of better long-term performance. Stay tuned. On a separate note, at the moment
+software companies which were once thought infallible are being laid to waste in the fear of AI
+displacement. Time will tell how this story unfolds, but it is worth noting that I believe our portfolio, with a
+high exposure to real physical activities, remains well positioned. It is unlikely that, anytime soon, AI will be
+delivering your propane, changing the oil in your car, repairing your windshield, building your house, or
+serving you food that is preferable to your favorite restaurant. Indeed, while I believe the threat of wholesale
+AI displacement for these assets is low, I also believe that relative scale advantage will be as important as
+ever. AI is certain to have immense impacts on certain areas of organizational process and efficiency, and
+the best placed companies to capture the benefits of this paradigm shift will be the ones with the scale and
+resources to make the necessary investments. Finally, other holdings in our portfolio which are physical-
+activity light, such as our investment in SoftwareOne, I believe are clear AI beneficiaries (*which is not to
+say that Mr. Market will be so definite in swiftly arriving to the same conclusion). If enterprise AI adoption
+does occur in mass scale, someone will have to help those companies get there, and as one of the largest
+global partners to all of the hyperscalers, SoftwareOne is well-placed to turn those corporate AI dreams into
+a billable reality. As always, I am happy to speak with you at length about any of our companies, and I
+remain grateful for your continued trust and partnership.
+| 21
+Appendix A: Realized Investments
+*Table above reflects the IRR of realized portfolio investments (unannualized if < 1 Year), and the equivalent IRR that
+would have been achieved had each invested dollar been allocated to MSCI ACWI.
+Ticker Company IRR* MSCI ACWI Delta
+- - 94.69% 17.29% 77.39%
+- - 3.19% 13.84% -10.65%
+- - 46.07% 14.10% 31.96%
+- - 37.70% 17.21% 20.49%
+- - 3.29% 8.86% -5.57%
+- - 28.08% 14.16% 13.92%
+- - 10.00% 2.09% 7.91%
+- - 38.91% 21.19% 17.72%
+- - 20.01% 14.81% 5.20%
+- - 27.84% 17.45% 10.40%
+- - 29.94% 14.95% 14.99%
+- - 18.71% 16.74% 1.97%
+- - 37.17% 15.28% 21.89%
+- - 42.56% -2.85% 45.41%
+- - 93.23% 3.95% 89.28%
+- - 25.79% 5.39% 20.40%
+- - 152.89% 8.50% 144.39%
+- - 30.52% 6.80% 23.72%
+- - -45.74% 6.17% -51.91%
+- - -27.90% 8.14% -36.04%
+- - 52.40% 12.64% 39.75%
+- - 1.79% -9.64% 11.43%
+- - -27.62% 0.00% -27.62%
+- - -47.93% 0.00% -47.93%
+- - -23.85% -5.67% -18.18%
+- - 7.17% -6.36% 13.53%
+- - -14.32% 27.25% -41.58%
+- - 67.27% 33.60% 33.67%
+- - 43.42% 9.53% 33.89%
+- - 43.62% 16.98% 26.64%
+- - -60.75% -4.47% -56.28%
+- - 42.27% 9.61% 32.65%
+- - -15.20% 0.56% -15.75%
+- - -10.08% 8.76% -18.84%
+- - 41.90% 12.32% 29.58%
+- - 35.43% 12.56% 22.87%
+- - 5.12% 6.87% -1.75%
+- - 38.15% 19.86% 18.29%
+Average 22.26% 9.70% 12.56%
+| 22
+Appendix B: Unrealized Investments
+*Table above reflects the IRR of unrealized portfolio investments (unannualized if < 1 Year), and the equivalent IRR that
+would have been achieved to date had each invested dollar been allocated to MSCI ACWI. As of 1/28/2026.
+Ticker Company IRR* MSCI ACWI Delta
+- - -6.05% 17.75% - 23.80%
+- - 22.21% 16.71% 5. 50%
+- - 17.78% 15.77% 2. 01%
+- - 11.88% 21.33% - 9.45%
+- - -9.16% 11.16% - 20.32%
+- - -84.12% 24.72% - 108.84%
+- - 12.08% 11.84% 0. 24%
+- - 70.90% 27.45% 43. 45%
+| 23
+Important Disclosures
+Performance data for Emeth Value Capital and its predecessor shown in the chart on the first page of the letter is net of
+actual fees charged, reflecting our published management fee schedule, as well as performance incentive fees, if earned.
+Results include the effect of all trading and other custodial fees or expenses, and is current as of the date(s) indicated.
+Returns include the reinvestment of dividends and other earnings
+Emeth Value Capital became initially registered as an investment adviser on January 1, 2021. Performance prior to that date
+reflects the personal account performance of Emeth Value Capital, LLC’s sole managing member, Andrew Carreon, and
+therefore represents predecessor performance and not performance achieved by any account managed by Emeth Value
+Capital. After January 1, 2021, performance reflects a composite of all accounts subject to a performance fee arrangement,
+as well as Mr. Carreon’s personal account. Mr. Carreon is responsible for both the prior results of his personal account
+(which was the only account he managed prior to forming Emeth Capital Value) and the results achieved at Emeth Value
+Capital. Mr. Carreon’s personal account was previously managed in a manner substantially similar to the strategy used by
+Emeth Value Capital. Mr. Carreon’s account performance reflects the application of model fees equal to the asset-based fee
+plus incentive structure applicable to all accounts held by qualified clients.  Clients who are not subject to a performance fee
+are not included in the composite. These are a small subset of the firm’s clients and represent approximately 1% of the
+firm’s assets under management. Performance of non-qualified clients was generally better than qualified clients due to the
+impact of lower fees during the periods shown. Emeth Value Capital is no longer accepting non-qualified clients and
+currently offers only a performance-based fee arrangement.
+Past performance is not a guarantee of future results. Investing through Emeth Value Capital includes risk, including the risk
+of permanent capital loss.  Accounts managed by the firm may experience losses greater than prevailing market returns, as
+well as gains lower than prevailing market gains. Similarly, individual accounts included in the composite experienced
+performance different from the overall composite due to timing of account opening.
+The Delta column in the performance chart represents the amount of outperformance (positive number) or
+underperformance (negative performance) of Emeth Value Capital and its predecessor relative to the results of the MSCI
+ACWI Index.
+We believe portfolio and index information is from reliable sources, however, we cannot guarantee accuracy, completeness,
+or timeliness. We prepared this information internally and it has not been independently audited or verified. It should not be
+used to make investment decisions and does not constitute investment advice.
+The MSCI ACWI index captures large and mid-cap representation across 23 developed markets and 24 emerging market
+countries.  It contains 2,650 securities and covers approximately 85% of the global investable equity opportunity set. Market
+index information is included to show relative market performance for the periods indicated. Index returns are presented on
+a total return basis, including reinvestment of income distributions. Comparison to this index is imperfect since this is a
+broadly based index which differs in many respects from the composition of our portfolio strategies. Client portfolios are
+less diversified than the index in terms of number of securities and sectors represented. Our portfolios also include some
+amount of cash, which is not included in the index. Indexes are unmanaged and you cannot invest directly in them.  They
+don’t incur or report expenses, such as trading costs or management fees; these fees do apply to client portfolios and reduce
+returns.
+| 24
+Our strategy may experience greater volatility and drawdowns than market indexes. Such strategies are not intended to be a
+complete investment program and are not intended for short term investment. Before investing, you should evaluate your
+financial situation and ability to tolerate volatility.
+Material market and economic conditions that could have had an effect on the results portrayed during the reported time
+periods include the decline in global capital markets during the COVID-19 crisis, the Great Financial Crisis (GFC), the
+lengthy stock market recovery from the GFC trough, historically low interest rates followed by significant increases in
+inflation and interest rates in 2021 and 2022, volatility in oil prices and currencies, and other factors. All other factors being
+equal, our own results will generally suffer from overall falling markets and will generally benefit from overall rising
+markets.
+Contact
+Emeth Value Capital welcomes inquiries from clients and potential clients. Please visit our website at
+emethvaluecapital.com or contact Andrew Carreon at acarreon@emethvaluecapital.com

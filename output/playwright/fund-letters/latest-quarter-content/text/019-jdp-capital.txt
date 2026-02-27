@@ -1,0 +1,339 @@
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+1
+Survivor & Thriver Fund, LP
+2025 Annual Partnership Letter
+Dear Partner,
+Two thousand and twenty-five was a good, yet choppy year for our fund. In 4Q the
+fund was down -7.5% bringing the full year return to +21.8% net to investors. This compares to the
+S&P 500 which gained 3.1% in 4Q and 17.7% for the full year assuming dividends had been
+immediately reinvested back into the index.
+In last year's annual letter I talked about the acceleration of technological change that I saw
+happening in sectors and companies I follow. What a difference a year makes.
+Conversations about using LLMs for everything from tax advice to holiday planning now feel
+commonplace. New agents are emerging that are increasingly capable across a wide range of tasks,
+from coding to managing personal stuff. Teenagers discuss viral songs that were not created by a
+human, or the new short video series on TikTok produced by a single creator. People remark on how
+nice high-speed Starlink internet is on a flight, and how cool it was to experience a driverless taxi for
+the first time.
+I am fully aligned with the view that many tasks currently performed by humans will increasingly be
+handled by hardware controlled by a software “brain” that learns and improves on its own. As this
+happens, use cases for products can expand beyond narrow, sector-specific verticals like “ride-
+sharing” or “warehouse” into broader categories such as “transportation” or “industrial.”
+Throughout history, major technological shifts have created a bigger economic pie. The invention of
+the cotton gin replaced human jobs initially, but allowed daily cotton production to go up by 10x.
+This rapidly transformed the US economy as cotton become the dominant cash crop by the mid-19th
+century. Prior to the cotton gin, the invention of the printing press revolutionized the European
+economy by cutting book and newspaper costs by over 75%. Cities with printing presses in the 15th
+century grew 60% faster than similar non-printing cities for the next 100 years.1 Until AI, the mother
+of all modern economic transformation had been the internet, with its contribution to GDP
+exceeding the largest pre-internet sectors like agriculture and energy.2
+Much like prior technological step-changes, AI is driving the next major leap in economic
+productivity. The result will be that the way we use products and interact with the world will evolve,
+as it has for centuries. We no longer travel by horse-drawn buggy because the automobile enables
+us to go farther, faster, and at lower cost.
+The stock market narrative has rapidly shifted from fears of an “AI bubble” to “AI destruction.”
+Rather than focusing on the growth AI can unlock, the market is panic-selling most things tech.
+Today's sell-off is reminiscent of the “DeepSeek Moment” a year ago, after the release of the
+Chinese open-source LLM DeepSeek led to sharp declines.
+1 Boston University: INFORMATION TECHNOLOGY AND ECONOMIC CHANGE: THE IMPACT OF THE PRINTING PRESS
+2 McKinsey: The impact of the internet on economic growth and prosperity
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+2
+While we do not own any enterprise software stocks but the correction has also spread wider, such
+as to our high free-cash-flow generative consumer tech names. I am actively sifting through the
+dislocation for new ideas. We are not looking for collapsed stocks hoping for a bounce. Instead, we
+want to own companies with similar characteristics to what we own today, and with business
+models positioned to get stronger as AI tools improve.
+As token prices continue to decline and new chip designs enable lightning-fast, low-power inference,
+monetization models [of everything] are likely to shift to consumption-based. For the right
+businesses this will unlock TAM that was previously out of reach.
+For example, smaller consumer platforms such as Spotify will be able to build Facebook-like
+recommendation engines, powered by new inference-as-a-service offerings that were cost
+prohibitive even a year ago. More effective recommendation engines should enable more effective
+performance-based advertising and support a higher take rate on product-driven transactions. In
+many categories there will be meaningful winners that the market is currently overlooking.
+Overview and Outlook
+The "N.O. Shaped" Economy
+The bull market that began in October 2022 and has resulted in three consecutive years of
+double-digit gains even as headlines and sentiment were largely bearish. Also known as the "most
+hated V-shaped recovery" the S&P 500 did well in 2025 (again) despite widespread skepticism, soft
+economic data, and a constant drumbeat of recession calls.
+2025 was one of the most volatile years since COVID. After a big initial rally in January and February,
+the S&P 500 fell 18.9% to its low on 8 April, followed by a sharp rally. In October, the S&P fell over
+10% from its late summer peak before recovering into year end. I expect a similar pattern in 2026.
+Investors who just stayed invested last year probably did much better those who tried to time the
+market.
+The "real economy" has been losing momentum since the Fed started the most aggressive interest
+rate hike in history in 2022 while technology businesses have largely been able to continue growing.
+In the 3Q letter I referenced the economist Jim Paulsen's work on market pessimism. More recently
+Jim put out more excellent work on his framing of the last 3 years, calling this period the "N.O.
+shaped" economy, where N stands for New-era and O stands for Old-era.
+In a recent interview Jim explains New-era as large-scale technology, AI, software, and intellectual
+property heavy businesses that operate on structural innovation cycles that allow them to grow
+even when traditional cyclical drivers are soft. Old-era are sectors like manufacturing, traditional
+retail, construction, industrials, and services are still governed by interest rates, bank credit,
+inventory cycles, and consumer income growth.
+The reason so many investors have been left out of the narrow bull market has been a disconnect
+between broad economic data and the companies that largely live outside these economic hurdles.
+• The aggressive Fed tightening cycle that began in 2022 was historically unique in that an
+entire bull market unfolded under tightening rather than easing where tech growth masked
+the pain in Old-era businesses.
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+3
+• High interest rates and a record-length yield-curve inversion choked off credit-dependent
+sectors but had limited impact on the most profitable New-era businesses, which [were] less
+reliant on bank financing and could self-fund growth from cash flows.
+Going into 2026, real US GDP growth is now closer to 1.8–2.0% after backing out tariff front-running
+and unemployment is rising. Old-era areas of the market are starting to move higher betting on a
+combination of pent-up growth, lower interest rates, tax incentives, conservatively financed public
+companies, and that the US will avoid a recession. I am in the camp that interest rates will come
+down over the next year or so, possibly by a lot, especially as AI continues to put deflationary
+pressure on the labor market.
+My guess is that 2026 could be a good year for the recovery of many of the cyclical stocks that have
+been left behind over the last 3 years. Although there might be a mean-reversion trade to be had,
+we will focus on stocks that could be structural winners and not just a trade.
+Investing in Survivor & Thriver businesses vs trading
+The concept of the "Survivor & Thriver business" serves as both the North Star for our investment
+process, a strategy, and a reminder that there are very few companies that can survive and thrive
+long enough to beat the market over long stretches of time. True Survivor & Thriver businesses are
+rare but their power-law impact on an investment lifetime is well understood.
+When we look back in 10 or 20 years from now at the cohort of Survivor & Thriver stocks that beat
+the market, it is likely that the drivers of those returns were obvious all along. This is also true for
+stocks that might be flying high today but ultimately will not be sustained winners.
+Even the most bullish Google investors back in 2004 probably could not have imagined the
+company's revenue would grow from $3.2 billion to over $450 billion in 22 years.3 Looking back at
+Google sell-side reports from the mid 2000s, the buy and sell recommendations were always
+focused GAAP financial metrics such as the P/E ratio. But what mattered for over a 22 year period
+was not a financial ratio or interest rates, but the durability of the platform's monetization power
+built on top of possibly the world's largest privately-owned data treasure trove.
+The moats that power Survivor & Thriver businesses are not always intuitive or obvious. The
+cigarette maker Altria Group (formally Philip Morris) holds the record for the highest returning stock
+of all time. Including dividends Altria has returned ~265,000,000% since 1925 and ~12,800% since
+Google's IPO alone. It turns out that certain cigarette brands have tremendous pricing power that, so
+far, has outrun enormous headwinds such as declining number of smokers, endless tax hikes and
+highly restrictive advertising.
+The challenge to picking tomorrow's winners
+The challenge to picking tomorrow's winners is that technology is compressing corporate lifespans
+faster every year. It is more common to see new companies scale fast, with much less capital and
+fewer employees than was possible even five years ago. Societal norms and lifestyle patterns are
+also changing faster. Past safe-haven sectors like healthcare, alcohol, transportation and utilities are
+facing major business model changes that will result in the future looking a lot different than the
+past. Btw, major change doesn't mean doom and gloom and there will winners in all sectors.
+3 SEC filings, JDP estimate of 2026 revenue
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+4
+My point is that with so much rapid change, identifying tomorrow's winners is not as easy as running
+a screen on historical earnings. When the past is less of a reference for the future, identifying
+durability is more qualitative, subjective and difficult because it often goes against consensus.
+Since the future is so uncertain we look for businesses with moats that are protecting market
+position in a market that is growing. We want leadership that can evolve quickly when others can't.
+We also want secular tailwinds and structural advantages that will be more important in tomorrow's
+economy. In our case this could mean owning a large global platform where customer behavioral
+data is used to enhance products, deepen customer relationships and drive pricing power.
+Lastly, we need to feel good about the price we pay relative to the business's opportunity set over a
+reasonable time horizon. Every stock in our portfolio was purchased at a time when the market was
+distracted by economic uncertainty or a business or sector transition that overshadowed underlying
+earnings power.
+Selected Portfolio Review
+The biggest contributors to 2025 performance were our China basket, Spotify +29.8% and Roku
++46%. Within the China basket Alibaba was +82%, Tencent +52% and CATL +32% (partial year only)
+in 2025. We sold Ping An for a small gain after a long hold and initiated a toehold in an unnamed
+Chinese broker-dealer. Tesla ended 2025 +11.3% underperforming the market and our fund. As of
+yearend 2025 our Tesla position is up about 136% since making the investment in mid 2024.
+The biggest detractor from performance in 2025 was Caesars Entertainment which ended -30%. The
+equity now trades for roughly 1x EBITDA and 5x EV/EBITDA as US consumer spending power is
+perceived to be dying. We trimmed the position at yearend in order to realize a loss and offset a
+small realized capital gain in the fund from earlier in the year.
+New position - Pure Storage (NYSE: PSTG)
+In early January 2026 we initiated a starter position in Pure Storage (Pure). Pure is a enterprise data
+storage company that develops flash storage hardware and software with a market cap of about $20
+billion. Pure was founded in 2009 by industry veterans Coz Colgrove and John Hayes and went public
+in 2015. The company helped pioneer modern flash-storage architectures that replace legacy disk
+systems, and it has expanded into software and subscription-based data services for cloud and AI
+workloads.
+Despite a huge run in memory stocks in response to AI data center demand, enterprise storage
+stocks like Pure have not benefited nearly as much. PSTG's stock price has been about flat since mid
+2024. The market still mostly values Pure's revenue as a commodity storage vendor. But the
+business is moving up the quality ladder towards infrastructure software with compounder
+characteristics.
+Enterprise storage vs. memory and the potential for a re-rating
+For decades enterprise storage has been treated as low-growth cyclical hardware, while DRAM and
+NAND suppliers captured most of the recent growth. Older hard disk drive-centric architectures with
+little pricing power kept the storage business more commoditized while memory (DRAM/NAND)
+rode secular tailwinds. As chips got smaller and cheaper to make, memory companies were able to
+sell more storage every time servers were upgraded. What changes now?
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+5
+With a shift to AI inference workloads the storage layer becomes more important because of its
+constraint on GPU utilization. Storage becomes a bottleneck as models get larger and inference
+becomes more complex.
+Huge amounts of data must be pulled from storage repeatedly at extremely fast speeds. This creates
+an opportunity for the storage sector (and Pure specifically) to provide software that enhances
+utilization and GPU productivity. Once storage affects GPU productivity it becomes more mission-
+critical, similar to power, networking, or memory.
+PSTG vs traditional storage
+Most traditional storage vendors like Dell assemble systems using standard, off-the-shelf solid-state
+drives that were not designed for AI workloads. These systems work well for general data storage,
+but they are known for small, unpredictable delays that don’t matter much in normal IT
+environments.
+Instead of relying on pre-packaged drives, Pure designs its systems to manage the underlying flash
+memory through its own software. This gives it tighter control over how data is delivered, resulting
+in more consistent performance. The result is storage that behaves predictably at large scale which
+is ideal for maximizing utilization of AI infrastructure.
+Structural tailwinds
+AI workloads are increasingly constrained not by computing power but by how much data systems
+can store and how quickly that data can be moved to the processors doing the work. As AI models
+grow larger, they require more memory and storage. This is driving a shift toward faster, high-
+capacity flash storage over traditional hard drives.
+Pure is positioned at the center of this shift because its systems manage raw flash memory directly
+through its own software rather than off-the-shelf solid-state drives. Pure seems to have a structural
+cost and performance advantage that is difficult to replicate without legacy competitors rebuilding
+their products.
+Evergreen//One Program and the recurring revenue model
+The Evergreen business model was first launched in 2015 as a new ownership and subscription
+model to replace disruptive storage upgrades. Evergreen allows in-place upgrades so hardware can
+be refreshed while the array stays online. This way Pure prices storage as a consumption service
+where customers commit to a performance and capacity tier. Pure grows ARR through contracts and
+remaining performance obligations (RPOs) rather than one-off hardware sales.
+This model is especially attractive as inference gains traction and future hardware requirements are
+less certain. Our thinking is that Pure’s existing footprint becomes a beachhead for incremental IT
+and AI spend as customers roll out inference products that requires stricter latency. Evergreen is
+now a core driver of Pure’s recurring revenue and represents about 45% of total revenue. As of 3Q,
+ARR reached $1.84 billion and is growing in the high-teens.4
+4 Pure Storage Investor Relations, SEC filings, JDP estimates
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+6
+Implications to upside potential
+Pure is positioned at the center of a secular shift as flash storage replaces hard drives across
+enterprise, hyperscale, and AI-adjacent workloads.
+Estimates for market size range from $65 billion by 2031 (Mordor Intelligence) to $132 billion by
+2035 (Future Market Insights), up from roughly $20 billion today. Pure's own TAM framework
+estimates the all-flash array market will grow >20% annually for the next ~5 years (company
+presentations).
+As AI inference and data-intensive applications scale, storage could move from a cyclical purchase to
+a capacity layer, structurally enlarging the lifetime spend per customer.
+Starting from roughly $630 million of FY26 non-GAAP operating income, Pure has a credible path to
+$2+ billion of operating earnings over the next five years. This is supported by market expansion,
+share gains in flash, and operating leverage as recurring revenue becomes the majority of revenue.
+In our bull case, Pure's operating margins could settle out in the mid 30% range with returns on
+capital between 30% and 40%, and a debt-free balance sheet.
+In this scenario the valuation would support a 30x to 40x multiple on $2 billion of GAAP operating
+earnings implying a $60 to $80 billion enterprise value versus $20 billion today. Although Pure might
+screen expensive, we think the fundamental downside case is limited because of Pure's market
+position and sector tailwinds.
+China basket
+Although Chinese indexes did well in 2025, large cap tech still remains particularly attractive. Not
+only are secular tailwinds so much stronger than the mainstream economy, the tech conglomerates
+are much more focused on maximizing margins and earnings per share than in years prior. For
+Alibaba and Tencent this means shedding stagnant operating divisions that had masked core
+earnings growth, doubling down on the core businesses and buying back stock.
+Alibaba (BABA) is now our third largest position as I have let the position run. The longer term
+potential for BABA is much clearer to me today than when we first invested. BABA's equity valuation
+had fallen to about $200 billion when we invested and the stock looked deeply undervalued based
+on earnings and a balance sheet overstuffed with investments.
+Initially I did not fully appreciate the company's leadership position in China enterprise cloud. This
+advantage has allowed BABA to emerge as a winner in the development of AI products like the
+foundational model Qwen built on top of core offerings. In 3Q26 the cloud business alone grew
+revenue ~34% YoY to about $5.6 billion or a ~$22 billion annual revenue run-rate.5
+BABA's planned $53 billion investment in data centers over the next three years will allow it expand
+in inference and other infrastructure services, similar to the playbook of their US peers.
+Comparable growth playbooks at AWS and Google Cloud have combined compute with expanding
+layers of managed services to drive customer lock-in and pricing power.
+5 Company investor relations, JDP research
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+7
+BABA is effectively implementing the Chinese version of this strategy with Qwen models and
+inference-as-a-service serving as hooks that pull demand into its cloud ecosystem.
+With the company's renewed focus I would argue that BABA is actually cheaper today than it was 18
+months ago at half the price.
+Tesla
+Tesla has evolved faster than any business we have ever owned. While the bears fixate on slowing
+auto sales it misses what has been an extraordinary period of technological acceleration across
+autonomy, robotaxi development, manufacturing, batteries, and utility-scale energy storage. We
+invested in Tesla on the basis Elon would go all-in on building an operating system for vehicles that
+could re-shape transportation.
+The most important change over the last 18 months has been the transformation of FSD (Full Self
+Driving). Tesla shifted its FSD approach from human-programmed driving rules to an end-to-end,
+vision based self-learning system that continuously improves from real-world experience. Instead of
+following pre-mapped routes like competitors, Tesla’s vehicles are able to perceive, reason, and
+interact with the world in an open-ended way. This is made possible by a data flywheel drawn from a
+global fleet, exposing the system to millions of micro driving cases that grows more difficult to
+compete with on daily basis.
+True autonomy means moving around on any street, in any city or country, without sacrificing the
+freedom that personal vehicles represent today. Estimating the financial opportunity for true
+autonomous transportation is simply: total global vehicle miles per year, multiplied by the cost to
+build and maintain the vehicle. This implies a multi-trillion-dollar transformation of transportation
+economics where the most scaled software matched with the lowest cost vehicle, captures an ever
+increasing share of the market as the product improves.
+The Optimus opportunity is now much clearer to me than it was when we first invested into Tesla.
+Optimus can be thought of as the same autonomy stack as in self-driving vehicles but in a different
+form factor. But the market for general purpose robots is much larger than transportation. Today’s
+robotics market is constrained because machines are built for narrow, pre-defined tasks in
+controlled environments. A self-learning humanoid robot breaks that constraint. Once a robot can
+generalize using vision, the addressable market shifts from niche automation to broad, general-
+purpose physical labor (from stocking grocery shelves to deep-water welding). In effect, the
+addressable market becomes most blue-collar jobs.
+Together, FSD and Optimus represent a robotics operating system and platform for real-world AI.
+Although our Tesla position has more than doubled since we invested less than two years ago, the
+company's opportunity set is more tangible and better understood than when we invested.
+Spotify
+It was a rollercoaster year for Spotify's stock but a smooth year for growth. After initially rocketing
+up over 60% in the first half of the year as a "safe haven", SPOT ended the year up 29.8%. The stock
+is now in a ~35% drawdown from the 2025 high out of fears that the recent premium plan price hike
+could stifle growth. We do not try and trade around bullish and bearish sentiment because it would
+not be fair to our taxable LPs (myself included) to generate tax liabilities simply to massage monthly
+returns.
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+8
+Although 4Q'25 earnings are not out yet, the company estimates it will end 2025 with 745 million
+users, up by 100 million over 2024.
+Since we've owned the stock, Spotify has added over 530 million users. Operating income has gone
+from near-breakeven, to what we think will be north of US$3.5 billion in 2026.
+Gross margin, operating income and free cash flow continue to grow faster than revenue with gains
+operating leverage across the platform.
+By our estimates, 2025 operating earnings grew by ~56% and free cash flow was up about 26%. This
+was driven by subscriber growth, price increases for the premium tier and increased use of the two-
+sided marketplace.
+The hand that feeds the music industry
+In 2025 Spotify paid out about $11 billion to the recorded music industry. With the global recorded
+music market estimated to have generated roughly $30 billion, Spotify represented around 36% of
+total industry revenue and about 50% of all streaming revenue generated for the music industry.6
+Spotify is the music industry's consumer engagement layer and outsourced technology partner. In
+return, Spotify collects and owns personal behavioral data that it uses to analyze patterns across
+users as shared preferences for mood, styles and listening contexts. This understanding allows the
+system to predict what users might like and build personalized music, podcast and audiobook
+playlists. Beyond user behavior, Spotify extracts characteristics from the audio itself and applies
+language models to lyrics, descriptions, and spoken content in podcasts. This allows the platform to
+recommend new content with little prior listening history.
+Although Spotify is always experimenting with new verticals beyond music, podcasts, audiobooks,
+the biggest opportunity might be to leverage its relationship with ~750 million people to build a
+leading digital ad business. I have written before that Spotify has tried and failed to meaningfully
+grow its advertising business in the past. But my channel checks indicate that the company has made
+excellent progress in working through various bottlenecks.
+Spotify’s advertising opportunity is compelling because it starts from a low base of roughly US$2
+billion or ~10% of revenue today. The ability to target ads based on real-time context and
+engagement creates ad inventory that is highly targetable. As mentioned earlier, access to cheaper
+inference and then partnering with larger ad distributors like Amazon, should allow the company to
+move from just a low margin click-based revenue model towards a take-rate option for some
+advertisers, that captures a percentage of the revenue generated on the platform.
+This opportunity is far from priced into the stock and should be an important driver of
+management's bigger goals. Unlike Netflix, Spotify does not need to invest in owned-content,
+meaning incremental advertising revenue will translate into higher returns on equity, supporting a
+terminal multiple more similar to a standalone YouTube.
+6 Music Business Worldwide, Spotify, JDP research
+CONFIDENTIAL, DO NOT DISTRIBUTE  CONFIDENTIAL, DO NOT DISTRIBUTE
+9
+Closing thoughts
+The market narrative has quickly moved from “AI bubble” fears to “AI destruction” fears. AI will
+undoubtedly mean permanent impairment for businesses that cannot evolve, but it will also provide
+a powerful tailwind for those that can.
+Similar to investing at the dawn of the printing press, the cotton gin, or the internet when the
+potential impact of these technologies was highly controversial, I believe we are entering what will
+be remembered as an extraordinary era for investing. As my friend Chris Begg of East Coast
+Management wrote in his last letter, “What makes this work difficult, and what makes it interesting,
+is that these opportunities rarely appear under blue skies. They appear under clouds.” Today’s clouds
+around AI are why our opportunity ahead may be so compelling.
+As a final note, I want to say thank you for your patience and trust.  My family and I are fully invested
+alongside your capital.
+Sincerely,
+Jeremy Deal

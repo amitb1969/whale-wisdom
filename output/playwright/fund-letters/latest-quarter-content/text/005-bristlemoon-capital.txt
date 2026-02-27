@@ -1,0 +1,855 @@
+Bristlemoon Global Fund
+  .
+
+Quarterly Report                                                                                        Unit Price: $1.119
+December 2025
+
+The Bristlemoon Global Fund returned -6.2 percent for             Performance (%)
+the December 2025 quarter, with a 0.3 percent return              December 2025
+for the month of December 2025, net of fees. For the
+eighteen-month period since inception, the Fund has               Net return                                                 0.3
+produced a cumulative 11.9 percent return, net of fees.
+
+Key performance contributors in the month of
+December included AppLovin, Synopsys, and PAR                     Portfolio Exposure (%)                                % of NAV
+Technology Corporation. Notable performance                       (as at 31 December 2025)
+detractors over the same period included Timee, Fair
+Isaac Corporation, and Uber Technologies. Notable                 Long                                                      102.5
+                                                                                                                        % of NAV
+positive contributions from the Fund’s short book in              Short                                                     (16.8)
+December include National Vision Holdings, Nike, and              Net exposure                                              85.8
+Starbucks.
+                                                                  Number of long positions*                                    19
+While the performance over the last 12 months has                 Number of short positions                                   14
+unfortunately been soft, we are currently seeing exciting
+                                                                  * Excludes derivative positions.
+investment opportunities emerge, particularly amongst
+high quality businesses that we have been waiting to
+own at the right price. In this quarterly letter we briefly       Top 5 Long Positions                     (Alphabetical order)
+                                                                  (as at 31 December 2025)
+discuss some of the new positions in the Fund – Adobe,
+Baltic Classifieds Group, and Timee – as well as
+                                                                  AppLovin Corporation
+give a more detailed investment thesis around our                                                          (Alphabetical order)
+recently initiated position in Floor & Decor                      Fair Isaac Corporation
+Holdings.                                                         Floor & Decor Holdings
+                                                                  Hemnet Group AB
+We believe the Fund is well-positioned and we see
+significant latent value in the stocks held. To prospective       PAR Technology Corporation
+Australian wholesale investors: if you have followed our
+research and share our long-term philosophy, we
+welcome the opportunity to partner with you. Please
+contact info@bristlemoon.com to learn more
+about investing in the Bristlemoon Global Fund.
+
+
+
+
+Fund Returns (Net)
+(%)
+             Jan      Feb      Mar      Apr     May       Jun         Jul        Aug         Sept       Oct     Nov         Dec
+ 2024                                                                (1.1)        0.6         7.4       6.8      0.2         3.1
+ 2025         5.1     (1.5)    (6.5)   (0.6)     1.7      (1.4)      (2.2)        1.9         5.6       (3.1)   (3.5)        0.3
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                           www.bristlemoon.com            1
+Bristlemoon Global Fund
+  .
+
+
+
+      Reflections on 2025
+      Having closed out 2025, it is worth reflecting on both the year past and what we see for the year ahead.
+      In many respects, 2025 felt like an amplification of recent market dynamics: the perceived AI winners
+      rallied higher, while ostensibly “cheap” stocks proved that they could get even cheaper if they were
+      perceived to be AI losers.
+
+      The Fund has benefitted from the strong performance of a number of AI winners. For example,
+      AppLovin has been applying machine learning to improve its ad algorithms, and to great effect. The
+      company’s Software Platform revenues and adjusted EBITDA on a last twelve month basis are up 72%
+      and 89% year-over-year, respectively. In the 16 months since we first bought AppLovin, the stock has
+      increased in value by more than 10x. We mapped out our bullish AppLovin thesis in our September
+      2024 quarterly letter before the market appreciated the company’s ability to sustain its explosive
+      growth.
+
+      In our September 2025 quarterly letter we explained why we had taken positions in Alphabet and
+      ASML. We highlighted how ASML is a monopoly in the semiconductor industry during an AI boom.
+      Our writeup outlined the bear case arguments and explained our reasoning for why they were
+      misguided. Other investors began to agree with our investment thesis, sending the stock from around
+      €600 per share to north of €900 per share in the span of a quarter. Alphabet, where investor sentiment
+      around AI had become unduly pessimistic, has also since delivered solid performance and contributed
+      meaningfully to the Fund’s returns.
+
+      In all of these examples of winning investments, the market quickly came around to our view, leading
+      to a sharp re-rating in the stock price. Ideally, we are only aggressively buying and sizing up stocks just
+      before they inflect, yet it is unreasonable to expect to perfectly time all our investments. While there
+      was skill in identifying a gap between the financial performance we thought these businesses would
+      achieve and the expectations of other investors, it was mostly lucky that the market began to agree with
+      us imminently after we made those investments.
+
+      While we do deep work in forming our high conviction views on the risk/reward of investments,
+      unfortunately that conviction does not extend to the timing of when the market will agree with us for
+      any given stock. Sometimes this convergence of opinions will already be underway when we begin
+      purchasing the stock, which is the ideal scenario. However, the market often remains indifferent for
+      extended periods, or worse still, allows specious narratives to drive the share price lower.
+
+      We do not profess to have a crystal ball regarding market sentiment. It is a variable we have misjudged
+      many times in the past. Instead, we remain comfortable committing capital to stocks where the
+      discrepancy between price and value is wide, having the patience to wait for the market to revise its
+      view while the business compounds its intrinsic value over time.
+
+      Unfortunately, the strong contribution to the Fund from the abovementioned stocks has been offset by
+      very weak performance in two of the Fund’s largest positions: Hemnet Group and PAR Technology
+      Corporation. Both positions have more than halved in value peak to trough – a disappointing outcome.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                www.bristlemoon.com       2
+Bristlemoon Global Fund
+  .
+
+
+
+      However, to the extent that the declining share prices do not reflect a genuine impairment in the value
+      of the business (and to be clear, we believe that no such impairment has occurred), then the return
+      potential from these stocks effectively becomes a coiled spring. Rather than receiving those investment
+      returns today, they have merely been shifted to the future, and could be realised in a rapid fashion to
+      the extent that other investors begin to appreciate that the bear arguments are unfounded.
+
+      Why we still have conviction in Hemnet and PAR
+      We disagree with the bearish narratives that have pushed these stocks lower and have taken the
+      opportunity to add to the Fund’s holdings in these great businesses. Despite the weak share price
+      performance, we are optimistic on the potential of these two stocks to deliver attractive returns over the
+      next few years.
+
+      We wrote a detailed update on Hemnet here, explaining why we believe the stock is significantly
+      undervalued and highlighted potential catalysts that could lead to a re-rating in the stock. As an
+      investor in the Bristlemoon Global Fund, you automatically get full access to our investment missives.
+      If you are unable to access this research, please contact us and we will arrange for you to receive access.
+
+      We have also written extensively about PAR, and we believe that the future for the business continues
+      to brighten. Despite this, the stock’s performance during the quarter was weak, falling by -8%. PAR
+      remains a quality business, but it is temporarily out of favour. It currently sits in a blind spot for many
+      investors: it is a small cap, unprofitable software company working through the overhang of a prior
+      guidance reset (a topic we addressed in our September 2025 quarterly letter as being non-structural).
+
+      The investment case for PAR has strengthened materially in recent months, driven by what we view as
+      a watershed moment for the restaurant technology industry with PAR working towards signing a
+      contract with a mega tier-1 which we believe to be McDonald’s.
+
+      That fact that McDonald’s, one of the most tech forward restaurants that has supported its own in-
+      house point-of-sale (POS) software for decades, is potentially exploring a partnership with PAR speaks
+      volumes. It suggests that even the largest, best-capitalised players are realising that the mission-critical
+      layer of their tech stack – that is, the POS software that processes 100% of their revenue – is too
+      complex and expensive to maintain internally, and is more effectively managed by a best-of-breed third
+      party vendor like PAR.
+
+      This dynamic directly counters the bear case that generative AI will allow companies to simply “vibe
+      code” their own software solutions cheaply. We believe the opposite is true: when the POS software
+      layer costs a mere 15-20 basis points of a restaurant’s average unit volumes but POS downtime results
+      in operational paralysis, the asymmetry of risk demands enterprise-grade stability and support, not AI-
+      produced improvisational code. McDonald’s potential capitulation on “building it themselves” would be
+      the ultimate validation of PAR’s customer value proposition.
+
+      Rather than being displaced by AI, we view PAR as a beneficiary. The fragmented nature of legacy
+      restaurant IT – where the POS, loyalty program, and back-of-house systems sit in siloed databases –
+      makes deploying AI challenging for most chains. PAR’s competitive advantage is its unified platform
+      strategy, which stitches these modules together into a single data lake.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                 www.bristlemoon.com       3
+Bristlemoon Global Fund
+  .
+
+
+      This clean data structure is the prerequisite for functional AI. A prime example is PAR’s Coach AI,
+      which effectively acts as a digital district manager. Because the system sees the complete picture via
+      PAR’s unified platform – pulling live data from POS, inventory, and labour scheduling – it can provide
+      automated, natural-language recommendations to restaurant personnel. We foresee a future where
+      Coach AI can autonomously tell a manager “add two staff for the dinner rush” based on local weather
+      patterns, or “prepare 50 more patties now” based on live consumption rates. We believe that this is only
+      the beginning of an AI-rich feature set that should accelerate PAR’s advantage over competitors.
+
+      On the Q3 2025 earnings call, CEO Savneet Singh commented that for that major restaurant brand
+      (which we believe to be McDonald’s), they had progressed from the RFP phase to the development
+      phase. Around one month later at the UBS Global Technology and AI Conference, Savneet sounded
+      even more positive on the potential to convert some of the mega tier 1 deals the company has been
+      pursuing: “we're getting to the red zone of two of these for sure, and we feel more encouraged now than
+      we did two weeks ago, three weeks ago.”
+
+      We remain optimistic that PAR is on the cusp of announcing a definitive win of one of these tier-1
+      restaurants that would re-rate the stock, transitioning it from a small-cap software play to the anointed
+      operating system for global enterprise restaurants. However, even without such a mega tier-1 win, we
+      believe that there is a sufficient pipeline of restaurant brands that can reaccelerate the company’s
+      organic ARR growth rate, and the business is priced at a level that does not require the McDonald’s win
+      for us to do well.
+
+      This was a year where narratives at times overwhelmed fundamentals, with a bifurcation of fortunes
+      depending on whether a stock’s narrative was judged to be on the right side of the AI trade.
+      Nevertheless, we are excited about the current portfolio positioning as we have found a number of
+      stocks that meet our investment criteria, and many more that we are currently analysing. We are seeing
+      an opportunity rich environment and are the most excited about the Bristlemoon portfolio that we have
+      been in a while. Below we detail a few of the stocks that we have added to the Fund – Adobe, Baltic
+      Classifieds Group, Timee, and an extended write up on Floor & Decor Holdings.
+
+      Adobe (ADBE) – an AI loser that isn’t losing
+      We utilised the recent market pessimism around AI losers to initiate a position in Adobe (ADBE) at 15x
+      earnings, a valuation low that hasn’t been reached in over 13 years. While the bearish consensus view is
+      that generative AI is an existential threat that will lead to reduced usage of Adobe’s creative suite, the
+      business continues to print very healthy financial results, growing revenue at double digit rates and
+      earnings at a mid-teens percentage rate. We see a world where Adobe is a beneficiary of the Jevons
+      paradox: as AI collapses the cost of generating raw content, the demand for digital content will explode,
+      exponentially increasing the demand for the tools required to edit, assemble, and manage that output.
+
+      Our thesis is that while AI may commoditize creation, it entrenches the value of the workflow. Adobe
+      can be thought of as the orchestrator of professional design workflows; whether an asset is born from a
+      camera or a prompt, it almost invariably ends up in Photoshop or Premiere for final production. We are
+      already seeing early evidence of this, with AI-integrated features driving higher retention and usage
+      rather than displacement.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                               www.bristlemoon.com       4
+Bristlemoon Global Fund
+  .
+
+
+      The bear case assumes that as AI models improve, users will simply prompt their way to a finished
+      product, bypassing the need for editing software entirely. We view this as a fundamental
+      misunderstanding of the professional workflow and how generative AI works.
+
+      We believe the future workflow is hybrid: AI will generate the raw materials, but Adobe will remain the
+      essential studio where those materials are assembled, layered, and refined into commercial-grade
+      assets. By embedding AI – both first party and partner models – inside its software, Adobe captures the
+      value of both the creation and the composition. In our view, paying a value multiple for a dominant
+      software business with an AI-driven volume tailwind represents an attractive risk-reward profile.
+
+      Baltic Classifieds Group – a beaten down owner of monopoly classifieds
+      We have taken advantage of the recent sector-wide sell-off in online classifieds businesses to build a
+      position in Baltic Classifieds Group (BCG), the dominant online marketplace operator in Lithuania,
+      Estonia, and Latvia. The stock has halved since July, creating a rare opportunity to acquire a high-
+      quality owner of monopoly assets at ~17x forward earnings, with a clear path to 15-20% per annum
+      earnings growth going forward.
+
+      BCG owns the dominant portals for automotive (Autoplius, Auto24), real estate (Aruodas, KV.ee), and
+      jobs (CVbankas), enjoying the powerful network effects where buyers are locked in because that’s
+      where the sellers are, and vice versa. We view the market’s fear of AI disintermediation of online
+      classifieds businesses as misguided: while LLMs may change how users search, they cannot replicate
+      the unique, localised inventory of physical assets (homes, cars, local jobs) that resides exclusively on
+      BCG’s platforms.
+
+      As an encouraging signal, two BCG Directors purchased the company’s stock in the open market during
+      December 2025. Trevor Mather (the Chairman of BCG and former CEO of Autotrader UK) purchased
+      £465,000 worth of BCG stock while Ed Williams (Independent Non-Executive Director) made multiple
+      purchases, acquiring almost £800,000 worth of BCG stock. It’s reassuring knowing that we have been
+      buying BCG stock alongside company insiders who understand the business most deeply!
+
+      Timee – the Japanese spot work monopolist
+      We have established a position in Timee, the monopoly operator of Japan’s “spot work” (sukima baito)
+      labour market, at a valuation of 21x earnings – an entry price we view as exceptional given we believe
+      the company has runway for 20% annualised revenue growth and 25-30% per annum earnings growth
+      over the next five years. Timee addresses Japan’s critical labour shortage by providing a marketplace
+      that matches workers with immediate, short-term shifts.
+
+      Our conviction was significantly bolstered following the capitulation of Timee’s most aggressive
+      competitor: Mercari Hallo. In October 2025, Mercari announced that it would withdraw from the
+      Japanese spot work market. This is after an unsuccessful attempt to win meaningful market share over
+      an 18 month period, despite Mercari allowing employers to use its service for free (i.e., at a 0% take
+      rate) compared to Timee’s 30% take rate.
+
+      This retreat by a key competitor validates our view that Timee’s network is incredibly difficult to
+      replicate. Scaling a spot work marketplace requires maintaining a delicate, hyper-local equilibrium
+      between supply and demand. If the platform tilts too heavily towards workers, job fill rates remain high
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                               www.bristlemoon.com     5
+Bristlemoon Global Fund
+  .
+
+
+
+      but workers leave due to a lack of available shifts. Conversely, if job postings outstrip worker density,
+      employers experience low job fill rates and churn off the platform.
+
+      This created a “chicken-and-egg” barrier that shielded Timee from Mercari’s incursion. Despite
+      Mercari’s capital, they could not subsidise their way to the necessary matching density required to
+      make the marketplace viable for both sides simultaneously.
+
+      George recently met with Timee Founder and CEO Ryo Ogawa in Tokyo and came away highly
+      impressed by his strategic vision and disciplined execution in cementing Timee as the operating system
+      for Japan’s flexible labour force.
+
+      Floor & Decor Holdings (FND) – a stock that has been on our shopping list
+      A category killer business model
+      Founded in 2000, Floor & Decor (FND) is a retailer of hard surface flooring products such as wood,
+      tiles, luxury vinyl plank, and related accessories. While this might not sound very exciting, the company
+      has grown its comparable store sales at almost 11% per annum on average over the last 14 years, with
+      revenue and adjusted EBITDA growing at 24% and 25% per annum, respectively, between 2011 and
+      2024.
+
+      It is not so much what FND sells, it is the manner in which it sells its mostly private label flooring
+      products that lies at the core of what gives the company an advantage over competitors. FND is selling
+      its merchandise in 75,000 square foot warehouse stores, compared to a mere 3,000 to 5,000 square
+      feet of space that big box home improvement chains such as Home Depot and Lowes dedicate to selling
+      hard surface flooring products.
+
+
+
+
+      Source: Floor Covering Weekly. Inside a Floor & Decor store.
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                 www.bristlemoon.com    6
+Bristlemoon Global Fund
+  .
+
+
+
+      By operating large-format warehouse stores, Floor & Decor can both merchandise far more flooring
+      stock keeping units (SKUs) than peers, and, critically, hold those SKUs in job-ready quantities. FND
+      carries ~2,350+ flooring SKUs versus ~630-680 at competing home improvement centres, with ~1,730
+      flooring SKUs actually in stock – around 4x the in-stock depth of big box competitors.
+
+
+
+
+      Source: FND 2022 Investor Day
+
+      This inventory depth matters most to Pro customers – that is, professional flooring installers working
+      to fixed timelines. Pros need to purchase the entire job quantity upfront, including overage, and from a
+      single dye-lot to ensure visual consistency. When a flooring SKU is either partially available or out-of-
+      stock it is operationally disruptive, forcing a special order with a one-to-two week wait time that leads
+      to labour downtime, the postponement of job completion, and it delays payment for the Pro.
+
+      By consistently stocking job-ready quantities of flooring SKUs, Floor & Decor enables Pros to complete
+      jobs faster, keep crews productive, and accelerate cash collection. It’s no wonder that Floor & Decor has
+      been a hit with Pro customers.
+
+      Sales to Pro customers represent half of FND’s sales, up from 40% in early 2022. Floor & Decor is not
+      so much a store as it is a reliable supply partner for the Pro customer. This over-indexation to the Pro is
+      desirable, given that these customers transact at a significantly higher frequency than do-it-yourself
+      (DIY) customers, reducing customer acquisition costs per transaction and underpinning robust
+      customer unit economics.
+
+      Pro customers’ affinity for purchasing from FND has also been aided by the company’s loyalty program.
+      In early 2022, it was disclosed that 59% of active Pro customers were enrolled in Floor & Decor’s PRO
+      Premier Rewards Program, and these Pros spend 3x more than Pros who aren’t enrolled in the loyalty
+      program. FND’s loyalty program deepens engagement, incentivises repeat purchasing, and improves
+      Pro customer retention.
+
+      It is worth noting that FND follows an Everyday Low Price (EDLP) pricing strategy whereby, as the
+      name suggests, the company offers consistently low prices year-round. This is in contrast to the
+      sporadic, temporary promotions under a “high-low” pricing approach. There are a number of benefits
+      that come from FND following an EDLP strategy:
+
+         •   The stable prices under an EDLP regime builds trust with customers; these customers know
+             that they’re getting a fair price from Floor & Decor without needing to haggle or wait for
+             promotions.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                 www.bristlemoon.com      7
+Bristlemoon Global Fund
+  .
+
+
+
+         •   EDLP helps drive a self-reinforcing flywheel: consistently low prices lead to higher sales
+             volumes, with these higher sales volumes enabling a further reduction in per unit costs via
+             improved purchasing leverage with suppliers and fixed costs being spread over more units.
+             Some portion of these cost savings are passed back to consumers in the form of lower prices,
+             which in turn drives even more volumes. This virtuous retail cycle is a scale game and is difficult
+             for would-be competitors to replicate.
+         •   An EDLP approach is more operationally efficient than high-low pricing. If we consider the
+             lumpy promotional cadence of a high-low pricing strategy, it results in demand spikes during
+             discount periods that put immense pressure on the retailer’s supply chain (overtime labour in
+             distribution centres and stores, expedited freight and other inefficiencies). It also makes
+             inventory planning more difficult; missing the forecast with an inventory pre-buy could either
+             result in stock-outs during the promotion (foregone sales) or excess inventory afterwards
+             (higher markdown risk to clear this inventory, eroding gross margins). Lastly, high-low creates
+             promotional complexity and higher marketing costs. FND’s EDLP approach avoids these issues
+             that stem from high-low pricing, with potential savings that can again be passed back to
+             consumers by way of lower prices.
+         •   Pricing certainty helps Pros quote jobs accurately, and EDLP obviates the need to wait for
+             promotions to start a job. Rather, EDLP encourages repeat purchasing from Pros where the
+             reliability of inventory supply matters more than promotion-driven bargains.
+
+      Given FND’s category killer business model, it makes sense that the company has been rolling out new
+      stores.
+
+      The power of a store rollout strategy
+      The beauty of any store concept that resonates with the consumer is that it holds the potential for
+      copies of that store to be rolled out across the country. Walmart and countless other retailers have done
+      this spectacularly well and have highlighted the immense wealth generation that can result from well-
+      executed store rollout strategies.
+
+      As of Q3 2025, FND had 262 stores. The company has a longer term target of 500 stores, which was
+      upped from the prior 400 store target a few years ago. It’s clear that the company still has a lot of
+      runway before it reaches its 500 store target (and there is likely upside to this end-state store count via
+      a potential expansion into the Canadian market).
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                 www.bristlemoon.com      8
+Bristlemoon Global Fund
+  .
+
+
+
+
+      Source: Bristlemoon Capital; company filings
+
+      We view FND’s store rollout strategy as highly value-generative, and, importantly, value-generative in a
+      way that is both understandable and repeatable. Thought of another way, the unit economics of each
+      incremental store can be underwritten within a relatively tight confidence interval. This means that
+      more so than many other growth businesses, FND has good visibility around the earnings it will get
+      back for each dollar it spends on new stores.
+
+      This creates a veritable reinvestment opportunity whereby FND can consistently deploy cash back into
+      its business at high incremental rates of return, compounding the company’s intrinsic value over time.
+
+      This has led to FND producing very strong returns on capital historically, as can be seen below.
+
+
+
+
+      Source: Bristlemoon Capital; company filings
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                               www.bristlemoon.com     9
+Bristlemoon Global Fund
+  .
+
+
+
+      However, more recently, FND’s return on capital has shown a marked deterioration. This has sparked a
+      debate amongst investors: is this due to a permanent impairment of FND’s new store unit economics,
+      or merely the result of a temporary cyclical trough? This uncertainty has led to the company slowing
+      the pace of store rollouts and has contributed to the stock selling off. In fact, FND as a stock has
+      produced negative cumulative returns over the last five years.
+
+      It is worth discussing why the stock has performed so poorly, and why we believe there is now
+      compelling value at these levels.
+
+      Why has FND sold off?
+      We have followed Floor & Decor closely since 2017. It is a business we have wanted to own but we have
+      been patiently waiting for the right price. Following the Q3 2025 earnings result, the stock dropped to
+      around $60 per share, and we began building a position in the Fund.
+
+
+
+
+      Source: Bristlemoon Capital; Bloomberg
+
+      So why has the stock failed to generate positive value over the last five years, despite Floor & Decor
+      being such a great business?
+
+      The answer involves an exploration of the very difficult macroeconomic conditions FND has had to
+      contend with over the last few years.
+
+      It is worth noting that the bulk of flooring remodel activity is driven by existing home sales. Basically,
+      when a home is sold, there’s a good chance that either the seller replaces the flooring to fetch a better
+      sale price for the home, or the home buyer replaces the flooring before moving in. In other words, the
+      sale of a home is a catalyst for a flooring remodel, and thus a potential flooring purchase from Floor &
+      Decor.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                 www.bristlemoon.com     10
+Bristlemoon Global Fund
+  .
+
+
+
+      Existing home sales are cyclical and heavily influenced by interest rates and employment. COVID was a
+      period that strongly amplified that cyclicality in existing home sales and flooring remodel activity. This
+      is important to unpack.
+
+      As we can see in the chart below, existing home sales spiked during the pandemic period. U.S. existing
+      home sales increased from 5.4 million at the beginning of 2020 to more than 6.5 million at the end of
+      2022. Notably, existing home sales in the U.S. had not reached these levels since late 2006 – a period of
+      frenzied housing activity that helped catalyse the 2008 financial crisis.
+
+
+
+
+      Source: Bristlemoon Capital; Bloomberg
+
+      Combine this with the COVID stay-at-home mandates, stimulus cheques, and plummeting interest
+      rates, and it’s clear that there were very supportive conditions for flooring remodel demand during
+      2021 and 2022.
+
+      As a consequence, there was a surge in demand for flooring. FND’s business swiftly recovered after the
+      initial COVID-induced store shutdowns, with sales per selling square foot rocketing to all-time-high
+      levels. For 2021-2022, sales per square foot averaged $296, nearly 16% above the $256 average
+      achieved over 2018-2019. Notably, this includes the diminutive effect on this metric from FND
+      expanding its store base by 20% per annum over 2021-2022, given that these new stores are immature
+      and take time to ramp up their sales productivity (we discuss this below). The implication is that the
+      step up in the sales productivity of mature stores was even more pronounced.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                www.bristlemoon.com      11
+Bristlemoon Global Fund
+  .
+
+
+
+
+      Source: Bristlemoon Capital; company filings
+
+      This heady demand of the COVID era was an aberration, and we have since seen a normalization.
+      FND’s LTM sales per selling square foot in Q3 of 2025 was almost 10% below the 2018 to 2019 pre-
+      COVID average.
+
+      What has happened is that FND has gone from a period of overearning due to an abnormally strong
+      demand environment, to a phase of underearning as demand that was pulled forward into 2021-2022
+      has since left the company with a growth air pocket. While FND is an excellent business with structural
+      tailwinds (an aging housing stock, a shift from carpet to hard surface flooring, and a superior retailing
+      model as we have outlined), the company has been unable to escape the demand destruction from these
+      macroeconomic factors.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                               www.bristlemoon.com      12
+Bristlemoon Global Fund
+  .
+
+
+
+      If we zoom in on the U.S. existing home sales graph, we can see that for the past three years, existing
+      home sales have been below 4.5 million. They have simply flatlined.
+
+
+
+
+      Source: Bristlemoon Capital; Bloomberg
+
+      It isn’t since the 2008 financial crisis where we’ve seen such an extended period of collapsed existing
+      home sales, during which there were four and a half years of sub-4.5 million existing home sales.
+
+      Will we see lower mortgage rates?
+      What is needed to reinvigorate existing home sales is lower interest rates, and more specifically, a
+      decline in the 30 year fixed mortgage rate which has been stubbornly hovering around 6.3%.
+
+      Lower mortgage rates are needed to thaw property transactions because many American homeowners
+      have locked in 30 year fixed mortgages at significantly lower rates than current mortgage rates, making
+      them reluctant to move and abandon their low-rate mortgage. Consider that nearly 30 million U.S.
+      households, or 54% of primary mortgage holders, have mortgage rates at or below 4%.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                               www.bristlemoon.com    13
+Bristlemoon Global Fund
+  .
+
+
+
+
+      Source: FHFA via Calculated Risk Blog
+
+      However, this lock-in effect is already beginning to fade. While the cohort of homeowners with sub-4%
+      mortgages peaked at 65.1% of mortgages outstanding in early 2022, that figure has already retreated to
+      51.5% (with sub-5% loans dropping from 85.6% to 68.6%).
+
+      While the rate differential between written mortgages and current yields has created a massive
+      disincentive for homeowners to move (and thus paralysing inventory and housing transactions), time is
+      naturally dissolving this friction. There are life events called the “5 Ds” that can compel a home sale
+      even in an elevated interest rate environment:
+
+         •   Diapers (growing family needs more space)
+         •   Diamonds (marriage/household formation)
+         •   Divorce (household dissolution)
+         •   Death (estate sales)
+         •   Displacement (job relocation)
+
+      While life events are gradually eroding the mortgage lock-in effect, this is a slow process. Rather, the
+      most immediate catalyst for restoring housing transaction velocity is the need for a reduction in the 30-
+      year fixed mortgage rate.
+
+      We would point out that the Federal Reserve has been cutting interest rates, which could filter through
+      to a reduction in U.S. mortgage rates. This already appears to be underway, with a circa 100 basis point
+      reduction in 30-year fixed mortgage rates over the last year.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                              www.bristlemoon.com       14
+Bristlemoon Global Fund
+  .
+
+
+
+
+      Source: Bristlemoon Capital; Bloomberg; Bankrate.com
+
+      However, it is important to acknowledge that a lower Fed Funds Rate does not automatically translate
+      into lower 30-year mortgage rates. The Federal Reserve can push down the short end of the curve (i.e.,
+      yields on 2-year Treasurys) but the 30-year mortgage rate is priced off the long end of the curve (10-
+      year Treasurys, to be specific). Mortgage rates are thus influenced by long-term inflation expectations,
+      Treasury supply (i.e., government debt issuance), and mortgage-specific risk premia demanded by MBS
+      investors.
+
+      In a rudimentary way, we can conceptualise how a 30-year fixed mortgage is priced with the following
+      formula:
+
+                            Mortgage Rate = 10-Year Treasury Yield + Mortgage Spread
+
+      When interest rate volatility is high, the spread (i.e., the extra yield) that investors demand to buy
+      mortgage-backed securities (MBS) instead of safe Treasurys increases.
+
+      This is primarily driven by negative convexity: because every mortgage contains an embedded call
+      option that creates prepayment risk (i.e., the borrower’s right to refinance when interest rates decline),
+      an MBS investor’s upside is capped while their downside remains fully exposed. In volatile markets, the
+      cost to hedge this short option position escalates, forcing investors to demand a wider spread to
+      compensate them for taking on this asymmetric risk.
+
+      As we can observe below, the MOVE Index – a measure of expected volatility in the U.S. Treasury
+      market (specifically, how expensive it is to buy options on Treasurys) – has been elevated in recent
+      years. It is now beginning to subside.
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                 www.bristlemoon.com     15
+Bristlemoon Global Fund
+  .
+
+
+
+
+      Source: Bristlemoon Capital; Bloomberg
+
+      We believe the normalisation of rate volatility will reduce the hedging costs associated with MBS
+      negative convexity, driving a mean-reversion in spreads that lowers mortgage rates and unlocks
+      inventory liquidity, regardless of the long end’s absolute levels. It is worth noting that from the start of
+      2016 to the beginning of 2020, the mortgage spread (i.e., the 30-year fixed mortgage rate less the 10-
+      year Treasury yield) averaged 168 basis points. However, as we can see below, at the end of 2021 the
+      mortgage spread blew out to north of 300 basis points.
+
+
+
+
+      Source: Bristlemoon Capital; Bloomberg
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                  www.bristlemoon.com      16
+Bristlemoon Global Fund
+  .
+
+
+
+      We are now seeing a mean-reversion in this spread and it’s possible that there is another 50 basis
+      points of spread normalisation still to come. This is why even without a meaningful reduction in 10-
+      year Treasury yields, a compression in this spread to more normalised levels could meaningfully reduce
+      mortgage rates. We believe that if mortgage rates can sustainability enter a range of 5.5% to 6.0% or
+      lower, then this could precipitate a rebound in existing home transactions. We foresee a scenario where
+      existing home sales recover into the 4.5 million to 5.0 million range. This would disproportionately
+      benefit a housing-adjacent retailer such as Floor & Decor, where volumes are strongly linked to housing
+      transaction activity.
+
+      While it is difficult to put too fine of a point on the timing of any rebound, we can say confidently that
+      existing home sales will at some point recover; they won’t stay at these depressed levels forever (people
+      need to move homes for the “5 Ds”!). We also believe that FND will be well-positioned to capitalise on
+      this demand when the market turns, particularly given that many of the company’s competitors have
+      gone out of business (consider that Lumber Liquidators filed for bankruptcy, The Tile Shop voluntarily
+      delisted from the Nasdaq to save costs, and many independent flooring retailers have gone bust). We
+      view FND as a high-torque way to get exposure to a housing rebound scenario, as housing turnover
+      remains the primary leading indicator for large-ticket renovation spend.
+
+      So, what might the future hold for FND if there’s a rebound in existing home sales?
+
+      To appreciate what a rebound in U.S. housing sales could mean for FND’s financial performance, it is
+      worth us stepping through the drivers of FND’s earnings, which can be decomposed as follows:
+
+
+
+
+      Source: Bristlemoon Capital
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                www.bristlemoon.com      17
+Bristlemoon Global Fund
+  .
+
+
+
+      Re-igniting comparable store sales growth
+      To understand the potential for a reacceleration in FND’s comparable store sales growth, it’s necessary
+      to look beyond just how an improvement in housing turnover would drive higher store traffic and
+      transactions. This is because 41% of FND’s store base is three years old or less. These young stores have
+      not fully ramped up their sales productivity; they are currently sitting on the steep part of the S-curve.
+      The corollary of this is that these stores will be comping at relatively high rates.
+
+      This is especially the case for new stores once they bleed into the comparable store base in their 13 th full
+      month of operation. For example, if a store that might only be 70% productive in year one ramps up to
+      85% productivity in year two (i.e., the year when the store enters the comparable store calculation),
+      then the store will be comping at 21.4% year-over-year, meaningfully boosting overall comparable store
+      sales growth for FND.
+
+      To capture both a rebound in demand and the potential for more recent store vintages to grow
+      comparable store sales at very high rates, we have built a comparable store growth waterfall analysis.
+
+
+
+
+      Source: Bristlemoon Capital; company filings
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                  www.bristlemoon.com       18
+Bristlemoon Global Fund
+  .
+
+
+
+      If more mature stores (i.e., those that have been open for more than three years) were to comp at 3.5%
+      in FY26 and 5% in FY27 and FY28, and if newer stores were to see more throughput and more closely
+      follow historical store maturity patterns, then we see a scenario where FND’s comparable store sales
+      growth could aggressively snap back. In this event, mid- to high-single-digit comparable store sales
+      growth would be achievable in our view, suggesting meaningful upside compared to low- to mid-single-
+      digit comp growth captured in sellside consensus numbers. We should note that this is not a scenario
+      we are saying will happen, but rather we view this scenario as plausible in the event that the housing
+      market improves.
+
+      We would also note that the sellside (as well as buyside) are often poor at forecasting step function
+      changes in growth, and currently appear reluctant to model a snapback in growth given that many
+      analysts have been wrong with their estimates in recent years. This conservatism is understandable
+      given the housing market malaise, but with street estimates anchored to recent trends, we believe the
+      market is failing to reflect the potential for the cycle to turn.
+
+      A reacceleration in the pace of store rollouts
+      FND management has more recently slowed the pace of store expansion to 20 units per year, compared
+      to the circa 30 units per annum that were opened over FY22-FY24. However, if housing turnover
+      recovers and comps accelerate, we expect management to increase its store rollout pace.
+
+      Given the 8-12 month lead time for site selection and build-out (this range depends on whether the new
+      store is a conversion of an existing structure or a greenfield buildout), a sustained recovery in existing
+      home sales and transactions in 2026 sets the stage for 2027 unit openings to ramp back towards a 35
+      unit annual pace.
+
+      We believe that the reacceleration of the store rollout would catalyse a shift in investor perceptions of
+      the FND narrative from cyclical turnaround back to secular growth story. This would likely bring about
+      a re-rating in the stock.
+
+      Operating leverage working in FND’s favour
+      Perhaps the most potent driver of a FND earnings rebound is the company’s operating leverage.
+      Unfortunately for FND, the last few years have instead seen operating deleverage. Given the tough
+      macroenvironment, FND’s comparable store sales declined by around -7% in both FY23 and FY24, with
+      FY25 likely to be down by a low-single-digit percentage rate. When we consider the company’s fixed
+      cost base – comprised of leases, core store staffing, and corporate overhead – this has led to a
+      disproportionately large reduction in FND’s earnings (management has previously stated that 55% of
+      FND’s store costs are fixed and 45% are variable).
+
+      For example, FY25E adjusted operating income is likely to come in -37% lower than the operating
+      income achieved in FY22, and adjusted operating margins have gone from 10-11% in FY21-FY22 to
+      below 6% in FY25E. This helps frame the margin destruction that has already occurred from the fixed
+      cost deleverage. It is worth turning our minds to what we could see if this dynamic reverses and FND’s
+      stores experience a recovery in throughput.
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                               www.bristlemoon.com       19
+Bristlemoon Global Fund
+  .
+
+
+
+      Management has in the past said that FND’s incremental operating margins on recovered volumes are
+      around 35%. What this means is that if comparable store sales growth were to hit 6.5% in FY26, this
+      would flow through to a 40% increase in operating profits. In other words, for every percentage point of
+      comparable store sales growth, operating profit will increase by around 6%. In our conversations with
+      the company we have learned that 30% of Floor & Decor’s stores are on minimum labour hours,
+      creating a scenario where margins could overshoot in the short term if FND is unable to add labour
+      quickly enough in the event of a sharp demand recovery.
+
+      The sellside is only modelling FND’s adjusted operating earnings to surpass their FY22 level in FY28.
+      This is despite a store count in FY28 that we estimate would be almost 90% greater than the company’s
+      FY22 store base. This implies that the average FND store in FY28 is 47% less profitable than it was in
+      FY22, effectively pricing in a structural impairment of FND’s store unit economics. To us, this seems
+      overly pessimistic.
+
+      We would also point out that over time, there’s a margin tailwind from recently opened stores
+      maturing. Recall that 41% of FND’s store base is three years or younger. As more of these stores
+      mature, their margin profile will improve, having a positive mix effect on FND’s consolidated operating
+      margins.
+
+      But is Floor & Decor cheap?
+      FND has recently seen its earnings multiple de-rate significantly, falling from 70x in late 2024 to a
+      more reasonable 32x.
+
+
+
+
+      Source: Bristlemoon Capital; Bloomberg
+
+
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                www.bristlemoon.com    20
+Bristlemoon Global Fund
+  .
+
+
+
+      While 32x does not look optically cheap, we would highlight that this P/E is being calculated from
+      significantly depressed earnings. We believe that with any sustained improvement in the U.S. housing
+      market, FND could generate $4.30 of earnings per share in FY28. If the company holds its current 32x
+      earnings multiple, then this would result in an almost $140 share price, around 2.2x the current price.
+      But if FND’s earnings multiple were to re-rate back to 40x or 50x, then this could see the stock trade at
+      c.$170 to $215 per share over the next two years, a 2.8x to 3.5x increase from the current share price.
+
+      Floor & Decor has long occupied a spot on our wish list of high-quality businesses, yet the valuation has
+      rarely offered a sufficient margin of safety. Today, that dynamic has finally shifted. We believe we are
+      seizing a rare opportunity to acquire a business we understand deeply at a price that skews the
+      risk/reward heavily in our favour.
+
+      As always, we remain grateful for your trust and patience. It is a privilege to manage your capital
+      alongside our own, and we do not take the responsibility lightly. We are invested in some of the
+      highest-quality franchises in public markets today, and we look forward to reporting on their progress
+      in the coming quarters.
+
+      Kind regards,
+
+      Bristlemoon Capital
+
+
+
+
+Disclaimer
+This report has been prepared by Bristlemoon Capital Pty Ltd (AFSL: 552045), the Trustee of the Bristlemoon Global Fund, to provide you with general
+information only. It does not take into account the investment objectives nor financial situation of any particular person. Bristlemoon Research Pty Ltd
+(CAR No: 1309157) is the Investment Manager of the Fund. You should obtain a copy of the Investment Memorandum before making a decision about
+Disclaimer
+whether  to invest in this product. While information in this document has been prepared with all reasonable care, Bristlemoon does not make any
+representation or warranty as to the accuracy or completeness of any statement in this document, including forecasts. To the extent permitted by law,
+neither Bristlemoon nor its employees or representatives are liable for any loss or damage arising as a result of reliance placed on the contents of this
+document. Fund performance is calculated after fees and costs, including the investment management fee and performance fee. All returns are on a pre-
+tax basis. Past performance should not be taken as an indicator of future performance. Applications to invest in the Bristlemoon Global Fund are only
+considered from wholesale investors.
+
+
+Bristlemoon Global Fund | Quarterly Report | December 2025                                                           www.bristlemoon.com                21
+This report has been prepared by Bristlemoon Capital Pty Ltd (AFSL: 552045), the Trustee of the Bristlemoon Global Fund, to provide you with general
+

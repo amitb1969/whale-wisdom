@@ -1,0 +1,448 @@
+1
+2
+Full Legal Disclaimer
+This research presentation expresses our research opinions. Spruce Point Capital Management LLC (“SPCM”) is a practitioner of an investment approach known as research activism.  Investments, such as SGHC,  are
+selected based on SPCM’s belief that the market’s consensus view of a security is materially misguided. Once such an investment has been identified, detailed diligence is conducted and documented in a research
+presentation, report or letter to be later shared with the public. Once the research report is released, market participants are anticipated to review the merits of the arguments.  The report is intended to contribute to
+market discourse and inform investor sentiment, which informs trading decisions and reflects in market pricing.  You should assume that as of the publication date of any presentation, report, or letter, SPCM (possibly
+along with or through our members, partners, affiliates, employees, and/or consultants) along with our subscribers and clients have a material short position in all stocks (and are long/short combinations of puts and
+calls on the stock) covered herein, including without limitation Super Group (SGHC) Ltd (“SGHC”) and therefore stand to realize significant gains in the event that the price declines. Following publication of any
+presentation, report or letter, we intend to continue transacting in the securities covered therein (including but not limited to reducing or exiting our position), and we may be long, short, or neutral at any time
+hereafter regardless of our initial recommendation. All expressions of opinion are subject to change without notice, and SPCM does not undertake to update this report or any information contained herein.  SPCM,
+subscribers and/or consultants shall have no obligation to inform any investor or viewer of this report about their historical, current, and future trading activities.
+In order to manage risk, we may close open positions as we deem prudent. We do not provide “price targets”, although we may express our opinion of what the security is worth. An opinion of the value of a security
+differs from a price target in that we do not purport to have any insight as to how the market as a whole might value a security – we can only speak for how we, ourselves, view its value. We therefore do not hold a
+position until it reaches a certain price target, nor do we hold positions until they reach the price at which we have expressed a valuation opinion. There are numerous factors that enter into investment decisions aside
+from opinions of the value of the security, including without limitation, the borrow cost of a shorted security, the potential for a “short squeeze”, prudent risk sizing relative to capital and volatility, reduced
+information asymmetry, the opportunity cost of capital, client expectations, and the ability to hedge market risk, among other things. Therefore, you should assume that upon publication of this report, we will, or have
+begun to, close a substantial portion – possibly the entirety – of our positions in the covered issuer’s securities.
+This research presentation expresses our research opinions, which we have based upon interpretation of certain facts and observations, all of which are based upon publicly available information, and all of which are
+set out in this research presentation. Any investment involves substantial risks, including complete loss of capital. There can be no assurance that any statement, information, projection, estimate, or assumption made
+reference to directly or indirectly in this presentation will be realized or accurate. Any forecasts, estimates, and examples are for illustrative purposes only and should not be taken as limitations of the minimum or
+maximum possible loss, gain, or outcome. Any information contained in this report may include forward looking statements, expectations, pro forma analyses, estimates, and projections. You should assume these
+types of statements, expectations, pro forma analyses, estimates, and projections may turn out to be incorrect for reasons beyond Spruce Point Capital Management LLC’s control. This is not investment or accounting
+advice nor should it be construed as such. Use of Spruce Point Capital Management LLC’s research is at your own risk. You should do your own research and due diligence, with assistance from professional financial,
+legal and tax experts, before making any investment decision with respect to securities covered herein. All figures assumed to be in US Dollars, unless specified otherwise.
+To the best of our ability and belief, as of the date hereof, all information contained herein is accurate and reliable and does not omit to state material facts necessary to make the statements herein not misleading,
+and all information has been obtained from public sources we believe to be accurate and reliable, and who are not insiders or connected persons of the stock covered herein or who may otherwise owe any fiduciary
+duty or duty of confidentiality to the issuer, or to any other person or entity that was breached by the transmission of information to Spruce Point Capital Management LLC. However, Spruce Point Capital Management
+LLC recognizes that there may be non-public information in the possession of SGHC or other insiders of SGHC that has not been publicly disclosed by SGHC. Therefore, such information contained herein is presented
+“as is,” without warranty of any kind – whether express or implied. Spruce Point Capital Management LLC makes no other representations, express or implied, as to the accuracy, timeliness, or completeness of any
+such information or with regard to the results to be obtained from its use. Spruce Point frequently speaks with industry experts and former employees of companies we evaluate and have written research reports on
+whom we believe are reliable sources of information and opinions. However, we cannot and do not provide any representations or warranties with respect to the accuracy, completeness, or interpretation of the
+information or opinions they have provided to us. The quotations used in our research reports do not reflect all information or opinions they have shared with us, including, without limitation, certain positive
+comments and experiences with respect to the companies researched. In addition, the experts have typically received compensation for their conversations with us and may have conflicts of interest or other biases,
+which may give them an incentive to provide us with inaccurate, incomplete or otherwise prejudiced opinions or information. Former employees that we speak with are by definition separated from the company and
+thus the information or opinions they have provided may be outdated. All experts agreed, both in writing and orally, to not provide any material nonpublic information or any information that they are obligated to
+keep confidential, and that their service as a consultant or their participation in our research calls does not violate any confidentiality agreement or other obligation they have with their employer or any person or
+entity. The quotations of experts and former employees used in research conducted by Spruce Point Capital Management LLC and conversations with such former employees and experts may be paraphrased,
+truncated, and/or summarized solely at our discretion, and do not always represent a precise transcript of those conversations.
+This report’s estimated fundamental value only represents a best efforts estimate of the potential fundamental valuation of a specific security, and is not expressed as, or implied as, assessments of the quality of a
+security, a summary of past performance, or an actionable investment strategy for an investor. This is not an offer to sell or a solicitation of an offer to buy any security, nor shall any security be offered or sold to any
+person, in any jurisdiction in which such offer would be unlawful under the securities laws of such jurisdiction. Spruce Point Capital Management LLC is registered with the SEC as an investment advisor. However, you
+should not assume that any discussion or information contained in this presentation serves as the receipt of personalized investment advice from Spruce Point Capital Management LLC. Spruce Point Capital
+Management LLC is not registered as a broker/dealer or accounting firm.
+All rights reserved. This document may not be reproduced or disseminated in whole or in part without the prior written consent of Spruce Point Capital Management LLC.
+3
+Spruce Point Has A Track Record In Sports
+Betting Markets
+Company: Genius Sports Ltd
+Ticker | Date
+Enterprise Value
+NYSE: GENI | August 2021
+$3.2 billion
+Maximum Decline
+Post Report -86%
+Company
+Positioning
+A leading provider of live sports data from its
+partnerships with sports leagues to sportsbook
+customers.
+Spruce Point’s
+Criticisms
+A problematic and overhyped SPAC that has
+overpaid for data rights, lacks a competitive
+edge, and uses aggressive revenue accounting
+to project above market revenue growth. The
+market is anchoring too much weight to its
+DraftKings partnership. We estimate between
+60%-80% downside risk.
+Successful
+Outcome
+Earnings estimates have failed to achieve lofty
+investor expectations and the Company’s
+valuation multiple and share price has
+contracted. GENI revealed a material weakness
+and conducted a financial restatement. The
+share price hit a low of $2.20 in 2022 or -86%.
+The recommendations shown above are not intended to be exhaustive or represent investment returns following Spruce Point’s research campaigns. A full list of all
+recommendations made over the past twelve months can be found on our website.
+Spruce Point has a long track record in the sports betting market with an early report on Genius Sports (GENI), a sports data and
+technology company which is a partner of DraftKings.
+Spruce Point warns
+about DraftKings /
+Genius Sports And
+Expectations Being
+Too Aggressive
+GENI Share Price
+4
+Spruce Point Has A Track Record In Sports
+Betting Markets (Cont’d)
+Company: DraftKings Inc.
+Ticker | Date
+Enterprise Value
+NASDAQ: DKNG | October 2025
+$19.6 billion
+Maximum Decline
+Post Report -26%
+Company
+Positioning
+A market leading provider of online sports
+betting immune to emerging technology.
+Spruce Point’s
+Criticisms
+We have serious concerns regarding the impact
+to DKNG’s sportsbook market share given the
+significant volume being generated in the
+prediction markets for sports betting. We
+believe there is still significantly more downside
+risk because investors and sell-side analysts
+are not fully understanding the gravity of the
+situation and long-term disruptive impact on the
+Company’s business. We estimate between
+35%-60% downside risk.
+Successful
+Outcome
+Prediction exchanges continue to make
+headlines with significant investment from
+institutional quality companies. In response to
+the growing demand DKNG acquired its own
+prediction platform.
+The recommendations shown above are not intended to be exhaustive or represent investment returns following Spruce Point’s research campaigns. A full list of all
+recommendations made over the past twelve months can be found on our website.
+Spruce Point was early in identifying the disruption from prediction exchanges for the legacy online sports betting operators.
+We believe the rising popularity of prediction markets is also a growth impediment for Super Group’s sports betting business.
+DKNG Share Price
+Spruce Point
+warns about
+DKNG and
+prediction
+markets
+5
+Spruce Point Issues “Strong Sell” Opinion On
+Super Group (SGHC) Ltd: 20% – 50% Downside Risk
+After conducting a forensic review of Super Group (SGHC) Ltd (NYSE: SGHC) ("SGHC“, “Super Group” or the "Company"), an
+online sports betting and gaming company and 2022 vintage SPAC transaction domiciled in Guernsey, we identified what we
+believe are serious issues with the integrity of its financial reporting and transactions with a closely connected shareholder. Our
+work points to a material omission of a minority ownership interest in its crown-jewel South African subsidiary, Raging River Trading
+(Pty) Ltd (“Raging River”). SGHC states that it owns 100% of the subsidiary but our documentary evidence contradicts this claim.
+Here Are The Key Points Why We Believe Super Group’s EBITDA Is Materially Overstated:
+• SGHC designates Raging River as a "principal subsidiary“ and its 20-F filed in 2025 claims it owns 100% as of year end 2024.
+• Why is it material? We believe the subsidiary’s 2025E EBITDA is approximately $287 million or ~52% of SGHC’s total 2025E
+EBITDA. SGHC’s financials show that Raging River has produced a very attractive 36.5% EBITDA margin. SGHC’s financial
+reporting, as currently presented, captures 100% of the subsidiary’s extremely strong economics.
+• A public notice from May 2024 at South Africa’s Western Cape Gambling and Racing Board discloses that Betway Cares
+Foundation NPC will acquire a 10.71% direct financial interest in Raging River, reducing SGHC's ownership to 89.29%.
+However, no formal notification that the transaction actually closed has been fully advertised.
+• Spruce Point obtained a copy of a public record request in November 2024 of a B-BBEE verification certificate issued by SANAS-
+accredited agency EmpowerLogic which confirms that Raging River has 10.71% Black ownership, with a measurement period
+ending December 31, 2023, potentially proving this ownership structure existed more than a year before SGHC's December 31,
+2024, fiscal year-end.
+If SGHC is improperly consolidating 100% of Raging River’s financial results rather than 89.29%, we estimate it may be
+overstating 2025E EBITDA by approximately $30.7 million which represents the 10.71% non-controlling (minority) interest.
+This would represent a material misstatement that strikes at the heart of SGHC's reported profitability and raises fundamental
+questions why the Company recently changed auditors and whether past material weaknesses of internal controls have been
+remediated as claimed. In addition to disruption from prediction markets, we believe investors should also be concerned by its
+complex corporate structure, transactions with its largest connected shareholder, and exposure to rising regulatory and tax costs. If
+we adjust SGHC’s EBITDA for the minority interest and value the Company at 4.0x – 6.0x EBITDA, consistent with its valuation
+range in 2024 when it started missing financial projections, we estimate approximately 20% – 50% downside risk to
+$4.25 – $6.80 per share and expect the share price to significantly underperform the equity market and the gaming industry.
+6
+Recent Auditor Change And Multiple Prior
+Material Weaknesses Should Put Investors On
+Red Alert
+SGHC has a history of material weaknesses and recently changed its auditor from BDO to Deloitte in 2025. The Company claims
+to have remediated its material weaknesses.
+Source: FY23 and FY24 20-F, Auditor Change 6-K
+7
+Complex Corporate Structure
+SGHC has a complex corporate structure with subsidiaries in jurisdictions that Transparency.org ranks low such as Paraguay and
+Cameroon, and in notorious tax havens like Alderney, Malta, Guernsey, and Cyprus. We believe the level of complexity adds
+unique risks to the investment story such as overlooked movements in ownership of these entities. The organizational chart below
+is so large that it is difficult to review the individual names of each entity.
+Source: FY24 20-F
+SGHC Organizational Structure
+8
+Undisclosed Minority Interest At A
+“Principal Subsidiary” Raises Serious Issues
+SGHC’s FY24 Form 20-F identifies Raging River Trading Proprietary Limited (“Raging River”) as a “principal subsidiary” and
+represents that the Company owns 100% of its equity interest as of December 31, 2024. However, a May 10, 2024 notice from the
+Western Cape Gambling and Racing Board (“Western Cape”) discloses that Betway Cares Foundation NPC “will acquire a
+10.71% direct financial interest in Raging River”, implying that SGHC’s effective ownership would be reduced to 89.29%
+post-transaction. Of course, the notification below only advertises the intention of a transaction and not that a transaction closed.
+On the next slide, we provide evidence that the financial interest was transferred from Raging River to Betway Cares.
+Source: SGHC FY24 20F, Province of the Western Cape: Provincial Gazette, F-4 Listing SGHC SA (Pty) Ltd. As Head Office Company.
+Principal Subsidiary Disclosure (footnote 29)
+From SGHC FY24 20-F
+Betway Cares’ 10.71% Direct Ownership In
+Raging River Trading (Pty) Ltd
+Says NCI Is “Immaterial”
+SGHC SA (Pty) Ltd. is listed as a
+“Head Office Company”
+100% owned in South Africa
+Unambiguous
+“Direct Financial Interest”
+???
+9
+Independent B-BBEE Verification
+Confirms The Minority Interest
+Through a South African open records request, we obtained a November 2024 B-BBEE certificate from SANAS-accredited
+EmpowerLogic confirming that Raging River had 10.71% Black ownership as of December 31, 2023. This date precedes SGHC’s
+year-end and FY24 Form 20-F. This independent verification proves the existence of a 10.71% non-controlling (minority) interest at
+Raging River which is SGHC’s “principal subsidiary”. Spruce Point believes omitting a clearly identifiable 10.71% minority interest
+in a principal subsidiary undermines the reliability of the Company’s financial reporting and risks overstating EBITDA, profits, and
+cash flow available to SGHC shareholders.
+Source: EmpowerLogic (Pty) Ltd, Broad Based Black Economic Empowerment Verification Certificate,
+SGHC FY24 20F, Province of the Western Cape: Provincial Gazette (page 303)
+• 10.71% matches exactly the Provincial Gazette transaction amount.
+• Certificate issued November 13, 2024, six weeks before fiscal year-end.
+• Measurement period ended December 31, 2023, confirming ownership
+structure existed for over a year.
+B-BBEE Certificate Issued Nov. 2024 Key Points of the B-BBEE Certificate
+Timeline of Events
+12/31/23 5/10/24 11/13/24 12/31/24
+B-BBEE
+measurement
+period confirms
+10.71%
+ownership
+already in place
+Provincial
+Gazette
+announces
+Betway Cares
+acquiring
+10.71% stake
+B-BBEE
+certificate
+officially issued
+confirming
+10.71% Black
+ownership
+SGHC Fiscal
+Year-End (still
+claims 100%
+ownership)
+10
+Minority Interest Appears To Be 5.5% of
+2025E Consensus EBITDA
+We believe Raging River is one of SGHC’s crown-jewel assets with 2025E revenue and EBITDA margin of $287.3 million and
+36.5%, respectively. However, we believe that investors are left with an incomplete picture of who owns the economics. SGHC
+fully consolidates Raging River and presents the subsidiary as if it owns 100% of its EBITDA, even though we’ve shown its
+interest appears to be only 89.29%. Using SGHC’s figures, we estimate the non-controlling (minority) interest to be approximately
+$30.7 million of 2025E EBITDA that is not economically attributable to common shareholders.
+Source: SGHC FY22 20F (2/2/2022), Province of the Western Cape: Provincial Gazette, Bloomberg 2025E Consensus EBITDA $557.4 million.
+(1) Raging River’s EBITDA margin is derived from the results of operations footnote disclosure in the FY21 20F for the approximately first six months of consolidation, calculated as follows:
+EBITDA = Profit from operations + Depreciation = €9.221 million + €5.832 million = €15.053 million; EBITDA margin = EBITDA ÷ Revenue = €15.053 million ÷ €41.204 million = 36.5%.
+(2) Raging River is the only South African subsidiary that accounts for more than 10% of SGHC’s revenue, according to SGHC’s disclosures. Based on SGHC’s FY21 Form 20-F pro forma
+disclosure, €110.8 million of SGHC’s revenue for the period from January 11, 2021 through December 31, 2021 was generated by Raging River, which is the figure presented in the table above.
+For 2022 through 2024, SGHC has disclosed total South Africa revenue on an annual basis. As Raging River holds SGHC’s license from the Western Cape Gambling Board to operate an online
+casino, all of SGHC’s South Africa revenue are assumed to be attributable to Raging River.
+Raging River
+EBITDA Margin = 36.5%(1)
+For 2025, 10.71%
+of Raging River’s
+projected $287.3
+million of EBITDA
+(i.e. $30.7 million)
+represents the
+Betway Cares
+Foundation’s
+minority stake and
+we believe is
+therefore not
+attributable to
+SGHC’s group
+EBITDA.
+South Africa “Raging River” Financial Detail
+in millions 2021 2022 2023 2024 2025E
+Revenue(2) (€) €110.8 €181.0 €317.3 €543.9
+€ To USD Rate 1.18 1.05 1.08 1.08
+Revenue ($) $131.1 $190.2 $343.3 $588.5 $787.2
+EBIT $29.4 $42.6 $76.9 $131.8 $176.3
+Est. EBIT Margin 22.4% 22.4% 22.4% 22.4% 22.4%
+EBITDA $47.8 $69.4 $125.3 $214.8 $287.3
+Est. EBITDA Margin 36.5% 36.5% 36.5% 36.5% 36.5%
+Raging River Ownership Split EoY
+SGHC 100.0% 100.0% 100.0% 89.29% 89.29%
+Betway Cares Foundation 0.0% 0.0% 0.0% 10.71% 10.71%
+11
+South African Regulator Flags The Same
+Entity We Question
+South Africa’s Financial Surveillance Department (FinSurv) is specifically mandated to police cross-border capital and
+related-party flows, with a particular focus on situations where economic value is shifted offshore. In Spruce Point’s view, it is
+therefore notable that the very transactions suspected of serving dual tax and minority-interest motivated profit-shifting purposes
+at Raging River have now apparently become the subject of an active FinSurv investigation. The mere existence of this probe
+suggests that regulators see sufficient risk in these cross-border arrangements to warrant intervention.
+Source: 6-K filing (Sept 2025)
+H1 2025 6K Disclosure: South Africa Regulatory Investigation Into Raging River
+“The Financial Surveillance Department ("FinSurv") of the South African Reserve Bank, has initiated an engagement
+with Raging River Proprietary Limited ("Raging River, the Company or fellow Group subsidiary"), a fellow Group
+subsidiary incorporated in South Africa, regarding historical transactions involving the transfer of funds from the
+Company to foreign / non-South African resident entities within the Super Group (SGHC) Limited group structure,
+allegedly in breach of the South African Exchange Control Regulations. These transfers were made in exchange for
+amongst other things, services and licenses provided to Raging River under various agreements. FinSurv's
+investigation into these transactions and engagements with the Company remain ongoing. The Company may be
+required to deposit an immaterial amount with FinSurv for the duration of the investigation. No obligation has been
+accounted for as at June 30, 2025, as the amount of any potential obligation cannot at this stage be measured with
+sufficient reliability.”
+12
+Spruce Point Believes The Apricot Acquisition
+Merits More Scrutiny
+Spruce Point believes the Apricot sportsbook software acquisition by SGHC deserves more scrutiny given SGHC’s largest
+shareholder is connected to Apricot. SGHC closed its SPAC transaction and raised €170.6m in January 2022. By November
+2022, SGHC announced a €43m loan to Apricot, with intentions to possibly acquire its sportsbook technology. €22m was drawn
+before year-end, and the full €43m was funded by April 2023. The loan was subsequently upsized to €98m and again to €102.4m
+just before the acquisition agreement was revealed. Despite the headline announcement, the deal has not closed. While
+management has claimed that acquiring Apricot’s technology “enables full control” and future flexibility, the reality is that South
+Africa, Betway’s largest and most profitable market, continues to be run on a separately developed proprietary platform with third-
+party pricing powered by Sportradar. If SGHC’s internal South African software is robust enough to run one of their leading
+markets, it begs the question: why pay €140m+ to consolidate a potentially duplicative asset from Apricot?
+Source: Company Filings, Tegus. Spruce Point red emphasis.
+Former Sportsbook Director at Betway Group Quote:
+“That's a purchase of software or an infrastructure and hardware that powers their sportsbook, but that sportsbook doesn't power
+their entire sportsbook. Betway Africa is powered by their own proprietary software and uses a third party to power this engine.. .
+You would think that if you had an investment like that it would power your entire global sportsbook, but your biggest market or
+your biggest revenue generator for your sportsbook is powered by its own software and is using a third party, Sportradar, to power
+it, to provide the pricing. It doesn't quite seem like they've acquired something.”
+Deal Consideration Amount (€m) Comment
+Forgiven Loan €102.4 Loan is being forgiven as part of deal consideration.
+Tranche 2 & 3 €40.0 €15.1 has been advanced prior to deal closing.
+Contingent
+Consideration ??
+"Additional payments of up to €210 million could be made through a contingent
+earn-out mechanism if Super Group’s sportsbook revenue more than doubles
+during the earn-out period which runs through December 31, 2035. The earn-out
+is calculated as a percentage of monthly sportsbook net gaming revenue, ranging
+from a low single-digit to high single-digit percentage."
+13
+By late 2020, SGHC had committed to going public via a SPAC merger and we believe required a credible U.S. growth story to
+support its valuation. To construct that narrative while shielding itself from early-stage losses, we believe SGHC orchestrated what
+we term the "DGC sequence" - granting Digital Gaming Corporation ("DGC") an exclusive license in February 2021 to operate the
+Betway brand across up to ten U.S. states. We believe this arrangement effectively outsourced SGHC's U.S. expansion to a
+separate entity that would fund and absorb the substantial start-up costs and borrowings associated with the rollout.
+Remarkably, just two months later, SGHC agreed to reacquire the very U.S. license that DGC had licensed from them, completing
+the appearance of a circular structure that we believe underpinned its SPAC story. On April 7, 2021, SGHC announced an
+agreement to acquire 100% of DGC for ~$144 million, with the SPAC merger ultimately closing on January 27, 2022. Despite the
+acquisition announcement, SGHC did not consolidate DGC until the deal formally closed effective January 1, 2023. We believe
+this delay potentially kept nearly two years of U.S. start-up losses and debt off SGHC’s income statement and balance sheet
+during the SPAC marketing and listing process - even as SGHC guaranteed DGC's loan facilities.
+We believe the optics and appearance of these events is an off-balance sheet engineering structure: DGC’s losses and
+debt were kept off SGHC’s financials through the 2021–2022 SPAC marketing period and first year of trading, even as
+SGHC guaranteed DGC’s loan facilities.
+Source: Company Filings, gov.uk (DGC filings), gamingamericas.com. Spruce Point red emphasis.
+The Appearance of a Circular Licensing Mechanism
+Date Event
+Feb. 2021 SGHC grants Betway license to DGC (outsource U.S. expansion)
+April 2021
+(2 Months Later)
+SGHC announces acquisition of 100% of DGC for ~$144m EV
+SGHC reacquires the Betway license from DGC
+Jan. 2022 SPAC merger closes (DGC remains unconsolidated)
+Spruce Point Believes The DGC Transaction
+Highlights Financial Engineering
+14
+DGC Financial Engineering (Cont’d)
+When the DGC transaction finally closed in January 2023, SGHC paid only ~€11.7 million in cash but assumed ~€121.7 million of
+debt, implying an enterprise value near €134 million ($144m). SGHC simultaneously booked sizable goodwill, linked to
+expectations of future U.S. growth. Yet just one month later, in February 2023, SGHC agreed to sell DGC's B2B content and
+platform business, the game-development and technology engine supporting other operators, to Games Global, an entity owned
+by SGHC’s largest shareholder. The structure is notable: we believe SGHC retained the debt and operating losses of the B2C
+U.S. business while the revenue-generating B2B technology and content platform moved into SGHC’s largest shareholder’s entity.
+Asset Transfer Just One Month After Consolidation
+Date Event
+Jan 2023 DGC acquisition closes; SGHC consolidates DGC, assumes ~€121.7m of debt and books sizable goodwill.
+Feb 2023 SGHC sells DGC’s B2B division (content + platform) to Games Global (SGHC’s largest shareholder entity).
+Note: Total Consideration $12.9m.
+Result Valuable B2B engine moved to SGHC’s largest shareholder entity; SGHC retains debt-laden U.S. B2C operation.
+Source: Company Filings, Games Global Registration Documents (Registration was Withdrawn on 5/13/2024) and Total Consideration for B2B. Spruce Point red emphasis.
+(1) Q4’23 and Q2’24 converted from Euro to US$
+Serial Goodwill Impairments Erase Entire DGC Valuation
+Total impairments approximated the
+$144m enterprise value SGHC
+originally booked for DGC,
+effectively erasing the entire
+acquisition within roughly 24
+months and highlighting the
+potential engineered nature of the
+asset and the questionable strategic
+rationale behind the transaction.
+Quarter Goodwill Write-Down(1)
+Q4’23 $38.7m
+Q2’24 $39.6m
+Q2’25 $63.9m
+Total ~$142.2m
+15
+We See Approximately 20% - 50% Potential
+Downside Risk To SGHC’s Share Price
+(1) Pro forma for payment of regular and special dividend of $0.04 and $0.25c per
+ordinary share, respectively
+We see significant downside risk as investors evaluate the evidence that SGHC’s EBITDA does not likely capture the non-
+controlling (minority) interest of its lucrative Raging River subsidiary.
+Factors Favoring Downside Multiple Re-Rating
+• South Africa non-controlling (minority) interest raises
+restatement risk: Local Western Cape filings show a 10.71%
+third-party stake in Raging River, conflicting with SGHC’s
+100% ownership presentation and calling into question the
+reliability of reported numbers.
+• History of material weaknesses and recent auditor change
+provides credibility to the argument that financial restatement
+risk is high.
+• Complex corporate structure in high-risk jurisdictions.
+• Large concentrated owner that has engaged in questionable
+transactions with the Company.
+• Regulatory tightening in the UK and tax changes are raising
+operating costs via enhanced affordability checks, game
+design restrictions, stricter advertising rules, deposit limits,
+and new statutory or quasi-statutory levies.
+• Other material jurisdictions where the Company operates (e.g.
+Canada, South Africa) are increasingly likely to regulate and
+tax its gaming revenue.
+• Potential regulatory action from South Africa’s FinSurv.
+• Rising popularity of prediction markets impedes growth of
+traditional sports betting.
+• Accelerated movement of capital outside the Company with a
+recent special dividend of $0.25c per share.
+Spruce Point Price Target Range
+EV / EBITDA
+Multiple
+Low High
+2025E Revenue $2,120 $2,215
+% growth 25% 31%
+2025E EBITDA $530 $557
+% margin 25.0% 25.2%
+Less: Raging River NCI ($31) ($31)
+Spruce Point Adjusted EBITDA $499 $527
+EBITDA Multiple 4.0x 6.0x
+Enterprise Value $1,997 $3,160
+Plus: Adjusted Cash (1) $315 $315
+Market Value of Equity $2,313 $3,476
+FD Shares Oustanding 508.4 508.4
+Implied Stock Price $4.55 $6.84
+Current Price $8.52 $8.52
+Potential Downside -47% -20%
+US$  ro unded to  nearest millio n,
+except per share figures
+16
+Historical EBITDA Multiple
+Source: Bloomberg and SGHC press release on UK taxes.
+SGHC’s Historic EV / EBITDA
+We believe that SGHC’s multiple is likely to re-rate lower as its revenue and earnings power declines from rising regulatory risks
+and taxation costs, disruption from prediction markets and concerns about its financial reporting accuracy related to Raging River
+Trading. In the 2024 period when SGHC last started missing estimates, its EBITDA multiple contracted to 4x – 6x.
+2024 Period of Revenue Disappointment
+SGHC warns
+about 6%
+impact on
+EBITDA from
+UK taxes

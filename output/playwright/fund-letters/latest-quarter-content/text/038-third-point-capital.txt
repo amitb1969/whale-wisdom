@@ -1,0 +1,398 @@
+Page 1
+55 Hudson Yards
+New York, NY 10001
+thirdpoint.com
+212.715.3880
+Fourth Quarter 2025 Investor Letter
+February 6, 2026
+Dear Investor:
+During the Fourth Quarter, Third Point returned 1.9% net in the flagship Offshore Fund.
+Q
+4
+1
+ANNUALIZED NET
+RETURN
+2
+TP OFFSHORE FUND, LTD.
+1.9
+%
+13.
+1
+%
+CS HF EVENT
+-
+DRIVEN INDEX
+1.1%
+6.9%
+S&P 500 INDEX (TR)
+2.7%
+9.8%
+MSCI WORLD INDEX (TR)
+3.2%
+8.3%
+1 Through December 31, 2025.
+2 Annualized Return from inception (December 1996 for TP Offshore and quoted indices).
+PLEASE SEE THE NEW SERIES RETURNS AT THE END OF THIS DOCUMENT.
+The top five winners for the quarter were SK Hynix Inc., DSV A/S, Siemens Energy AG,
+Carpenter Technology Corp., and Pacific Gas and Electric Co. The top five losers for the
+quarter, excluding hedges, were CoStar Group Inc., Microsoft Corp., Meta Platforms Inc.,
+Vistra Corp., and Primo Brands Corp.
+The trends that drove markets higher during Q4 have extended into the early months of
+2026: an ongoing rotation from software into semiconductors, memory, and semicap
+equipment; continued strength in European defense equities; a broadening of market
+leadership from big tech to the industrials, healthcare, and consumer sectors; and an
+astounding appreciation in gold and rare earths. Notwithstanding the extreme volatility and
+selloff from the intraday peak of nearly $5,600/oz, the price of gold has increased ~15%
+Page 2
+year-to-date. Meanwhile, Bitcoin is down 20% from its year-end price and down almost 45%
+from its peak of over $125,000 just last October.
+AI dominates market headlines and is increasingly forcing a re -think of established beliefs.
+One of them is the long -perceived attractiveness of capital -light business models like
+software, information services, and digital platforms that for decades requ ired little to no
+physical investment to grow and achieve dominance.  Many such companies are now facing
+increased investor skepticism about the sustainability of their moats and scrutiny of their
+high-margin structures.  Look no further than the woeful underperformance of the software
+sector both on an absolute basis and relative to the S&P 500. The pressure on the sector
+which has been evident for some time has accelerated sharply into the early weeks of 2026,
+particularly with the announcement of Anthrop ic to dislocate businesses that provide both
+legal and financial analysis. A simple query into Claude’s chatbot: “ Which companies is
+Anthropic capable of dislocating or disrupting? ” yields some fascinating results and was in
+our view a fruitful source of hedges for our firm.
+At the same time, capital -intensive businesses like construction services, aggregates,
+transports, and defense contractors are having their moment, as investors are waking up to
+their mission critical role in the rebuilding of supply chains, national security complexes, and
+data center infrastructure. We own many of these winners and continue to look for new ones.
+Healthcare is also emerging from a prolonged period of COVID hangover, volatility, and
+multiples derating due to funding freezes, populist rhetoric, and constraints in biotech
+funding. We are increasing exposure to the sector, especially in life sciences a nd medical
+devices, and finding what we see as attractive valuations for market leading franchises.
+Despite market multiples and concentration that are undeniably high relative to history, we
+believe we remain positioned for a friendly macroeconomic and corporate environment. US
+GDP growth is accelerating, disinflation is firmly in place, and the imminen t tax refunds
+should support consumer spending and alleviate affordability issues. Increasingly tricky
+investor positioning in US equities, evidenced by high institutional gross and net exposures
+Page 3
+as well as record high retail participation, has led us to expand our single name short book
+and grow exposure to foreign equities.
+Portfolio Updates1
+SK Square
+SK Square is a Seoul -based Korean holding company with a market capitalization of
+approximately $47 billion.  It spun out of SK Telecom in 2021 and actively invests in and
+manages a diversified portfolio of technology assets including a 20% stake in SK Hyn ix.  SK
+Square’s management has made narrowing the historically wide discount between its
+market price and its net asset value (NAV) a core strategic priority, setting formal targets to
+reduce the NAV discount – most recently aiming for 30% or lower by 202 8 – and explicitly
+incorporating discount reduction into its corporate value -enhancement framework.  To
+achieve this, management has executed and committed to systematic share buybacks and
+cancellations, enhanced capital allocation policies, and strengthen ed governance such as
+adding independent directors to its board while tying NAV discount outcomes to
+management performance measures and compensation.  These initiatives reflect a sustained
+effort to unlock shareholder value by aligning the company’s market valuation more closely
+with the underlying value of its stake in SK Hynix.
+We invested in SK Square last summer primarily because of our favorable view on the
+company’s primary asset, SK Hynix, of which we are also shareholders and which we
+discussed in our Q3 letter.  Since then, the intrinsic and market value of SK Hynix has
+continued to increase.  Tightening supply and accelerating AI -driven demand have pushed
+DDR5 and server DRAM pricing materially higher, disproportionately benefiting SK Hynix’s
+premium-weighted mix.  More importantly, we believe the company has solidified it s
+leadership in high-bandwidth memory (HBM), emerging as the exclusive HBM supplier for
+Microsoft’s in-house AI accelerator and securing roughly two-thirds of NVIDIA’s anticipated
+1 This letter includes discussions of certain portfolio investments. These discussions are intended to provide
+information concerning such investments and to illustrate Third Point’s investment analyses, but they are not
+necessarily representative of Third Point investments generally or of the overall performance of funds
+managed by Third Point. Please see page 1 of this letter for overall performance of funds managed by Third
+Point implementing the flagship strategy for the most recent quarter and since inc eption.
+Page 4
+HBM4 demand for its next -generation platforms at meaningfully higher price points and
+margins than prior generations.  While Samsung and Micron are accelerating competitive
+efforts, SK Hynix retains clear time -to-market and customer -qualification advantage s,
+reinforced by long-term supply agreements and focused capacity expansion.  In parallel, the
+company’s planned US ADR listing should continue to raise its global investor profile and
+broaden access to international capital, further supporting its valuation.
+Today, SK Square’s discount to NAV is approximately 47%.
+Trillion KRW Per Share % of NAV
+SK Hynix 123.0 931,318 97%
+TMAP Mobility 1.5 11,052 1%
+SK shieldus 1.0 7,721 1%
+One Store 0.4 3,179 0%
+11STREET 0.4 2,952 0%
+Content wavve 0.3 1,968 0%
+SK planet 0.2 1,817 0%
+Other Stakes 0.7 5,223 1%
+Total NAV 127.5 965,232 100%
+Share Price  513,000
+Discount  ~47%
+Source: SK Square filings and Bloomberg. Data are as of 1/30/2026.
+While this has narrowed from prior NAV discounts as wide as ~75%, we believe there
+remains much room for improvement.  Korean holding company peers trade at discounts
+ranging between 15% and 45%.  However, such peers hold a broad collection of generally
+illiquid and difficult -to-value assets, which would warrant their high discount.  Unlike its
+peers, over 96% of SK Square’s asset value comprises shares in SK Hynix, the second largest
+and most liquid public constituent of the KOSPI index and one of the most  important
+companies in the semiconductor/AI complex globally.  As a result, one should expect SK
+Square to trade at a significantly lower discount to its NAV.
+We believe that by announcing a moratorium on new investments and executing on a large
+share repurchase program using debt collateralized with its stake in SK Hynix, SK Square has
+a unique opportunity to more than double SK Square’s stock price with no und erlying
+appreciation of its investments.
+Page 5
+The buyback is especially attractive to us given the low valuation of SK Square’s primary
+asset SK Hynix.  Today SK Hynix trades at 6.5x 2026 earnings per share, implying a 15%
+earnings yield. Given SK Square’s discount to NAV of 47% and the stake in SK Hynix as ~97%
+of SK Square’s NAV, one can think of SK Square share repurchases as buying SK Hynix shares
+at a 47% discount, or approximately 3.5x earnings and a 29% earnings yield.  We anticipate
+this yield will continue to increase given the robust growth i n the memory space driven by
+AI.
+Somnigroup
+Somnigroup is the dominant player in US mattresses and has grown its share of the domestic
+wholesale market from 27% in 2018 to over 40% in 2024. The company is led by Scott
+Thompson, who we see as a forward -thinking CEO who has leveraged the business’ sca le
+advantage to take share from an overleveraged set of competitors in a slowing housing
+market.
+In Q1 2025, Somnigroup completed its merger with the largest mattress retailer, Mattress
+Firm (estimated retail market share of 40%), and is now leveraging this advantaged
+distribution to accelerate share gains.  Its Tempur wholesale product has already ra mped
+from an estimated ~48% of Mattress Firm sales at the time of deal close to over 60% of
+volumes today.  The proforma entity’s 2,200 locations and $1.8 billion of run -rate sales and
+marketing spend are each more than twice the size of the second and thi rd largest mattress
+competitors combined.
+Looking forward, we believe Somnigroup has multiple ways to win. Either the housing cycle
+turns, which would provide a billion -dollar revenue tailwind at high margins, or the trough
+sustains and the last competitors standing, Sleep Number and Serta Simmons, face continued
+top-line pressure with 2027 and 2028 maturity walls looming. At Sleep Number, double-digit
+revenue declines have forced material cuts to marketing spend to comply with leverage
+covenants, further accelerating share losses. Despite its smal l and under -followed market
+cap, Sleep Number still generates ~$1.5 billion in revenues, representing a nearly ~20%
+retail market share.  We anticipate similar headwinds at Serta Simmons, which is reported
+Page 6
+to have generated $1.8 billion in 2024 sales (financials are not publicly available).  We believe
+it is very likely that the increase in Tempur products from 48% to over 60% of Mattress Firm
+sales came at the expense of their largest manufacturing competit or. We see no obvious
+buyers for subscale mattress manufacturers and believe restructurings from either player
+represent high incremental margin share gain opportunities for Somnigroup that are not on
+investors’ radars.
+We have followed Mattress Firm closely for over a decade as its previous owner, Steinhoff
+International, was the most profitable short in Third Point’s history.  Today, as a part of the
+broader Somnigroup mattress machine, we see a transformed business, and a key pillar of a
+vertically integrated bedding company of meaningful scale. We are also excited by
+Somnigroup’s proposed acquisition of Legget & Platt, further extending the company’s scale
+advantage by consolidating a key supplier.
+In our view, Mr. Thompson has executed masterfully to date and has all the building blocks
+in place for sustained outperformance.  He owns 4.4 million shares of Somnigroup, making
+him the eleventh largest equity holder of the business.  He recently renewed his employment
+contract and was awarded what we feel was a new, substantial and much -deserved stock
+option package, which ensures his continued leadership.
+Quebecor
+History doesn’t repeat itself, but it often rhymes. Over the last ten years, T-Mobile shares are
+up 460%, even after a recent drawdown based on concerns that wireless industry
+competition is heating up.  How did a wireless company outperform the S&P 500 by  110%
+over such a long time period? It came down to having a network experience at parity with
+incumbents, getting help from regulators for favorable spectrum deals, and pricing at a
+meaningful discount to levered incumbent backbooks, who have been unwilli ng and unable
+to sustainably match T-Mobile’s pricing.
+A similar dynamic has emerged in Canada, where the market structure is even more
+favorable for Quebecor, the wireless upstart from Quebec with national ambitions.  Canadian
+Page 7
+incumbent pricing is currently a materially worse experience for consumers than what we’re
+used to seeing in the US.  Most consumers have capped monthly data plans, with only 27%
+of Canadians paying for a 100GB+ or unlimited plan as of YE 2024 according to  the
+regulator’s latest market study.  When coupled with 3.5 – 4.0x turns of financial leverage and
+dividend payout ratios at over 80% of free cash flow, Canada’s Big 3 providers are poorly
+positioned to match pricing from an aggressive and well-run challenger.
+Quebecor is a regional telco with 25% share of Quebec’s wireless subscribers and a
+longstanding ambition of expanding nationally. It finally got the opportunity with the
+acquisition of Freedom Mobile, a national wireless business and forced divestiture following
+the Rogers/Shaw merger. An extremely favorable domestic roaming agreement gifted by the
+regulator enabled Quebecor to ride on the Rogers network.  As existing coverage improved,
+Freedom Mobile subscriber growth has accelerated to levels rarely seen in developed
+markets. For context, Quebecor’s latest ARPU is C$35, a 40% discount to incumbent
+backbooks priced at C$56 -58. This disruptive pricing has enabled Quebecor to capture
+328,000 net adds of the trailing twelve months. This represents 31% of total  net industry
+growth, a substantial gain for a player with just 11.5% share of total industry subscribers.
+Normally we would expect this sort of explosive growth to require substantial cash burn and
+minimal profitability, as we have seen in Europe.  For Quebecor, incumbent pricing is so high,
+and its domestic roaming deal is so favorable, such that its telco se gment boasts ~50%
+EBITDA margins despite selling at such disruptive price points. In an industry that is all
+about operating leverage, we have started to see top -line execution flow through to the
+bottom line.  Quebecor’s Telco EBITDA growth accelerated to  2.8% this quarter after five
+quarters of minimal growth.  We believe the company is ready to play offense from here
+while also achieving the industry’s lowest financial leverage.
+At the helm are CEO and controlling shareholder Pierre Karl Peladeau, who holds a C$3.7
+billion economic stake, and CFO Hugues Simard. Their disciplined execution has more than
+10x’d Quebecor’s market cap since 2009, and we are excited to see what lies ahead.
+Page 8
+Corporate Credit Update
+As we see it, the corporate credit book marginally underperformed the high yield index in
+2025. This performance was disappointing; over the last sixteen years our corporate credit
+book has beaten the index by 2x net of fees, on average.  While we avoided some of the largest
+disasters like First Brands, New Fortress Energy, and Brightline, we had only one real
+standout result. Our largest winner was Michaels Stores, which was the best performing
+bond in the JPM High Yield Index. Our investments in the Elon Musk complex (X/Twitter and
+xAI) were also significant contributors to performance, along with Claritev, a post LME
+situation, and Bausch Health.
+Like 2025, this year starts with very tight index spreads in credit. Sentiment is concerningly
+constructive with the obvious underpinnings of fiscal and likely Fed support, although the AI
+theme seems less bulletproof with the Oracle selloff. We see the in gredients for both
+fundamental and technical pressures in credit to make 2026 a much more interesting year.
+As of this writing, our large investments in the debt of xAI and X/Twitter have benefited from
+the announced merger of xAI and SpaceX.
+We believe that both private credit and private equity will continue to struggle with
+monetization. This isn’t due to a mystery force and certainly isn’t due to a lack of capital.
+Liquidity is always available, although you may not like the price. There are billions of dollars
+trapped in private equity that in our view cannot be monetized at a price that sponsors can
+stomach. This was already an issue with the higher interest rates and lower valuations today
+versus 2020-21, but we believe it will be an even greater issue as we transition from a “pre-
+AI” to “post-AI” world. This latter factor may strand even greater pools of invested capital,
+especially in the enormous software/information technology sector. We believe being able
+to pivot quickly and deploy f resh capital (without having a huge backlog of underwater
+investments) will be an advantage.
+We are continuing to see the line blur between “public” and “private” with the more relevant
+distinction being “traded” and “not (yet) traded”.  The leveraged loan market began as a
+“private” market and evolved over time to the liquid leveraged loan market we see today. We
+Page 9
+expect to see that evolution continuing in “private” credit.  As always, we remain focused on
+continuing to stay liquid and demand extraordinary premiums to sacrifice marginal amounts
+of trading flexibility.
+We expect to see more liability management exercises and in -court restructurings.  Almost
+40% of restructurings are “repeat offenders”, meaning that a large proportion of the recent
+restructurings will be back. The emergence of “co-op agreements”, where bondholders agree
+to not stab each other in the back is very encouraging and a step back towards a rule of law,
+but we do expect the LME battles to continue. As we have mentioned before, these share
+many of the same dynamics that can make bankruptcy investin g attractive and continue to
+be a significant area of focus.
+While spreads on higher quality credit are oscillating near historic tights, ratings
+downgrades and defaults continue to pressure stressed leveraged loans creating entry
+points we find attractive. Dispersion is elevated – evidenced by 77% of the levered loan index
+trading at least 100 basis points outside of the index spread, approaching previous cycle
+peaks of 83% in 2020 and 2016.  We expect this stress to increase. We are watching for
+impacts on CLO leveraged loan baskets and expect opportunities to be li quidity providers
+there.
+Structured Credit Update
+Over the last year, the compelling value proposition of structured credit has attracted new
+investors to the asset class. Entrants into structured credit likely see what we see: it
+comprises more than 60% of the fixed income market and more than $14 trilli on in
+outstanding issuance while remaining under -invested relative to other fixed income asset
+classes, in our view. It has current principal and interest streams, hard assets collateralizing
+the debt, the ability to drive covenants and structural protecti ons, and has exhibited
+increased liquidity in the secondary markets since the pandemic.
+In 2025, we saw contribution mainly from residential mortgages, as well as gains in our
+consumer asset -backed positions. This year, as the Fed started cutting interest rates,
+Page 10
+borrowing costs for structured credit dropped from the high 6%’s to 4.8% as of mid -
+December. A portion of our fixed rate structured credit portfolio is hedged with interest rate
+swaps where we pay a fixed cost of roughly 2.5% and receive SOFR. Residential mortgages
+continue to represent the core exposure for the portfolio, in addition to consumer ABS with
+a focus on loans collateralized by hard assets and small exposure to CMBS.
+Despite specific geographical weakness in housing prices, residential mortgages – and in
+particular, those that are seasoned and with lower balances – remained resilient in 2025.
+Third Point has historically had a core position in first -lien, owner -occupied residential
+mortgages, with a focus on reperforming loans with over 18 years of seasoning and an
+average balance around $150,000.   In 2026, we anticipate there will be more residential
+products designed to access home equity or address housing affordabil ity issues. While
+lower rates should start to ease the affordability issue for new or prospective homeowners,
+85% of current homeowners have a mortgage rate below 6%. There is currently $35.8
+trillion of home equity in the U.S. homeowners’ balance sheet, w hich we believe creates a
+large margin of credit protection for our investments and the ability to expand our
+investments in residential real estate into home affordability products.
+As we head into 2026, we expect potential deregulation, which should encourage more bank
+financing, driving senior credit spreads tighter. While we have found more opportunities in
+smaller bank portfolio sales with a pickup in yield, we have also been active in Synthetic Risk
+Transfer (“SRT”) where banks sell a first or second loss tranche for regulatory capital relief.
+We executed several SRTs in a negotiated structure that enables us to continually monitor
+the credit risk and grow exposure over time.
+We are excited about the evolving opportunities in structured credit over the coming year.
+We believe our ability to move between loans and securities across a variety of sub -asset
+types will continue to be an advantage as specific credit dislocations emerge.
+Page 11
+Sincerely,
+Daniel S. Loeb
+CEO
+The information contained herein is being provided to the investors in Malibu Life Holdings Limited (the “Company”), which is  listed on
+the London Stock Exchange and invests a portion of its assets in Third Point Offshore Fund, Ltd (“Third Point Offshore”) . Third Point
+Offshore is a feeder fund to the Third Point Master Fund LP (“Third Point Master”, and together with Third Point Offshore, the “Funds”) in
+a master-feeder structure. Third Point Offshore and Third Point Master are managed by Third Point LLC ( “Third Point” or “Investment
+Manager”), an SEC-registered investment adviser headquartered in New York.
+Unless otherwise specified, all information contained herein relates to the Third Point Master Fund LP  inclusive of legacy private
+investments. P&L and AUM information are presented at the feeder fund level where applicable. Sector and geographic categorie s are
+determined by Third Point in its sole discretion.
+Performance results are presented net of management fees, brokerage commissions, administrative expenses, and accrued perform ance
+allocation, if any, and include the reinvestment of all dividends, interest, and capital gains. While performance allocations  are accrued
+monthly, they are deducted from investor balances only annually or upon withdrawal. From the inception of Third Point Offshore through
+December 31, 2019, the fund's historical performance has been calculated using the actual management fees and performance allocations
+paid by the fund. The actual management fees and performance allocations paid by the fund reflect a blended rate of management fees and
+performance allocations based on the weighted average of amounts invested in different share classes subject to different management fee
+and/or performance allocation terms. Such management fee rates have ranged over time from 1% to 2% per annum. The amount of
+performance allocations applicable to any one investor in the fund will vary materially depending on numerous factors, including without
+limitation: the specific terms, the date of initial investment, the duration of investment, the date of withdrawal, and market conditions. As
+such, the net performance shown for Third Point Offshore from incep tion through December 31, 2019 is not an estimate of any specific
+investor’s actual performance. For the period beginning January 1, 2020, the fund’s historical performance shows indicative performance
+for a new issues eligible investor in the highest management fee (2% per annum) and performance allocation (20%) class of the fund, who
+has participated in all side pocket private investments (as applicable) from March 1, 2021 onward. The inception date for Thi rd Point
+Offshore Fund Ltd is December 1, 1996. All performance results are estimates and past performance is not necessarily indicative of future
+results.
+The net P&L figures are included because of the SEC’s new marketing rule and guidance. Third Point does not believe that this  metric
+accurately reflects net P&L for the referenced sub -portfolio group of investments as explained more fully below. Specifical ly, net P&L
+returns reflect the allocation of the highest management fee (2% per annum), in addition to leverage factor multiple, if appl icable, and
+incentive allocation rate (20%), and an assumed operating expense ratio (0.3%), to the aggregate underlying  positions in the referenced
+sub-portfolio group’s gross P&L. The management fees and operating expenses are allocated for the period proportionately based on the
+average gross exposures of the aggregate underlying positions of the referenced sub -portfolio group. The implied incentive allocation is
+based on the deduction of the management fee and expense ratio from Third Point Offshore fund level gross P&L attribution for the period.
+The incentive allocation is accrued for each period to only those position s within the referenced sub-portfolio group with i) positive P&L
+and ii) if during the current MTD period there is an incentive allocation. In MTD periods where there is a reversal of previo usly accrued
+incentive allocation, the impact of the reversal will  be based on the previous month’s YTD accrued incentive allocation. The assumed
+operating expense ratio noted herein is applied uniformly across all underlying positions in the referenced sub -portfolio group given the
+Page 12
+inherent difficulty in determining and allocating the expenses on a sub -portfolio group basis. If expenses were to be allocated on a sub -
+portfolio group basis, the net P&L would likely be different for each referenced investment or sub-portfolio group, as applicable.
+While the performances of the fund has been compared here with the performance of well -known and widely recognized indices, the
+indices have not been selected to represent an appropriate benchmark for the fund whose holdings, performance and volatility may differ
+significantly from the securities that comprise the indices. Past performance is not necessarily indicative of future results. All information
+provided herein is for informational purposes only and should not be deemed as a recommendation to buy or sell securities. All investments
+involve risk including the loss of principal. This transmission is confidential and may not be redistributed without the expr ess written
+consent of Third Point LLC and does not constitute an offer to sell or the solicitati on of an offer to purchase any security or investment
+product. Any such offer or solicitation may only be made by means of delivery of an approved confidential offering memorandum.
+Specific companies or securities shown in this presentation are meant to demonstrate Third Point’s investment style and the t ypes of
+industries and instruments in which we invest and are not selected based on past performance. The analyses and conclusions of Third
+Point contained in this presentation include certain statements, assumptions, estimates and projections that reflect various assumptions
+by Third Point concerning anticipated results that are inherently subject to significant economic, competitive, and other uncertainties and
+contingencies and have been included solely for illustrative purposes. No representations express or implied, are made as to the accuracy
+or completeness of such statements, assumptions, estimates or projections or with respect to any other materials herein. Third Point may
+buy, sell, cover, or otherwise change the nature, form, or amount of its investments, including any investments identified in  this letter,
+without further notice and in Third Point’s sole discretion and for any reason. Third Point hereby disclaims any duty to update any
+information in this letter.
+This letter may include performance and other position information relating to once activist positions that are no longer act ive but for
+which there remain residual holdings managed in a non-engaged manner. Such holdings may continue to be categorized as activist during
+such holding period for portfolio management, risk management and investor reporting purposes, among other things.
+Information provided herein, or otherwise provided with respect to a potential investment in the Funds, may constitute non -public
+information regarding Malibu Life Holdings Limited, listed on the London Stock Exchange, and accordingly dealing or trading in the shares
+of the listed instrument on the basis of such information may violate securities laws in the United Kingdom, United States and elsewhere.
+Page 13
+New Series (Excludes Legacy Private Investments)3
+Q
+4
+1
+ANNUALIZED NET
+RETURN
+2
+TP OFFSHORE
+FUND
+, LTD.
+2.0
+%
+13.1
+%
+CS HF EVENT
+-
+DRIVEN INDEX
+1.1%
+6.9%
+S&P 500 INDEX (TR)
+2.7%
+9.8%
+MSCI WORLD INDEX (TR)
+3.2%
+8.3%
+1Through December 31, 2025.
+2Annualized Return from inception (December 1996 for TP Offshore and quoted indices).
+3“New Series (Excludes Legacy Private Investments)” uses the existing series track record form inception through May 31, 2023.
+Returns from June 1, 2023 and onward exclude legacy private investments.

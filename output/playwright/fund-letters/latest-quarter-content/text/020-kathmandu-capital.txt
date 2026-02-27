@@ -1,0 +1,155 @@
+1
+Jan 11, 2026
+Dear Partners,
+In the fourth quarter of 2025, the fund generated a return of 13.65% gross  of fees and 10.85% net of fees,
+compared to 2.33% for the S&P 500 Total Return Index and 3.29% for our MSCI ACWI Total Return
+benchmark. For the full year 2025, the fund generated a return of 52.04% gross and 45.60% net of fees,
+significantly outperforming the S&P 500's 16.26% and the MSCI ACWI’s 22.34%. Since inception, the
+fund has realized a return of 40.85% gross and 28.84% net of fees, versus 52.99% for the S&P 500 an d
+53.65% for the MSCI ACWI Total Return benchmark.
+Please refer to your individual investor statements for an accurate view of your return, as investor returns
+may vary by class and the timing of your investment.
+Time Period
+Kathmandu
+(Gross*)
+Kathmandu
+(Net*)
+S&P 500
+(SPXTR*)
+MSCI ACWI
+(ACWI TR*)
+2023 0.41% -0.62% 6.99% 7.36%
+3rd Quarter
+(Inception) 7.56% 6.46% -3.79% -3.64%
+4th Quarter -6.65% -6.65% 11.20% 11.03%
+2024 -7.73% -10.95% 22.99% 17.49%
+1st Quarter 21.42% 17.80% 10.09% 8.20%
+2nd Quarter 0.13% -0.40% 3.85% 2.87%
+3rd Quarter -14.99% -14.99% 5.48% 6.61%
+4th Quarter -10.72% -10.72% 1.99% -0.99%
+2025 52.04% 45.60% 16.26% 22.34%
+1st Quarter -1.72% -1.72% -4.62% -1.32%
+2nd Quarter 17.22% 16.64% 10.56% 11.52%
+3rd Quarter 16.14% 14.58% 7.74% 7.62%
+4th Quarter 13.65% 10.85% 2.33% 3.29%
+Since Inception 40.85% 28.84% 52.99% 53.65%
+*Data provided by NAV Consulting, TR = total return index
+The market experienced notable volatility over the past quarter yet ultimately finished near another record
+high to end the year. We exited several positions as they either reached our target prices or experienced
+structural fundamental changes, and initiated new investments aligned with the ongoing “China vs. U.S.
+tension” theme. While we expect this narrative to remain a key driver in 2026, we hold precious metals and
+hedge positions to protect the portfolio against inflation and potential economic setbacks.
+2
+Market Commentary
+Market concerns about the AI capex cycle intensified this past quarter , beginning with Oracle reporting
+results that fell short of expectations. This led to a period of heightened volatility, which later stabilized as
+the Fed lowered interest rates and expanded its balance sheet, while Japan raised interest rates to draw
+capital back to the U.S. markets.
+Looking ahead to 2026, we expect the “U.S. vs China” race to remain the dominant theme. China still lacks
+the ability to design and manufacture leading-edge, high-performance chips at the level of the U.S. and its
+allies. Meanwhile, the U.S. continues to face bottlenecks in domestic manufacture capacity for key
+components and supply of critical materials, alongside slower-than-needed progress in energy infrastructure
+build-out and grid upgrade. National security has also become a central focus for both nations. Against this
+backdrop, technology velocity and government policy execution will decide the leader in this race. We will
+continue to monitor the development closely and search for opportunities with our eyes wide open.
+Portfolio Update
+We ended the quarter with approximately 35 percent in gold and cash.
+Cyclical/Secular Gainers
+The Tension Basket
+We continue to add ideas to our tension basket to capture opportunities arising from the U.S. vs. China
+theme. At year-end, our holdings included Vicor (VICR.NASDAQ), whose industry-leading power solutions
+are poised to benefit from data center architecture’s transition to HVDC yet remain under -covered and
+misunderstood; ACM Research ( ACMR.NASDAQ), China’s leading wafer -fab cleaning equipment
+manufacturer, positioned to benefit from China’s push toward semiconductor self-sufficiency; Lumentum
+(LITE.NASDAQ), a market leader in optical and photonic products whose OCS and optics solutions are
+positioned to benefit from strong TPU demand and continued XPU evolution; and two Taiwanese
+companies, including a semiconductor cooling solution provider and a high-precision PCB drilling solution
+provider. We also added Huntington Ingalls ( HII.NYSE) to capture the need for increased shipbuilding as
+defense becomes another key battleground between the rivals and government spending focuses on naval
+readiness.
+Vicor (VICR.NASDAQ)
+Over the past quarter, we added Vicor, a leading U.S. designer and manufacturer of high -performance
+power modules, as a core position. Vicor is positioned to benefit from rising AI-driven power requirements
+and the transition toward HVDC architectures. Desp ite this, Vicor remains a misunderstood small -cap
+company with limited Wall Street coverage. We believe company guidance and street consensus are way
+too conservative and Vicor is a multi-bagger set to capture a multi-year tailwind.
+Vicor is the gold standard in “last -inch” 48V-to-sub-1V vertical power delivery, enabling high -current
+conversion near the XPU to minimize I²R losses, heat, and EMI while sustaining high efficiency. Vicor’s
+differentiated architecture and industry-leading technology have enabled long-standing relationships with
+key AI players. In the second half of 2025, Vicor has completed qualification for a lead customer’s next-
+generation platform, which we believe to be Nvidia, and we believe Google is likely to follow suit, along
+with two additional tier-one OEMs, as management has disclosed. We believe Vicor is on the cusp of adding
+more customers as the industry leader in the last mile HVDC power delivery. These programs represent
+discrete, multi-year revenue opportunities that have yet to be reflected in consensus expectations.
+3
+Beyond revenue upside, Vicor offers meaningful margin expansion opportunity. Historically, the
+company’s hardware business has generated 40 –50% gross margins. As the newly ramped facility comes
+online, we expect hardware margins post vertical integration to move materially higher, as the capacity is
+purpose-built for high-end applications like AI and aerospace. Additionally, Vicor is actively scaling its IP
+licensing business, which has already reached a meaningful run rate despite monetizing only a narrow ,
+largely legacy subset of its patent portfolio and engaging with a limited number of large customers.
+Management is guiding toward a $200 million annual licensing run rate by 2027 to 2028, which we view
+as conservative given the depth of unmonetized IP  (multi-billion-dollar TAM) and early traction  ($90M
+annual run rate as of 3Q:25). We believe the licensing business, combined with vertical integration and
+next-generation high-end hardware products, will meaningfully shift the revenue mix and position Vicor
+for significant margin expansion.
+Taken together, customer wins, expanded production capacity, and IP monetization make Vicor’s long -
+term targets of $1B in revenue and 65% corporate margins appear conservative. With street consensus still
+well below these targets, we see a meaningful delta between market expectations and underlying
+fundamentals. As the thesis plays out and earnings scale, we believe Vicor presents a compelling Davis
+Double Play.
+Closing
+We would like to thank our partners for another year of support. While we had a solid year and our stock
+selection appears directionally correct so far, we believe our execution could have been better as we became
+more comfortable investing in momentum driven AI-related businesses in the second half of the year.
+Our goal as investors has always been, and always will be, to become the best investors and partners we
+can be to honor our fiduciary duty. To achieve this, we will continue to evolve by refining our approach
+and adding new tools to our investment toolkit, rather than confining ourselves to a well-defined style box.
+As we move away from investing solely through a traditional contrarian value lens and integrate a more
+holistic approach that places greater emphasis on market sentiment and the inevitability of long -term
+technological development, some may view this as a deviation from traditional value investing, but we see
+it as a natural progression of value thinking in the post Munger and Buffett era, especially in today’s market
+environment.
+We are mindful of the momentum -driven nature of some of our holdings and expect higher portfolio
+turnover. As such, we will implement tighter stops and more disciplined risk management accordingly.
+Ultimately, our goal is to blend these disciplines and thrive across all market conditions  as we explore
+whether growth, momentum, and value can coexist in a way that works.
+This may mean we will not attract certain types of institutional clients, as most institutions prefer to select
+managers based on rigid style boxes. However, we believe that investing is more art than science. Howard
+Marks once said that in order to be great, one must be willing to be different. We dare to be great and will
+let that principle guide us. We intend to walk a path that cannot be easily imitated by others, whether human
+or artificial—our own path.
+We appreciate your trust as you grow alongside us and witness our growth as investors.
+4
+Sincerely,
+Vincent Lo, CFA, MBA
+Chief Investment Officer & Partner
+Kathmandu Capital, LLC
+vlo@kathmandupartners.com
+Disclaimer
+CONFIDENTIAL & PROPRIETARY: This letter is not an offer to sell securities of any investment fund
+or a solicitation of offers to buy any such securities. Securities of Kathmandu Partners, LP (the “Fund”)
+managed by Kathmandu Capital, LLC (the “General Part ner”) are offered to selected investors only by
+means of a complete offering memorandum and related subscription materials which contain significant
+additional information about the terms of an investment in the Fund (such documents, the “Offering
+Documents”). Any decision to invest must be based solely upon the information set forth in the Offering
+Documents, regardless of any information investors may have been otherwise furnished, including this
+letter. Securities of the Fund are not registered with any regulatory authority, are offered pursuant to
+exemptions from such registration, and are subject to significant restrictions.
+The information in this letter was prepared by the General Partner and is believed by the General Partner
+to be reliable and has been obtained from public sources believed to be reliable. The General Partner makes
+no representation as to the accuracy or co mpleteness of such information. Opinions, estimates and
+projections in this letter constitute the current judgment of the General Partner and are subject to change
+without notice. Any projections, forecasts and estimates contained in this letter are necessarily speculative
+in nature and are based upon certain assumptions. It can be expected that some or all of such assumptions
+will not materialize or will vary significantly from actual results. Accordingly, any projections are only
+estimates and actual results will differ and may vary substantially from the projections or estimates shown.
+This letter is not intended as a recommendation to purchase or sell any commodity or security. The General
+Partner has no obligation to update, modify or amend this letter or to otherwise notify a reader thereof in
+the event that any matter stated herein, or any opinion, project on, forecast or estimate set forth herein,
+changes or subsequently becomes inaccurate.
+The holding identified does not represent all of the securities purchased, sold, or recommended for the Fund
+and does not reflect the overall performance of the Fund.  It should not be assumed that this holding or any
+recommendations made in the future will be profitable.
+This letter is strictly confidential and may not be reproduced or redistributed in whole or in part nor may
+its contents be disclosed to any other person without the express consent of the General Partner.

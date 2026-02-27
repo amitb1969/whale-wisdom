@@ -1,0 +1,572 @@
+New York London  Palm Beach
+4Q25 Quarterly Letter
+January 8, 2026
+Dear Partners:
+In Samuel Be ckett’s Waiting for Godot , two lovable losers pass time waiting for a savior they hope  will
+show them a better life.  They’re so optimistic about what Godot will bring that there’s no limit to how
+much time they’ll invest.  The 1989 slacker movie Bill & Ted’s Excellent Adventure is as culturally removed
+from Beckett as possible, starring eponymous high schoolers traveling through time to complete a history
+paper. The personal stakes are high— failure to act means military school and the end of their rock band—
+but unbeknownst to them, the stakes for humanity are higher, as the band’s music will be  necessary to
+usher in a utopian age.  You might be surprised to learn that there is currently on Broadway a rendition of
+Waiting for Godot starring the original leads from Bill & Ted’s.  It has played to good reviews.  The irony
+of combining the two stories is that to Beckett, the act of waiting is the tragedy because it’s stagnant. In
+Bill & Ted, the “waiting” is a joyful race to learn enough to keep the future intact.  It makes us think about
+our own painful wait for the promise of Artificial General Intelligence (AGI).
+“Mere” artificial intelligence (AI) is, of course, already transforming our lives.  It’s the driving force behind
+the US economy and is changing how we research, write, and (vibe)code.  Yet a ll anyone cares about is
+what comes next.  Klarna thought it was “there” when it replaced all its customer service representatives
+with bots.  O nly to bring many of the humans back when AI failed to deliver.  The Wall Street Journal
+handed management of its office vending machine to Clau de.  It ordered wine and PlayStations and
+eventually dropped all prices to zero before it was unceremoniously unplugged.  All disappointments of
+AI while we wait for AGI.  Yet imagine back to the 1850s.  The first group of Americans is riding the
+transcontinental railroad from New York to Chicago.  They’re marveling at the speed and convenience as
+they zip past horse drawn carriages.  Do you think they were all just really thinking about how much better
+it would be if the train went to California?  Or if it  were faster? Similarly, the early days of the internet
+were heady times.  There was real excitement about checking the weather on your desktop or emailing a
+friend even as dreams of the future were feverishly mined.  With AI, however, no one is content to enjoy
+waiting.  The investment is just too enormous for us not to end up with something much (much) better
+than what we have now.  The narrative in markets this quarter was thus squarely on the questions of how
+long we’ll need to wait in this awful purgatory of AI, what we do while we wait, what it might cost to make
+it to the productivity utopia of AGI, and which companies or tech ecosystems stand best positioned to
+succeed.  For the quarter, the S&P 500 was +2.6% (+17.8% YTD), the High Yield (HY) index +0.7% (+7.8%
+YTD), and the IG index +0.8% (+7.8% YTD).  IG and HY spreads widened 3bps (-3bps YTD) and 1bps (-11bps
+2
+YTD) respectively. The Diameter Master Fund (DMF) returned +0.3% net (+8.0% YTD) with average net
+exposure of 45%. Diameter Dislocation Fund (DDF) III Base, which is long only and 20% drawn, returned -
+5.0% in the quarter (+9.0% ITD).  DMF and DDF III’s unsatisfactory performance this quarter was mostly
+attributable to First Brands  and Eye Care Partners , on which we’ll have much to say below.  DDF II and
+DDF I are both in harvest and have returned 60% and 110% of paid-in-capital, respectively.
+We’ve talked a lot about AI in our recent letters.  Today we’ll focus more on some of the mistakes we
+made in distressed while looking ahead to the investment themes for 2026 that emerged from our
+December research offsite.  We’d be remiss, however, not to at least fill you in on how we participated in
+the AI SuperDuperMicrocycle  this past quarter.  We made a large investment in the debt of Beignet
+Investor LLC, a JV between Meta and third -party investors. Meta wanted to finance an AI data center in
+Louisiana without levering its pristine balance sheet .  I nvestors demanded a corporate backstop. The
+compromise is a structure that requires Meta to “make whole” the $27 billion of bonds if it ever abandons
+the project. For the complexity and illiquidity, Meta offered a spread roughly 150 bps wide of its
+equivalent-duration bonds . DMF was the only hedge fund with a large allocation, thanks to our
+relationships with the bank, the largest mutual fund lender, and Meta’s AI team.  The bonds rallied eight
+bond points on issuance (45 bps of spread on ~20-year WAL). We still hold a sizable position in the debt
+that offers attractive absolute and relative value.
+Our investment in Beignet was about earning excess spread for IG risk.  Not every hyperscaler has that
+type of balance sheet  to leverage (or protect) .  We’ve previously written on our investment in the xA I
+corporate debt, backed by the colossus data centers Colossus I & II, the Grok LLM, and some GPUs.  We
+like the debt for its 12.5% coupon .  To lower its cost of capital, xAI found a party willing to take GPU
+residual risk.   That wasn’t for us.  But this is America, which means they then tranched the investment,
+with a senior layer that amortizes over the life of the GPU lease while retaining a first claim to the chips.
+We make 10% at the top which we think is good risk.
+The drumbeat of AI deals was constant in the quarter.  We like the ones that are hyperscaler backed and
+guaranteed with contracts that exceed the debt service period.  We don’t think it’s wise to take the highly
+speculative gamble of GPU residual risk for a fixed debt return.  We’ve had these principles in mind for
+most of the last two years.  Yet it’s also important to note that the AI credit cycle evolved last quarter.
+First the sheer diversity of deals.  There are full GPU residual deals and those where you only take part of
+the long-term risk.  A way from just chip  financing, we’ve seen construction loans that are hyperscaler
+backed from the outset and those where the guarantee only comes once the building is ready for racks.
+There are others that involve a hyperscaler, but only partially guaranteed, and still others that are built
+on speculation with a whisper of an eventual hyperscaler tenant.  Some are tranched and ot hers have
+contractual amortization for all or part of the life of the loan.  Getting the details right is crucial, especially
+given the pace of transactions.
+3
+It's also no longer sufficient to just gain comfort with the presence of a hyperscaler.  Google , Meta,
+Microsoft, and Amazon are still the gold standard for guarantees.  Investors are rightfully less sure about
+the ne oclouds, which serve as downstream  debt arbs for hyperscalers  and, increasingly,  for less well
+capitalized players.  Oracle spent time on both sides of the divide.  I n October, it was a darling, getting
+credit for its “remaining performance obligations” with OpenAI.  By Christmas those same obligations
+were millstones, contributing to ballooning credit spreads . Much of this critical discernment was a
+symptom of the widening debate around the differences between the Google (TPUs) and Nvidia (GPUs)
+ecosystems.  Only Google, with its TPU chip, realized significant  scaling gains in 2025.  The N vidia team
+was caught for much of the year in a wait for the new Blackwell chip, which had impatient investors
+wondering if OpenAI, Anthropic, xAI, and Meta would be able to replicate Google’s feats. By the end of
+2026, we’ll know whether scaling laws will hold across technologies.  OpenAI and Oracle, in particular, will
+shift in the wind until ChatGPT can release a version that hunts with Gemini 3.
+But as we covered at our offsite, the funding won’t wait.  After $90 billion of AI related IG issuance in the
+fourth quarter, we expect at least $50 billion more in the first three months of the year.  This will take AI
+related exposure to 15% of the IG index, larger than banks .  That’s only IG.  OpenAI, xAI, and Anthropic
+will need to fund themselves.  That’s p artially why OpenAI  built a spider’s we b of relationships to
+effectively borrow IG balance sheets from Oracle and Nvidia.  They  can’t stop there.  We model that
+OpenAI needs to raise ~$600 billion between now and 2029.  The y’ll look for capital in any crevice that
+works, from commercial real estate, to asset backed finance, to special sits.  The flavors will metastasize
+4
+again from the multiple different structures we considered and invested in last year.  We’ve been saying
+for nearly two years that as AI advances the path won’t be linear and that winners and losers will emerge
+along the way.  That started in 4Q25.  The next year promises more dispersion amidst massive issuance.
+Our AI-fueled investment in the equity and debt securities of EchoStar was our best performer for the
+second straight quarter.  We gave the full saga in our last letter.  In brief, EchoStar hoarded vast amounts
+of wireless spectrum.  The market was valuing the company below its spectrum value because the network
+buildout expenses to put the spectrum to work were considered an unfunded liability.  Our view was that
+EchoStar’s spectrum would become critical to the inference phase of AI and be coveted by spectrum
+hungry wireless carriers.  With a nudge from the Trump Administration, EchoStar moved from builder to
+seller, realizing great sums for its spectrum.  In one of the deals, EchoStar took back $11 billion in SpaceX
+stock priced at a $400 billion valuation.  The EchoStar stock was a beneficiary when rumors surfaced this
+past quarter about SpaceX valuations of between $800 billion -$1.5 trillion.  EchoStar  remains a large
+position for us, trading well below the sum of its (mostly cash) parts.
+The quarter also saw one of the periodic “consumer recession” scares that have roiled markets repeatedly
+since COVID.  We’ve done well seeing through them.  The reason we reflexively doubt abrupt accounts of
+consumer demise is that spending this cycle has been financed mostly by income rather than debt.  Every
+time the howling begins about sudden slowdowns in consumer spending we turn to the first der ivative,
+income, which if intact, usually means the anecdote spreaders are either management teams looking for
+excuses or hedge funds desperate for volatility.
+The chart below shows household spending (green) against two calculations of income: total disposable
+income, including government transfers (purple) , and income from wage compensation (blue).  We’ve
+annotated the green line with the last few instances of market recession (RECESSION!) fears, which came
+in summer 2024, Feb-March 2025 (right before Liberation Day), and again this past quarter.  Before each
+of these episodes you can see that the green line, consumption, had begun to outpace the two income
+lines.  Consumers this cycle, however, have largely shunned living above their means for too long, which
+has meant an eventual reversion of the spending path (green moves back down below purple and blue).
+These reversions have been our recession scares .  They’re rarely long lived as income growth spurs new
+spending.
+5
+So the real question is whether income growth will continue.  W hich is another way to ask about jobs.
+And here there are some concerns , especially compared to previous periods in this (income) cycle .  We
+laid out a framework for thinking about labor in a letter earlier this year.  Since COVID, the
+disproportionate share in job gains have come from education, healthcare, and government.  As those
+industries got far above pre-2020 trend, however, it was unrealistic to assume they could keep growing.
+Other industries, still well below trend, like business services, need to take the handoff for the labor
+market to keep growing.  That hasn’t happened.  The chart below is one we love and that would also get
+us fired if we were publishing analysts at a bank.  Each color represents the number of monthly jobs
+created by a given sector .  The hot purple in the middle that contributes handsomely throughout is
+healthcare.  The light blue above it is leisure  & hospitality.  The yellow line is government and the dark
+blue and black lines at the bottom are construction and manufacturing respectively.  All the way to the
+right, you can see that the anemic total job creation at present is supported by precious few colors, chiefly
+healthcare and leisure.  Construction (dark blue) , which mysteriously disappeared over the summer , is
+now back and was probably mistakenly understated earlier in the year.  Nearly everything else is
+negligible.  If the trend sustains it portends poorly for income growth and perhaps spending.
+6
+Or does it?  Claims have remained muted, which means the labor weakness post-Liberation Day could be
+short-lived.  Moreover, as the labor market decelerated last year it didn’t dent the pace of aggregate
+income or GDP.  Some of that had to do with investment in AI, but it’s also about a surge in productivity
+that predates ChatGPT.  Look at the above chart again at the green line in the bottom middle.  It’s business
+services, which used to be a major engine of job creation.  It now has nearly entirely disappeared along
+with manufacturing (black).  Productivity gains have squashed the need for hires.  The period after the
+GFC offered historically low productivity gains as healing of  balance sheets bested investment and
+innovation.  We’ve now had a recovery while most sectors are still waiting for the Godot of an AI-induced
+productivity boom.  Once AI start s working closer to 100%, which means agentic capabilities that can
+adapt to real world deviations,  then presumably the productivity trends will reinforce.   This past year
+gave us a glimpse into that future.
+Another thing we saw in 2025 is that productivity can narrow the distribution of economic gains.  The
+graph below shows income growth by quartile.  Dark blue is the lowest earners.  You can see that they did
+comparatively poorly after the financial crisis.  Starting in the early Trump years they surged and truly took
+off during the pandemic.  This year, however, low -income wage growth was the worst amongst the
+quartiles.  It’s still at a high absolute level.  But with sticky inflation it means more parlous real earnings.
+In the early aughts, promises to retrain workers displaced by globalization went nowhere. The result was
+populism across the west. If 2025 is any guide, then we ain’t seen nothing yet.
+7
+Before the impact of uneven productivity gains will be felt on the streets, it will show up in opportunities
+in distressed debt.  We ’re already observing this trend in sectors like packagin g and food , which face
+headwinds from GLP-1s, shifting consumer tastes, and low-income wage stagnation.  We’re excited about
+this future opportunity set.  W e also recognize the need to refine our underwriting and position -sizing
+processes in distressed . D espite the success of EchoStar, originally a distressed investment , and the
+continued profitable realization of FTX, we had a bad year and a disastrous fourth quarter in distressed
+debt investing.
+You’ve heard us for years describe distressed as an episodic, non-asset class. It should only be approached
+during economy-wide disruptions like recessions, which have become fast and rare, or during industry
+microcycles, which have provided most of the opportunity over the last 15 years. The key in microcycles
+is identifying which stressed or distressed companies within a disrupted industry will emerge as winners
+once the cycle troughs. In retail and energy last decade, for example, we focused on companies  with
+prospects outside the mall and with excellent rock, respectively. As industries move through microcycles,
+often driven by technological change or policy volatility, the gyrations can expose weak management
+teams. Such companies can materially underperform peers, particularly when overlevered, creating
+opportunity both from improving industry conditions and from new leadership. That same theme of poor
+management also gives rise to one -off distressed situations where a co mpany in a good industry is so
+mismanaged, or even defrauded, that relatively small fixes can return it to a more profitable trajectory.
+This approach of investing in mismanaged distressed companies failed us  consistently this year, first  in
+older positions like Cano and Rite Aid, which were written down, and then in the fourth quarter in EyeCare
+8
+Partners (EYEPAR) a PE-backed rollup of optometry and ophthalmology practices.  EYEPAR did a poor job
+integrating acquisitions; the cardinal sin of a rollup.  This failure left its 2021-vintage capital structure non-
+refinanceable. We helped lead an LME in 2024 that injected new capital, elevated our debt, and tightened
+documentation. As the cost structure improved , we believed the positive industry trends would lift
+margins from below five percent toward the 10 % earned by peers. With profitability restored,  the
+company could again benefit from the high multiples afforded steady healthcare growers. This thesis
+began to show traction in 4Q24, when earnings and the 2025 budget took the debt from the 60s, where
+we bought, into the low 80s. We hoped to sell in the high 80s and held. That was a mistake.
+The first hit was 1Q25 results.  The improved cost story persisted .  R evenue, unfortunately,  was a
+surprisingly significant miss. Regeneron and other drug manufacturers  had halted a program  to help
+Medicare patients with large co-pays on branded retina drugs. It was known heading into 2025 that these
+programs were ending. Yet management materially underestimated the impact as patients shifted to less
+profitable generics. Management also failed to accurately predict physician vacation schedules at the
+same time as churn was rising across its 900 plus doctors. What had been a cost recovery story now had
+revenue in question, and the debt traded back into the 60s. We added to our position, encouraged by the
+sponsor’s replacement of the underperforming CFO. However, third quarter results, while stable on
+revenue, remained underwhelming, and the cost momentum stalled. The debt ended the year in the low
+40s. We have stopped adding and believe the company will struggle to refinance in 2027. We expect
+delevering asset sales this year and remain invested because the debt feels too cheap to sell. It’s  a
+powerful reminder to avoid situations that have been so poorly managed.
+Unfortunately, we had not yet fully absorbed these lessons when we encountered First Brands (FB), which
+began as a major win and ended as the worst loss of our careers. FB is an aftermarket auto supplier built
+from more than a dozen acquisitions over a decade. It manufactures products globally, ranging from
+brakes and wipers to lighting. Acquisitions were financed with debt, which the company was able to raise
+repeatedly due to a track record of margin improvement. In 2024, FB  reported $5 billion of revenue and
+$1.2 billion of EBITDA against $ 6 billion of syndicated loans and a complex web of receivables and
+inventory financing. The business was tightly controlled by its secretive founder, Patrick James, who had
+prior run-ins with creditors before eventually “succeeding” with FB.
+When we started going through the FB syndicated loan in 2024 we didn’t like what we saw.  R eported
+margins were unrealistic compared with  peers, and cash flow reconciliation to EBITDA fell well short of
+adjusted figures. We had particular trouble reconciling footnotes about the factoring of receivables and
+pledging of inventory with the audited financial statements , which smelled of fraud.  We doubted the
+company could refinance.
+We should pause to note that we rarely short loans. There’s no true borrow in the loan market, settlement
+takes one to three months, and there’s a constant need to trade the position if held for the long -term.
+More importantly, across our funds we aim to be solution providers to issuers , even in tricky situations .
+Fraud, however, is an exception. With FB , we believed the refinancing attempt in 2025 would surface
+fraud rumors quickly, limiting how long we ’d need to hold the short. We also don’t feel compelled to
+support fraudsters. Accordingly, in mid- 2024 we initiated a short in the senior secured loan  in the high
+90s.
+9
+And then it worked.  Really worked.  As the company tried to refinance , indications of accounting fraud
+became more evident, making it hard for the company to renew any of its working capital lines.  FB
+collapsed into bankruptcy in September.  We covered the last of the short in the high 40 s as things
+worsened and remained tightlipped when the press reported on our short (we reiterate that if you’re not
+a fraud, then you shouldn’t worry that we’ll short your loans.  If you ’re committing fraud, then caveat
+emptor).  Once the company landed in bankruptcy, its advisors needed to raise over $1 billion in debtor-
+in-possession (DIP) financing.  We had by that time tracked down the comprehensive information memos
+(CIMs) for all of FB’s acquisitions since 2018.  This allowed us to aggregate a revenue number for these
+previously standalone companies of $4.7 billion, or ~90% of the total revenue reported by the company.
+It was e xternal confirmation that revenue had been “real.”  We then compared the profitability of FB’s
+businesses, before and after acquisition, to other companies with similar products.   We concluded that
+FB’s average EBITDA margins were likely 13-15%. While a far cry from the reported low-20s, it still meant
+$600-800 million in “real” EBITDA.  We also spoke to former employees and competitors and were able
+to piece together that several of FB’s businesses benefited from favorable end market trends and
+attractive market structures.  The segments could fetch attractive multiples in a n orderly sale.  We also
+went deep into the reported financials to reconcile cash flows from operations to earnings.  We thought
+it demonstrate d EBITDA in the many hundreds of millions. In short, we saw a company that had
+fraudulently factored the same inflated receivables to different parties while striking multiple secured
+financings on the same set of inventories.  As long as  the revenues were mostly real, of which we liked
+our chances on close to $5 billion, the business would have value on the other side of the fraud.
+Accordingly, as the incumbent lenders were panicking at the onset of the bankruptcy , we bought ~$100
+million of the senior secured bank loan in the low 30s that gave us the partial right to purchase over $100
+million of the new DIP A at 95, earning 20%+. The company needed to eventually be worth $2-2.5 billion
+to cover the DIP A and just under $4 billion to pay back our basis in the pre-petition loan, which had been
+rolled up into a DIP B.  Given our triangulated estimate that FB was earning approximately $700 million in
+“real” EBITDA, we thought valuation was compelling below $ 4 billion (5 .5x).  We joined the steering
+committee for the ad hoc group and hunkered down for what we hoped would be a profitable case.  A
+mere three months later, and the letters F-B haunt us every time we close our eyes.
+Almost immediately in bankruptcy the company was having trouble fulfilling customer demand for
+product.  This “fill rate” in North America, which should be at 90%, was coming in at ~60% of orders.  When
+a company that had been strapped for cash files for bankruptcy, the DIP commitment usually allows it to
+reset supplier relations and grow its payables.  As a fraud, however, FB saw much of its management team
+pick up and leave.  The restructuring consultants who stepped in made the fateful decision not to pay
+many of the pre -petition suppliers.  We didn’t fully appreciate this dynamic at the time.  T he fill rate
+shortfalls so concerned us, however, that in mid-November we decided to swap half of our exposure from
+the DIP B to the “safer” DIP A.  Moving up in the capital structure was designed to protect us should the
+fill rate issues lead to an earlier need for capital, which would further subordinate the DIP B.  We got out
+of half our DIP B exposure at what were then good prices.  Unfortunately, switching from DIP B to A in the
+name of safety turned out to be just as illusory as seeking relief in AAA CDO squareds that were entirely
+composed of (worthless) BBB RMBS.  In a skydiving accident, it’s the helmet wearing the person.
+10
+We’re now on the private steering committee and subject to NDA, meaning we can’t be as fully
+transparent as we’d like (we are very appreciative that our letters have stopped leaking the last few
+quarters.  Let’s keep the streak alive!).   FB  will need more capital in early 2026 to pay the payables it
+should’ve budgeted for in the beginning and fund operating shortfall.   There are almost two parallel
+universes from here.  In one, the case becomes more regular.  The new numbers are “real” and the new
+money need knowable.  Or, as can happen in frauds, more and bigger shoes keep dropping.  You’ve now
+had a pre-petition term loan and then a DIP collapse from near par to zero and mid-20s respectively in a
+matter of months.  Certainty will be hard to come by  as will large checks.  We sold all of our DIP B and
+2/3s of our DIP A at prices materially above current, yet it cost DMF 123 bps and DDF III 96 bps (on
+NAV+Undrawn) in the fourth quarter.
+We’ve thoroughly reviewed, and continue to assess, what went right and then horribly wrong in FB.  There
+are few exercises more satisfying than turning a successful  short into a profitable long.  We had a head
+start on others because of our work on  the short.  As the debt collapsed , we were too confident in that
+advantage and too excited about reversing the trade and thus moved too quickly to buy the loan at its
+pre-petition lows.  We thought that our work reconciling the revenues from acquired businesses from
+external sources demonstrated ~$5 billion in “real” sales.  We now think that once FB acquired a company
+it would offer significant discounts to customers in return for working capital allowances.  This helped it
+feed the merry-go-round of receivables fraud that it needed to make payroll each week.  The CEO would
+then feed fake inflated sales numbers into the company’s ledgers, which fooled the auditors and also our
+advisors, who were confident in the revenue numbers when we funded the DIP A.  The result was a
+company with far lower revenues than what it had acquired .  We wonder now if EBITDA, after the
+discounts, was even positive .  A  bankruptcy shines unforgiving sunlight on a company. When the
+proximate cause of a filing is fraud , it probably makes sense to miss the initial trades and allow the rays
+to work as disinfectant.
+We also made the wrong choice once we saw the fill rate problems.  We did  many calls with customers
+and suppliers and still couldn’t fully explain why the company was struggling so mightily to source
+materials.  Our discomfort led us to reduce DIP B in return for DIP A.  In a fraud, if something seems off,
+you should just get out.  Finally, we bought the DIP A because we liked the yield relative to the LTV.  We
+do this a lot with senior risk in restructurings.  The company only needed to be worth ~$2 -2.5 billion to
+cover the DIP A, and we thought it was worth $3.5 -5 billion.  A fraud is not the right type of situation to
+size senior risk since you can never truly be sure of your margin of safety.  We will continue to share our
+lessons learned from this debacle as the case plays out.
+One of the things we want to focus on more closely going forward in distressed is whether management
+is up to the task of the turnaround.  We’ve gotten that wrong a few times recently , as just discussed .
+Which makes it ironic that one of the more profitable distressed names in the quarter for DMF and DDF II
+was Signature Bank, the bankrupt institution being managed by the federal government.  Don’t worry free
+marketeers, the government outsourced management of the bank’s assets to three private managers .
+They’ve done a good job, which has enabled faster payback of the government debt.  More importantly,
+at the end of the quarter the FDIC clarified that our bonds are senior to interest earned on the
+11
+government’s claim.  Together, the two pieces of n ews sent the bonds from the 50s to  the 70s with
+potential final claims at 125+.
+We also had good news in the quarter relating to  DMF and DDF II’s distressed position in the AT1s of
+Credit Suisse.  When the Swiss government arranged the sho tgun marriage between Credit Suisse and
+UBS over a hectic weekend in March 2023 it made the highly unusual decision to zero out the Credit Suisse
+AT1s while providing compensation to the more junior equity. We bought the AT1s between three and 10
+cents, after the seizure, and then joined with other a ggrieved parties suing the Swiss government.  This
+quarter, a Swiss lower court found for similarly situated plaintiffs, creating the possibility that our bonds
+could be reinstated or repaid.  The bonds went to the 30s.  The case is now pending before the Swiss
+Supreme Court, and we think the bonds have significant additional potential.
+We also see upside in some of our other distressed losers.  We ’ve been early to the housing velocity
+recovery trade, which we’ve talked about as a new microcycle, and that cost us in the debt of Springs, the
+stressed supplier of window treatments.  We really like the market structure in blinds and think the new
+management team is poised to abate share loss suffered on a bad rollout of new product.  You better
+believe we’re stress testing this last assumption.  We also got dinged in the debt of US cable oper ator
+Altice USA and its foreign cousin, Altice International.  Both are controlled by Patrick Drahi who is moving
+assets around to try and effectuate liability management transac tions.  We like our positioning in both
+situations and think they’ll be active opportunities in 2026.
+Which is a good segue to what we think is in store for the year just started.  We expect another year of
+heavy M&A. The urgency might even increase as CEOs reckon with the possibility that we could be one
+year closer to Lina Khan back at the FTC (as if we’re going to have real elections in 2028…).  We had a nice
+M&A win in the fourth quarter when Enviro Solutions, an environmental solutions provider, sold its main
+business at a nice price.  We were also  long DigitalBridge in the fourth quarter, before its announced
+acquisition by Softbank, and had a winner in Warner Brothers.  We hope to find more M&A trades in 2026.
+One of our offsite presentations highlighted the M&A surge to come in large cap pharmaceuticals from
+an unprecedented roll off of drug exclusivity.  We expect this general rush of M&A to be funded by IG,
+which together with AI could up push others needing capital into private or alternative markets.   We’ve
+all spent our careers watching every supposed leveraged finance maturity wall evaporate into dust.  The
+coming wall, mostly from PE -sponsored companies with capital structures designed for lower rates, will
+be no different.  Instead of defaults we’ll get more “capital solutions.”  This quarter DMF and DDF III helped
+two over levered trucking parts companies consummate a merger by providing senior debt and preferred
+that came at 98 with a 14.5% coupon and three percent of the common equity.  Realizing the synergies is
+the only way for the PE sponsors to delever the businesses, and we like where we sit in the structure.  We
+also closed a preferred deal with a PE -backed company in the live event media services that used our
+capital to reduce its secured leverage.  DDF III partnered with a different PE shop and the pref has both a
+high teens coupon and a mechanism  for the equity to seamlessly transfer from the sponsor to us.  We
+also, in DMF, earned a low-teens return in a large deal for Liberty Media’s Puerto Rican entity that was
+backed by assets stripped from creditors .  The sponsor was able to get its creditors to the table.  As we
+said, capital solutions.
+12
+We think we are only at the tip of the iceberg for capital solutions, particularly for zombified PE-backed
+companies.  The structures come in many flavors, from true rescues with warrants, to stripped collateral,
+to prefs and hybrid equity.  The common denominator is helping the current owner prolong runway.
+Given our broad industry focus, integrated direct lending and CLO business es, and hedge fund that
+assesses nearly every deal in public markets, we believe we have edge in sourcing and underwriting these
+complicated opportunities. We expect capital solutions to be a major theme in the years ahead.
+Our research offsite in December was aimed at identifying investable ideas for the coming year.  As a
+reminder, our analysts are industry experts.  It’s the only way to be fast and smart.  The unintended
+consequence of following a sector closely, however, is capture by industry consensus.  The idea of the
+offsite is for each analyst to use primary data to test consensus and develop unique views.
+We always spend a lot of time on healthcare at our offsites given the industry’s consistent pairing of policy
+volatility and heavy debt loads. Last year, we focused on the unusual level of uncertainty as the new
+administration emphasized cost cuts (remember DOGE?). The one certainty we highlighted was that the
+Affordable Care Act (ACA) enhanced insurance subsidies were set to expire at the end of 2025 .  Heading
+into 2026, the key question is now whether those subsidies will be extended. The implications are
+significant. The US uninsured population sits near historic lows, but that will change if subsidies roll off
+and individuals are forced to choose between premium increases of 70 to 85 % or dropping coverage
+altogether. And this may only be the first wave of healthcare affordability challenges.
+Last year, commercial insurance costs borne by employers rose roughly 7%, driven by specialty oncology
+drugs, GLP-1s, and persistently elevated post -COVID utilization. We think it’s likely employers will begin
+passing more of these increases on to employees. In that scenario, those losing ACA subsidies may simply
+be first in line to absorb rising healthcare inflation. All of this is negative for hospitals, which have
+performed well re cently in both equity and credit markets. We’re more cautious in a year wh ere
+consumers may be forced into unusually difficult tradeoffs.
+13
+We had success in the fourth quarter in shorts of global chemicals compan ies bedeviled not so much by
+sudden drops in demand (RECESSION!) than by the evolution of supply.  Our offsite made us even more
+negative.  The problem is China , which seems determined to add capacity up and down the chemical s
+chain.  By 2030, you could shut all the ethylene and propylene capacity in Europe and Japan and still have
+more excess than we have today.
+The victims won’t only be Western producers of base petrochemicals like olefins and aromatics.  T he
+Chinese are moving up the tech stack as they add capacity to commoditize what is today considered
+specialty.  A whole host of western chemicals factories will soon lie as dormant.  We think this is already
+starting to happen in Ti O2 (paint coatings) , resins, and advanced polymers .  It’s coming for adhesives,
+sealants, and water treatment.  On the opposite end, Chinese planners seem to be ignoring chemicals for
+food ingredients.  We have shorts in the most impacted names and believe that 2026 will be a watershed
+inflection for chemicals.
+When it comes to overcapacity there are few sectors with a more well -known problem than liquified
+natural gas (LNG), which will see a rush of new projects come online between 2027 and 2030.  The
+question at our offsite was how the price of global gas would  adjust to stimulate new demand.  This will
+be tested in 2026, ahead of the capacity, as the warm start to winter in Europe reduces the urgency to
+rebuild inventory this summer.  Gas pricing markets are thus already looking to the Winter 2027 glut.  To
+truly spur switching from other fuel sources, global gas prices need to get below $7 from $9 currently.  We
+have a secured convertible investment in Delfin, an LNG developer with a permit and firm offtake
+contracts for LNG vessels in Louisiana.  We like the l ow-cost assets Delfin constructs and its contracted
+cash flows.  Other LNG companies, however, have a portion of EBITDA exposed to commodity prices.  As
+the “LNG Winter” dawns, now slightly earlier than anticipated, security prices in the industry will continue
+to come under pressure.  This could create opportunities  to step in and buy long- lived crucial
+infrastructure projects cheaply.  We’ll be ready.
+One complicating factor for LNG is that US natural gas prices, which are an input cost to US LNG, are poised
+to remain firm given the strong demand for power from AI datacenters.  We covered the AI-power theme
+in our last letter and did a session at the offsite.  Despite the unprecedented activity in datacenter
+construction, there are still many aspirational announcements for datacenters that will never get past the
+press release.   Of the 140 GW projects we track, we think about 90 GW get built over the next five years,
+14
+40% of which are in the PJM region spanning Pennsylvania, New Jersey, Maryland, Ohio, and Virginia.
+There’s already been a lot of datacenter activity there, mostly from independent power producers like
+Talen.  Our matching of projects with regulated footprints makes us think that utilities like AEP might be
+future beneficiaries of an enhanced rate base, while NiSource and PPL could win with their ringfenced
+deregulated GenCos.  More fundamentally, however, PJM’s early projects have been largely connected to
+the grid.  It’s no surprise that power prices are surging.  Yet they’re not rising enough to incentivize new
+power commitments.  This imperils the sustainability of PJM’s capacity market as higher prices without
+new supply is a lose-lose for consumers.  The future in all regions will be “behind -the-meter” where the
+datacenter brings its own power source that exists independently of the grid. This will allow for more
+innovation than the grid permits. The winners will be equipment providers and those with b attery,
+turbine, fuel cell, and storage solutions to maximize power generation at the lowest cost.  We have one
+high yielding investment in a behind -the-meter beneficiary and will look for more as the power cycle
+evolves.
+Consumers, of course, are the ones most at risk from AI power price shocks.  And we had five different
+sessions at our offsite touching on the health of the consumer.  In Europe, the consumer remains resilient,
+which in continental terms, outside of Spain,  means eking out something around 1%  real growth.  We
+think many of the consumer goods companies in Europe , especially those facing structural volume
+headwinds like alcohol and snacks, were overly reliant on price during the 2022-25 inflationary period.
+We worry that the jig is up  and have found a few shorts.  European luxury is emerging from a cyclical
+COVID-echo trough.  The flagship brands have sustained for decades.  Yet many of the traditional houses
+are going through creative resets at a time when old strategies are waning.  The increasing importance of
+the aspirational customer and growth in the resale channel creates  both perils and opportunities.  Most
+of the investments in luxury are in equities, but there are a few LBOs, such as Breitling, that we’re watching
+closely.
+The US consumer got most of our attention, with the low-income varietal back to its struggling baseline.
+Low-income shoppers are overweight food, packaged goods, and clothing.  We think those areas will be
+soft again in 2026 .  The top -30% of earners, by contrast, are 50% of spending and they ’re
+underrepresented in healthcare and non-discretionary which they compensate for in services and durable
+goods.  At the offsite, the team tracked through multiple data sets to find spending categories that are
+below trendline and have become less elastic for the rich.   The best examples are home & garden and
+furniture.  The worst are pets, air travel, and small household appliances.
+15
+We think this can be something of a roadmap for longs and shorts throughout the year, especially as
+income for wealthier Americans continues to outstrip spending.
+We also delved into asset-backed-finance (ABF) which now includes everything from unsecured consumer
+loans to aircraft  and equipment finance, small business loans, and even Buy -Now-Pay-Later (BNPL) for
+Botox.   Insurers have been selling record numbers of annuities to aging Americans.  The insurers in turn
+need to invest the proceeds in safe, highly rated assets.  Such assets don’t usually yield much above the
+cost of the annuity.  So insurers are interested in anything that is safe and even slightly more yieldy than
+regular IG.  Every basis point counts.  To satisfy this hunger, asset managers tranche up a myriad of loans
+to offer insurers both safety, through structural seniority, and an additional 100 to 200 basis points of
+yield. ABF is gold to insurers and has grown meteorically.
+16
+But what happens to the bottom of the structure?  The less safe parts that many insurers don’t want?
+Here is where it’s helpful to think back to a memorable episode from the 1990s hit show Seinfeld where
+two characters partner to open a highly specialized bakery selling nothing but muffin tops.  It’s the only
+part of a muffin that people really like.  Yet, their venture “Top of the Muffin to You!” fails quickly.  It turns
+out that muffin tops baked alone, without stumps, don’t taste the same as tops popped off of completed
+muffins.  So they changed course and baked the full muffins before removing the tops.  This resolved the
+taste and texture issue, but opened a new dilemma: what to do with the stumps?  No one wanted them.
+The garbage dump wouldn’t take them  (they’re not trash) and a homeless shelter returned them as
+inhumane food.  The venture shut because they had nowhere to put the stumps.
+This search for low risk “excess” yield is the tail wagging the dog of a growing market as asset managers
+scramble to offer ABF to insurers.  But just like the Seinfeld bakery, the market has a dilemma with the
+stumps. Insurers don’t want the residuals; they’re too poorly rated. Originators prefer not to hold them,
+as they need to recycle capital.  The result is a cottage industry of “special situation” and interval funds
+designed to hold the stumps.  Many of these funds are managed by asset managers that own insurers.
+Sometimes they even take the stumps and try to create new muffin tops out of them.  The taste is different
+even if the rating is the same.  We’ve looked at many of these residuals, and after taking our own lumps
+in solar and student loan ABS, we generally pass. These stumps can offer carry without convexity, often
+with long-dated cash flows that preclude the early de -risking featured in CLO equity. While most should
+work out, history suggests that exponential growth in an asset class usually invites sloppiness. We suspect
+that when the first signs of trouble mount, the market may eventually refuse to take the stumps  which
+could lead to both losses and the grinding halt of the ABF machine.
+17
+As we plan to do more ABF both in the secondary market and as an originator, we focused on our offsite
+on potential areas where problems could emerge.  Non-bank lenders like Affirm, SoFi, Upstart, and Pagaya
+stick out .  We’ve wondered aloud in these letters (and on podcasts ) if the explosive growth in these
+products is being captured in Federal Reserve statistics that show an historically underlevered consumer.
+After doing our own calculation, we think tha t BNPL and FinTech are mostly just replacing credit cards ,
+particularly amongst younger consumers.
+What’s more interesting is how demand for loans to feed insurers 1 is leading to wider credit boxes and
+the entry of new originators with limited track records.  It’s a race to the bottom.  Consider that Pagaya
+has made a business of lending to borrowers that other platforms have rejected.  T hey tout improved AI
+models and internal credit risk scores, but its average debt-to-income for borrowers has moved from 22%
+to 29% in three years. Annual volume has grown 6X from $1.6 billion in 2020 to over $10 billion in 2025.
+And, least surprisingly, it recently announced its first dedicated off-take agreement with asset managers
+so that it doesn’t need to eat its own stumps.  Good luck to whoever needs to swallow them once the
+consumer shows trouble.
+The other issue to consider with ABF is fraud.  There’s been a surge in what is euphemistically known as
+“credit washing,” egged on by a closet industry of TikTok influencers peddling artificial ways to boost
+credit scores.  Not surprisingly, credit-washed loans have performed poorly, with recent TransUnion auto
+charge-off data showing meaningfully worse outcomes.
+1 https://giftarticle.ft.com/giftarticle/actions/redeem/baccff25-bbb4-47fc-81c7-1b02f9b76127
+18
+Lenders may also be in on the fraud, most notably with subprime auto lender Tricolor.  It’s no shock that
+such a pristine and white shoe corner of the financial world has offered up multiple frauds.  But our offsite
+touched on how ABF in general lends itself to fraud because of how many hands touch each loan.  First
+there is someone on the ground with direct relationships with the customers.  This is usually referred to
+as the “lender.”  They rarely have capital, however, and the entity funding the loan might be a few steps
+removed from the broker with the relationship.  Then there’s the borrower, who can lie on applications,
+and, of course, the lender and borrower can work together to  “boost” the application.  According to
+Transunion, 95% of instances where bad credit events are suppressed come from  lender initiated
+“account maintenance” which is really about preserving the ability of the lender to make new loans to the
+same weak credit.  Next you have the bundler of loans to create a securitization.  They have limited skin
+in the game and huge influence on which loans get included (and if some loans get fraudulently counted
+twice!).
+19
+Fraud can be mitigated through sound operational controls. Avoid any lenders with history of chicanery.
+It can lead to too much compounding pain if there’s one bad cog in the wheel.  We wish we’d taken this
+advice in Cano and FB.  Also insist that verification doesn’t just come from one source, especially the
+lender.  Eschew “unique” arrangements, such as Tricolor’s vertical integration in car repair which allowed
+it to show exceptional recoveries.  Shun models that use origination speed to compensate for lower rate.
+In sum, the popularity of annuities has fueled a surge in insurance assets that seek even the smallest
+incremental return over IG.  ABF provides a solution. Avoiding the pitfalls will be key to differentiation.
+We started our media offsite by marveling at the advertising recession that wasn’t.  It’s now a $400 billion
+market, up from $240 billion in 2019.  We had the opportunity this year to invest profitably in the IG bonds
+of Warner Brothers and Paramount, as they went through a host of special situation exchanges and
+mergers.  Yet for the most part, we’re usually confined to the $70 billion part of the advertising  market
+that is in decline, from radio to TV and broadcasters.  It can be fertile ground for shorts.  This past quarter
+we closed out a short in a provider of worthless ad-content at the bottom of webpages.  The bond came
+at par in 2025, and we shorted it at issuance.  It ended the year in the 30s as b uggy whips have more
+relevance post-AI. We think that 2026 will see connected TV — basically everything that streams — take
+share from all mediums, which will pressure broadcasters.  Against that negativity is the promise of M&A
+from the Trump FCC which seems poised to allow more broadcast concentration.  The Netflix -Warner-
+Paramount love triangle should also continue to provide new issue and secondary opportunities in media
+this year.
+We always spend a lot of time at the offsite on telecom, which is a microcycle with seemingly no end.  The
+latest evolution is the capitulation of the entire US wireless industry to the allure of fixed wireless (FWA).
+It was 150% of broadband adoptions last year and that was before AT&T went all in.  The appeal is the
+opportunity to put fallow wireless capacity to use.  The share donors are legacy copper and coaxial cable.
+We think pure play cable companies remain ripe shorts.  We also think, however, that the endgame for
+spectrum has to be in mostly wireless applications.  FWA subscribers consume ~30x more bandwidth than
+the average wireless subscriber.  At nearly half the price.  And that’s before demand for AI consumes more
+wireless bandwidth.  Our thesis is that FWA is the waystation for carriers to win subs cribers today, but
+that the long -term strategy will be to house them on fiber.  Independent fiber operators, like TDS,
+Consolidated, and Brightspeed need to spend the capital and demonstrate initial positive penetration in
+their footprints.  The major carriers can then buy them and rely on their converged wireless+wired
+offerings to boost penetration further.  The debate over FWA and its impact on cable and fiber will come
+to a head this year, and we’ll be looking for opportunities if fiber becomes too cheap or cable too
+expensive.
+We covered a lot more at the offsite than we can write about here.  In brief, our gaming session speculated
+that Las Vegas visitation suffered from consumer sticker shock on pricing. As time passes and prices grow
+more slowly, consumers will adapt and the numbers on the S trip can improve.  The beaten-up Caesar’s
+could be a prime beneficiary .  In aero, we’re with the consensus that the low- cost model in the US is
+broken and that United and Delta should earn more than 100% of industry net income.  We think the debt
+of Latin American carriers, where growth is outstripping capacity, might make for more edged
+investments.  European banks equity and credit were big winners last year, a theme we missed.  They’re
+20
+better capitalized and earn more than their US counterparts and yet still trade at lower multiples.  Finding
+a unique angle is the hard part.  It’s been easier in the diverse housing space, which we’ve spent a lot of
+time writing about in these letters.  At the offsite, we studied the relationship between new and existing
+home prices.  The former are now below the latter as builders got ahead of themselves in COVID migration
+winners.  We think starts will be down for the year which places us below consensus.  Existing home sales
+are like a coiled spring, just waiting for any relief from rates to unleash pent up demand for discretionary
+moves.  The Trump Administration seems laser focused on getting mortgage rates down to spur this
+activity.  Earnings expectations have capitulated which could create asymmetry on the long side.  The
+office market in the US has become bifurcated between trophy properties and everything else.  Yet cash
+rents are lower than they appear because of soaring tenant improvement allowances.  We think this will
+show up in dividend cuts from the larger office REITs.
+Our biggest mystery at the offsite was packaging.  It’s supposed to be defensive.  Yet packagers exposed
+to food, beverage, and home hygiene have experienced three years of volume declines.  Changing alcohol
+habits and the rise of energy drinks play some role.  So does the emergence of GLP -1s, which reduces
+overall grocery spend, as does the renewed struggling of the low-income consumer.  Yet it also seems like
+something bigger is going on.  Why are we selling fewer home hygiene products?  If dining at restaurants
+and take out is surging at the expense of food -at-home is there really an economic component to the
+slowdown?  We think the mix of secular and cyclical chan ges in how people spend is making it hard to
+predict earnings.  The market expects food and beverage to bounce back this year.  We aren’t as sure.
+Packaging is the only sector that has widened enough to trigger DDF III’s Contingent Fund.  We haven’t
+acted because we haven’t solved the riddle quite yet.  It’s going to be an interesting year.
+As always, please feel free to reach out with questions, concerns, or thoughts on how we can do better.
+Sincerely,
+Scott Goodwin, Managing Partner   Jonathan Lewinsohn, Managing Partner
+CC: Diameter Team
+This letter is confidential and may not be recirculated  to any person or entity. This letter does  not constitute an offer to sell or
+the solicitation of any offer to buy interests in any Diameter fund, which may only be made to qualified investors via the applicable
+fund’s confidential private placement memorandum, limited partnership agreement and subscription document. The returns
+presented for Diameter Master Fund LP (“DMF”) in this letter reflect the performance of a hypothetical, new issue eligible investor
+holding a Series B-5 interest in Diameter Onshore Fund L.P. The Series B-5 returns presente d herein reflect a reduction of a
+management fee of 1.5%, a performance fee  of 18.5%, and other applicable fund level expenses.   The returns presented for
+Diameter Dislocation Master Fund II LP (“DDF II”) in this letter reflect the performance of a hypothetical new issue eligible
+investors and the reduction of a management fee of 1.5%, a performance fee of 20% and other applicable fund level expenses.
+21
+Numbers and performance figures are rounded, unaudited and estimated. Individual investor returns will vary from the returns
+presented in this letter based on, among other things, the series to which the investor subscribed, management and performance
+fees applicable to such series and the investor’s eligibility to participate in new issues. Year -to-date returns are compounded
+monthly and are not annualized.  There is no assurance that Diameter’s investment objectives will be achieved or that it will be
+able to avoid losses. References in this letter to indices are for illus trative purposes only. The Diameter funds may be less
+diversified than the referenced indices, and the indices may reflect positions that are not within the Diameter funds’ investment
+strategies. Past performance does not guarantee future results.
