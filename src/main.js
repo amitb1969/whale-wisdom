@@ -6,13 +6,10 @@ const app = document.querySelector('#root')
 app.innerHTML = `
   <main class="container">
     <h1>Fund Letter Top Recommendations</h1>
-    <p class="sub">Upload fund letter text files and extract top stock/ETF recommendations.</p>
+    <p class="sub">Extract top stock/ETF recommendations from latest-quarter fund letter text files.</p>
 
     <section class="panel">
-      <label>
-        Upload .txt files
-        <input id="fileInput" type="file" multiple accept=".txt" />
-      </label>
+      <p class="small">Using bundled text files from <code>output/playwright/fund-letters/latest-quarter-content/text</code>.</p>
 
       <label>
         Top N
@@ -34,26 +31,13 @@ app.innerHTML = `
 let loadedFiles = []
 let currentResult = null
 
-const fileInput = document.getElementById('fileInput')
 const topNInput = document.getElementById('topN')
 const extractBtn = document.getElementById('extractBtn')
 const saveBtn = document.getElementById('saveBtn')
 const status = document.getElementById('status')
 const results = document.getElementById('results')
 
-fileInput.addEventListener('change', async (event) => {
-  const selected = [...event.target.files]
-  loadedFiles = await Promise.all(
-    selected.map(async (file) => ({ name: file.name, text: await file.text() }))
-  )
-  currentResult = null
-  extractBtn.disabled = loadedFiles.length === 0
-  saveBtn.disabled = true
-  results.innerHTML = ''
-  status.textContent = loadedFiles.length
-    ? `Loaded ${loadedFiles.length} file(s): ${loadedFiles.map((f) => f.name).join(', ')}`
-    : ''
-})
+initializeFiles()
 
 extractBtn.addEventListener('click', () => {
   const topN = Math.max(1, Number(topNInput.value) || 5)
@@ -81,6 +65,29 @@ saveBtn.addEventListener('click', async () => {
     status.textContent = `Unable to save to Blob: ${error.message}`
   }
 })
+
+async function initializeFiles() {
+  status.textContent = 'Loading bundled fund letter text files…'
+  const modules = import.meta.glob('../output/playwright/fund-letters/latest-quarter-content/text/*.txt', {
+    query: '?raw',
+    import: 'default'
+  })
+
+  const loaded = await Promise.all(
+    Object.entries(modules).map(async ([path, loader]) => {
+      const text = await loader()
+      const name = path.split('/').pop()
+      return { name, text }
+    })
+  )
+
+  loadedFiles = loaded.sort((a, b) => a.name.localeCompare(b.name))
+  extractBtn.disabled = loadedFiles.length === 0
+  saveBtn.disabled = true
+  status.textContent = loadedFiles.length
+    ? `Loaded ${loadedFiles.length} bundled file(s).`
+    : 'No bundled text files found.'
+}
 
 function renderResults(result, topN) {
   const aggregateRows = result.aggregate.slice(0, topN)
