@@ -1,0 +1,286 @@
+{
+  "input_dir": "output/playwright/fund-letters/latest-quarter-content/text",
+  "files_processed": 3,
+  "aggregate": [
+    {
+      "asset": "LMB",
+      "score": 3,
+      "mentions": 3,
+      "examples": [
+        "(IWG), Limbach Holdings (LMB), Radiant Logistics (RLGT) and our ski/wake b asket (MCFT and MBUU) ,",
+        "Round Three: Limbach Holdings (LMB)",
+        "Limbach Holdings (LMB) was the Fund\u2019s top contributor in 2020 and 2023 and has been our most lucrative"
+      ]
+    },
+    {
+      "asset": "RLGT",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "(IWG), Limbach Holdings (LMB), Radiant Logistics (RLGT) and our ski/wake b asket (MCFT and MBUU) ,"
+      ]
+    },
+    {
+      "asset": "IWG",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "(IWG), Limbach Holdings (LMB), Radiant Logistics (RLGT) and our ski/wake b asket (MCFT and MBUU) ,"
+      ]
+    },
+    {
+      "asset": "ODR",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "contractors (GCR) to owner-direct relationships (ODR)."
+      ]
+    },
+    {
+      "asset": "GCR",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "contractors (GCR) to owner-direct relationships (ODR)."
+      ]
+    },
+    {
+      "asset": "NYC",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "\u2022 Santangel\u2019s Roundtable (NYC)"
+      ]
+    },
+    {
+      "asset": "SPXT",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "The S&P 500 Total Return Index (SPXT)"
+      ]
+    },
+    {
+      "asset": "LQDA",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "Liquidia Corporation (LQDA)"
+      ]
+    },
+    {
+      "asset": "UTC",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "involving the \u2018793 patent owned by competitor, United Therapeutics (UTC)."
+      ]
+    },
+    {
+      "asset": "PTAB",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "and Appeals Board (PTAB) then found that the \u2018793 patent was invalid."
+      ]
+    },
+    {
+      "asset": "AUM",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "Assets Under Management (AUM) were at $3.4 billion and the annual EBITDA run rate was"
+      ]
+    },
+    {
+      "asset": "FNCH",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "Finch Therapeutics (FNCH)"
+      ]
+    },
+    {
+      "asset": "ENVA",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "In Q4 2025, the two biggest contributors to performance were Enova (NYSE:ENVA) and Georgia"
+      ]
+    },
+    {
+      "asset": "WCC",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "to Wesco International (NYSE:WCC), Bel Fuse Inc (Nasdaq:BELFB), and Ishihara Sangyo Kaisha"
+      ]
+    },
+    {
+      "asset": "BELFB",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "to Wesco International (NYSE:WCC), Bel Fuse Inc (Nasdaq:BELFB), and Ishihara Sangyo Kaisha"
+      ]
+    },
+    {
+      "asset": "NAV",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "The net asset value (NAV) of their portfolio companies rapidly increased"
+      ]
+    },
+    {
+      "asset": "GEL",
+      "score": 1,
+      "mentions": 1,
+      "examples": [
+        "Additionally, the Georgian Lari (GEL) gained against the USD by 4.36% in"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "001-1-main-capital.txt",
+      "top": [
+        {
+          "asset": "LMB",
+          "score": 3,
+          "mentions": 3,
+          "examples": [
+            "(IWG), Limbach Holdings (LMB), Radiant Logistics (RLGT) and our ski/wake b asket (MCFT and MBUU) ,",
+            "Round Three: Limbach Holdings (LMB)",
+            "Limbach Holdings (LMB) was the Fund\u2019s top contributor in 2020 and 2023 and has been our most lucrative"
+          ]
+        },
+        {
+          "asset": "RLGT",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "(IWG), Limbach Holdings (LMB), Radiant Logistics (RLGT) and our ski/wake b asket (MCFT and MBUU) ,"
+          ]
+        },
+        {
+          "asset": "IWG",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "(IWG), Limbach Holdings (LMB), Radiant Logistics (RLGT) and our ski/wake b asket (MCFT and MBUU) ,"
+          ]
+        },
+        {
+          "asset": "ODR",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "contractors (GCR) to owner-direct relationships (ODR)."
+          ]
+        },
+        {
+          "asset": "GCR",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "contractors (GCR) to owner-direct relationships (ODR)."
+          ]
+        }
+      ],
+      "mention_count": 9
+    },
+    {
+      "file": "002-arquitos-capital.txt",
+      "top": [
+        {
+          "asset": "LQDA",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "Liquidia Corporation (LQDA)"
+          ]
+        },
+        {
+          "asset": "UTC",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "involving the \u2018793 patent owned by competitor, United Therapeutics (UTC)."
+          ]
+        },
+        {
+          "asset": "PTAB",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "and Appeals Board (PTAB) then found that the \u2018793 patent was invalid."
+          ]
+        },
+        {
+          "asset": "AUM",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "Assets Under Management (AUM) were at $3.4 billion and the annual EBITDA run rate was"
+          ]
+        },
+        {
+          "asset": "FNCH",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "Finch Therapeutics (FNCH)"
+          ]
+        }
+      ],
+      "mention_count": 5
+    },
+    {
+      "file": "003-blue-tower-asset-management.txt",
+      "top": [
+        {
+          "asset": "ENVA",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "In Q4 2025, the two biggest contributors to performance were Enova (NYSE:ENVA) and Georgia"
+          ]
+        },
+        {
+          "asset": "WCC",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "to Wesco International (NYSE:WCC), Bel Fuse Inc (Nasdaq:BELFB), and Ishihara Sangyo Kaisha"
+          ]
+        },
+        {
+          "asset": "BELFB",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "to Wesco International (NYSE:WCC), Bel Fuse Inc (Nasdaq:BELFB), and Ishihara Sangyo Kaisha"
+          ]
+        },
+        {
+          "asset": "NAV",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "The net asset value (NAV) of their portfolio companies rapidly increased"
+          ]
+        },
+        {
+          "asset": "GEL",
+          "score": 1,
+          "mentions": 1,
+          "examples": [
+            "Additionally, the Georgian Lari (GEL) gained against the USD by 4.36% in"
+          ]
+        }
+      ],
+      "mention_count": 5
+    }
+  ]
+}
