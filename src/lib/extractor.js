@@ -28,6 +28,12 @@ function scoreSentence(sentence) {
   return score
 }
 
+function convictionLabel(score) {
+  if (score >= 5) return 'High'
+  if (score >= 3) return 'Medium'
+  return 'Low'
+}
+
 function extractAssets(sentence) {
   const assets = new Set()
 
@@ -56,18 +62,32 @@ function rankMentions(mentions) {
       asset: mention.asset,
       score: 0,
       mentions: 0,
-      examples: []
+      examples: [],
+      sources: new Set()
     }
     existing.score += mention.score
     existing.mentions += 1
-    if (existing.examples.length < 3) existing.examples.push(mention.sentence)
+    if (mention.source) existing.sources.add(mention.source)
+    if (existing.examples.length < 3) {
+      existing.examples.push({
+        text: mention.sentence,
+        score: mention.score,
+        source: mention.source || ''
+      })
+    }
     aggregate.set(mention.asset, existing)
   }
 
-  return [...aggregate.values()].sort((a, b) => (b.score - a.score) || (b.mentions - a.mentions))
+  return [...aggregate.values()]
+    .map((entry) => ({
+      ...entry,
+      sources: [...entry.sources],
+      conviction: convictionLabel(entry.score / entry.mentions)
+    }))
+    .sort((a, b) => (b.score - a.score) || (b.mentions - a.mentions))
 }
 
-function extractMentions(text) {
+function extractMentions(text, source) {
   const mentions = []
   for (const raw of text.split(SENTENCE_SPLIT)) {
     const sentence = raw.trim()
@@ -76,7 +96,7 @@ function extractMentions(text) {
     if (!assets.length) continue
     const baseScore = scoreSentence(sentence)
     for (const asset of assets) {
-      mentions.push({ asset, score: baseScore, sentence })
+      mentions.push({ asset, score: baseScore, sentence, source })
     }
   }
   return mentions
@@ -87,10 +107,12 @@ export function runExtraction(files, topN = 5) {
   const allMentions = []
 
   for (const file of files) {
-    const mentions = extractMentions(file.text)
+    const fundName = file.name.replace(/\.txt$/i, '').replace(/[-_]+/g, ' ')
+    const mentions = extractMentions(file.text, fundName)
     allMentions.push(...mentions)
     perFile.push({
       file: file.name,
+      fundName,
       top: rankMentions(mentions).slice(0, topN),
       mentionCount: mentions.length
     })
@@ -106,20 +128,21 @@ export function runExtraction(files, topN = 5) {
 export function asMarkdown(result, topN = 5) {
   const lines = ['# Fund Letter Top Stock/ETF Recommendations', '']
   lines.push('## Aggregate Top Ideas', '')
-  lines.push('| Rank | Asset | Score | Mentions |')
-  lines.push('|---:|---|---:|---:|')
+  lines.push('| Rank | Asset | Conviction | Score | Mentions | Sources |')
+  lines.push('|---:|---|---|---:|---:|---|')
   result.aggregate.slice(0, topN).forEach((row, i) => {
-    lines.push(`| ${i + 1} | ${row.asset} | ${row.score} | ${row.mentions} |`)
+    lines.push(`| ${i + 1} | ${row.asset} | ${row.conviction} | ${row.score} | ${row.mentions} | ${row.sources.join(', ')} |`)
   })
 
-  for (const fileResult of result.files) {
-    lines.push('', `## ${fileResult.file}`, '')
-    lines.push('| Rank | Asset | Score | Mentions |')
-    lines.push('|---:|---|---:|---:|')
-    fileResult.top.slice(0, topN).forEach((row, i) => {
-      lines.push(`| ${i + 1} | ${row.asset} | ${row.score} | ${row.mentions} |`)
+  lines.push('')
+  lines.push('## Key Rationale Excerpts', '')
+  result.aggregate.slice(0, topN).forEach((row) => {
+    lines.push(`### ${row.asset}`)
+    row.examples.forEach((ex) => {
+      lines.push(`- _"${ex.text}"_ — ${ex.source}`)
     })
-  }
+    lines.push('')
+  })
 
   lines.push('', '_Heuristic extraction only; verify against source letters._')
   return lines.join('\n')

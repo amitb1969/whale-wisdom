@@ -1,60 +1,302 @@
 :root {
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   color: #0f172a;
-  background: #f8fafc;
+  background: #f1f5f9;
+  line-height: 1.5;
 }
 
 * { box-sizing: border-box; }
 body { margin: 0; }
 
-.container {
-  max-width: 960px;
+/* Dashboard layout */
+.dashboard {
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 24px;
+  padding: 24px 20px;
 }
 
-h1 { margin-bottom: 8px; }
-.sub { margin-top: 0; color: #475569; }
+.dash-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 8px;
+}
 
-.panel {
+.dash-header h1 {
+  margin: 0;
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.sub { margin: 4px 0 0; color: #64748b; font-size: 0.95rem; }
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.controls label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #475569;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.controls input[type='number'] {
+  width: 52px;
+  padding: 4px 6px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+/* Buttons */
+button {
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  background: #0f172a;
+  color: white;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: background 0.15s;
+}
+
+button:hover { background: #1e293b; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.btn-secondary {
+  background: white;
+  color: #334155;
+  border: 1px solid #cbd5e1;
+}
+.btn-secondary:hover { background: #f8fafc; }
+
+/* Status */
+.status-bar {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin: 8px 0 16px;
+  padding: 0;
+}
+
+/* Stats row */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.stat-card {
   background: white;
   border: 1px solid #e2e8f0;
   border-radius: 10px;
   padding: 16px;
-  margin: 16px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-label { display: block; margin-bottom: 10px; font-weight: 600; }
-input[type='file'], input[type='number'] { display: block; margin-top: 8px; }
+.stat-value {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #0f172a;
+  line-height: 1;
+}
 
-.actions { display: flex; gap: 12px; margin-top: 12px; }
-button {
-  border: 1px solid #cbd5e1;
-  border-radius: 8px;
-  padding: 8px 12px;
-  background: #0f172a;
-  color: white;
+.stat-label {
+  font-size: 0.8rem;
+  color: #64748b;
+  margin-top: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+
+/* Idea cards grid */
+.ideas-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.idea-card {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 18px 20px;
+  transition: box-shadow 0.15s;
+}
+
+.idea-card:hover {
+  box-shadow: 0 2px 12px rgba(15, 23, 42, 0.08);
+}
+
+.idea-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.idea-rank {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #94a3b8;
+  min-width: 28px;
+}
+
+.idea-asset {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #0f172a;
+  letter-spacing: 0.02em;
+}
+
+/* Conviction badges */
+.badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-high { background: #dcfce7; color: #166534; }
+.badge-med  { background: #fef9c3; color: #854d0e; }
+.badge-low  { background: #f1f5f9; color: #64748b; }
+
+.idea-meta {
+  display: flex;
+  gap: 16px;
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-bottom: 8px;
+}
+
+.idea-meta strong { color: #334155; }
+
+/* Source tags */
+.idea-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.source-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  background: #eff6ff;
+  color: #1e40af;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+/* Rationale quotes */
+.idea-rationale h4 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #94a3b8;
+  margin: 6px 0 8px;
+  font-weight: 700;
+}
+
+.rationale-quote {
+  margin: 0 0 8px 0;
+  padding: 10px 14px;
+  background: #f8fafc;
+  border-left: 3px solid #cbd5e1;
+  border-radius: 0 8px 8px 0;
+}
+
+.rationale-quote p {
+  margin: 0;
+  font-size: 0.88rem;
+  color: #334155;
+  line-height: 1.55;
+}
+
+.rationale-quote cite {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.75rem;
+  color: #94a3b8;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.muted { color: #94a3b8; font-size: 0.85rem; }
+
+/* Per-fund breakdown */
+.fund-details {
+  background: white;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  margin-top: 8px;
+}
+
+.fund-details summary {
+  padding: 14px 20px;
   cursor: pointer;
-}
-button:disabled { opacity: 0.6; cursor: not-allowed; }
-
-.small { font-size: 0.9rem; color: #475569; }
-
-pre {
-  white-space: pre-wrap;
-  background: #f1f5f9;
-  border-radius: 8px;
-  padding: 12px;
-  overflow: auto;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #475569;
 }
 
+.fund-section {
+  padding: 0 20px 16px;
+}
+
+.fund-section h3 {
+  font-size: 0.95rem;
+  margin: 12px 0 8px;
+  color: #334155;
+}
+
+/* Tables (per-fund view) */
 table {
   width: 100%;
   border-collapse: collapse;
+  font-size: 0.85rem;
 }
 
 th, td {
-  border-bottom: 1px solid #e2e8f0;
+  border-bottom: 1px solid #f1f5f9;
   text-align: left;
-  padding: 8px;
+  padding: 8px 10px;
+}
+
+th {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #94a3b8;
+  font-weight: 700;
+}
+
+.rationale-cell {
+  max-width: 320px;
+  color: #64748b;
+  font-size: 0.82rem;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .dash-header { flex-direction: column; align-items: flex-start; }
+  .stats-row { grid-template-columns: 1fr; }
+  .controls { flex-wrap: wrap; }
 }
