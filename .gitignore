@@ -4,3 +4,8 @@ __pycache__/
 .playwright-cli/
 node_modules/
 dist/
+
+# Digest output (generated at runtime, may contain large LLM responses)
+output/playwright/fund-letters/latest-quarter-content/digest/cache/
+output/playwright/fund-letters/latest-quarter-content/digest/fund-letters-digest.html
+output/playwright/fund-letters/latest-quarter-content/digest/fund-letters-digest.json
