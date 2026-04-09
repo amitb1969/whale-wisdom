@@ -5,7 +5,10 @@ const app = document.querySelector('#root')
 
 app.innerHTML = `
   <main class="container">
-    <h1>Fund Letter Top Recommendations</h1>
+    <div style="display:flex;align-items:center;justify-content:space-between">
+      <h1>Fund Letter Top Recommendations</h1>
+      <a href="/digest.html" style="font-size:0.9rem;color:#475569;text-decoration:none">Cannibal Strategy Digest &rarr;</a>
+    </div>
     <p class="sub">Extract top stock/ETF recommendations from latest-quarter fund letter text files.</p>
 
     <section class="panel">
